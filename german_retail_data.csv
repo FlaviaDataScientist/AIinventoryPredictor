@@ -1,0 +1,2925 @@
+date,product_id,product_name,sales_quantity,is_promotion,is_holiday,weekday,price_euro
+2024-01-01,101,Bratwurst,44,0,1,Monday,4.99
+2024-01-01,102,Glühwein,2,0,1,Monday,8.5
+2024-01-01,103,Pretzel,123,0,1,Monday,1.2
+2024-01-01,104,German Beer (6-pack),88,0,1,Monday,12.99
+2024-01-02,101,Bratwurst,47,0,0,Tuesday,4.99
+2024-01-02,102,Glühwein,2,0,0,Tuesday,8.5
+2024-01-02,103,Pretzel,114,0,0,Tuesday,1.2
+2024-01-02,104,German Beer (6-pack),76,0,0,Tuesday,12.99
+2024-01-03,101,Bratwurst,36,0,0,Wednesday,4.99
+2024-01-03,102,Glühwein,2,0,0,Wednesday,8.5
+2024-01-03,103,Pretzel,129,0,0,Wednesday,1.2
+2024-01-03,104,German Beer (6-pack),67,0,0,Wednesday,12.99
+2024-01-04,101,Bratwurst,45,0,0,Thursday,4.99
+2024-01-04,102,Glühwein,1,0,0,Thursday,8.5
+2024-01-04,103,Pretzel,137,0,0,Thursday,1.2
+2024-01-04,104,German Beer (6-pack),78,0,0,Thursday,12.99
+2024-01-05,101,Bratwurst,94,0,0,Friday,4.99
+2024-01-05,102,Glühwein,3,0,0,Friday,8.5
+2024-01-05,103,Pretzel,182,0,0,Friday,1.2
+2024-01-05,104,German Beer (6-pack),113,0,0,Friday,12.99
+2024-01-06,101,Bratwurst,70,0,0,Saturday,4.99
+2024-01-06,102,Glühwein,2,0,0,Saturday,8.5
+2024-01-06,103,Pretzel,169,0,0,Saturday,1.2
+2024-01-06,104,German Beer (6-pack),142,0,0,Saturday,12.99
+2024-01-07,101,Bratwurst,0,0,0,Sunday,4.99
+2024-01-07,102,Glühwein,0,0,0,Sunday,8.5
+2024-01-07,103,Pretzel,0,0,0,Sunday,1.2
+2024-01-07,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-01-08,101,Bratwurst,54,0,0,Monday,4.99
+2024-01-08,102,Glühwein,1,0,0,Monday,8.5
+2024-01-08,103,Pretzel,122,0,0,Monday,1.2
+2024-01-08,104,German Beer (6-pack),64,0,0,Monday,12.99
+2024-01-09,101,Bratwurst,51,0,0,Tuesday,4.99
+2024-01-09,102,Glühwein,2,0,0,Tuesday,8.5
+2024-01-09,103,Pretzel,107,0,0,Tuesday,1.2
+2024-01-09,104,German Beer (6-pack),67,0,0,Tuesday,12.99
+2024-01-10,101,Bratwurst,47,0,0,Wednesday,4.99
+2024-01-10,102,Glühwein,2,0,0,Wednesday,8.5
+2024-01-10,103,Pretzel,124,0,0,Wednesday,1.2
+2024-01-10,104,German Beer (6-pack),65,0,0,Wednesday,12.99
+2024-01-11,101,Bratwurst,52,0,0,Thursday,4.99
+2024-01-11,102,Glühwein,2,0,0,Thursday,8.5
+2024-01-11,103,Pretzel,130,0,0,Thursday,1.2
+2024-01-11,104,German Beer (6-pack),86,0,0,Thursday,12.99
+2024-01-12,101,Bratwurst,68,0,0,Friday,4.99
+2024-01-12,102,Glühwein,2,0,0,Friday,8.5
+2024-01-12,103,Pretzel,185,0,0,Friday,1.2
+2024-01-12,104,German Beer (6-pack),131,0,0,Friday,12.99
+2024-01-13,101,Bratwurst,73,0,0,Saturday,4.99
+2024-01-13,102,Glühwein,2,0,0,Saturday,8.5
+2024-01-13,103,Pretzel,201,0,0,Saturday,1.2
+2024-01-13,104,German Beer (6-pack),109,0,0,Saturday,12.99
+2024-01-14,101,Bratwurst,0,0,0,Sunday,4.99
+2024-01-14,102,Glühwein,0,0,0,Sunday,8.5
+2024-01-14,103,Pretzel,0,0,0,Sunday,1.2
+2024-01-14,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-01-15,101,Bratwurst,44,0,0,Monday,4.99
+2024-01-15,102,Glühwein,1,0,0,Monday,8.5
+2024-01-15,103,Pretzel,131,0,0,Monday,1.2
+2024-01-15,104,German Beer (6-pack),86,0,0,Monday,12.99
+2024-01-16,101,Bratwurst,49,0,0,Tuesday,4.99
+2024-01-16,102,Glühwein,2,0,0,Tuesday,8.5
+2024-01-16,103,Pretzel,88,0,0,Tuesday,1.2
+2024-01-16,104,German Beer (6-pack),86,0,0,Tuesday,12.99
+2024-01-17,101,Bratwurst,60,1,0,Wednesday,4.99
+2024-01-17,102,Glühwein,3,1,0,Wednesday,8.5
+2024-01-17,103,Pretzel,183,1,0,Wednesday,1.2
+2024-01-17,104,German Beer (6-pack),112,1,0,Wednesday,12.99
+2024-01-18,101,Bratwurst,57,0,0,Thursday,4.99
+2024-01-18,102,Glühwein,1,0,0,Thursday,8.5
+2024-01-18,103,Pretzel,110,0,0,Thursday,1.2
+2024-01-18,104,German Beer (6-pack),75,0,0,Thursday,12.99
+2024-01-19,101,Bratwurst,78,0,0,Friday,4.99
+2024-01-19,102,Glühwein,3,0,0,Friday,8.5
+2024-01-19,103,Pretzel,184,0,0,Friday,1.2
+2024-01-19,104,German Beer (6-pack),123,0,0,Friday,12.99
+2024-01-20,101,Bratwurst,75,0,0,Saturday,4.99
+2024-01-20,102,Glühwein,3,0,0,Saturday,8.5
+2024-01-20,103,Pretzel,167,0,0,Saturday,1.2
+2024-01-20,104,German Beer (6-pack),116,0,0,Saturday,12.99
+2024-01-21,101,Bratwurst,0,0,0,Sunday,4.99
+2024-01-21,102,Glühwein,0,0,0,Sunday,8.5
+2024-01-21,103,Pretzel,0,0,0,Sunday,1.2
+2024-01-21,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-01-22,101,Bratwurst,51,0,0,Monday,4.99
+2024-01-22,102,Glühwein,2,0,0,Monday,8.5
+2024-01-22,103,Pretzel,120,0,0,Monday,1.2
+2024-01-22,104,German Beer (6-pack),78,0,0,Monday,12.99
+2024-01-23,101,Bratwurst,48,0,0,Tuesday,4.99
+2024-01-23,102,Glühwein,1,0,0,Tuesday,8.5
+2024-01-23,103,Pretzel,125,0,0,Tuesday,1.2
+2024-01-23,104,German Beer (6-pack),78,0,0,Tuesday,12.99
+2024-01-24,101,Bratwurst,59,0,0,Wednesday,4.99
+2024-01-24,102,Glühwein,2,0,0,Wednesday,8.5
+2024-01-24,103,Pretzel,123,0,0,Wednesday,1.2
+2024-01-24,104,German Beer (6-pack),79,0,0,Wednesday,12.99
+2024-01-25,101,Bratwurst,49,0,0,Thursday,4.99
+2024-01-25,102,Glühwein,1,0,0,Thursday,8.5
+2024-01-25,103,Pretzel,107,0,0,Thursday,1.2
+2024-01-25,104,German Beer (6-pack),72,0,0,Thursday,12.99
+2024-01-26,101,Bratwurst,105,1,0,Friday,4.99
+2024-01-26,102,Glühwein,5,1,0,Friday,8.5
+2024-01-26,103,Pretzel,247,1,0,Friday,1.2
+2024-01-26,104,German Beer (6-pack),173,1,0,Friday,12.99
+2024-01-27,101,Bratwurst,77,0,0,Saturday,4.99
+2024-01-27,102,Glühwein,2,0,0,Saturday,8.5
+2024-01-27,103,Pretzel,193,0,0,Saturday,1.2
+2024-01-27,104,German Beer (6-pack),106,0,0,Saturday,12.99
+2024-01-28,101,Bratwurst,0,0,0,Sunday,4.99
+2024-01-28,102,Glühwein,0,0,0,Sunday,8.5
+2024-01-28,103,Pretzel,0,0,0,Sunday,1.2
+2024-01-28,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-01-29,101,Bratwurst,45,0,0,Monday,4.99
+2024-01-29,102,Glühwein,2,0,0,Monday,8.5
+2024-01-29,103,Pretzel,136,0,0,Monday,1.2
+2024-01-29,104,German Beer (6-pack),91,0,0,Monday,12.99
+2024-01-30,101,Bratwurst,45,0,0,Tuesday,4.99
+2024-01-30,102,Glühwein,1,0,0,Tuesday,8.5
+2024-01-30,103,Pretzel,121,0,0,Tuesday,1.2
+2024-01-30,104,German Beer (6-pack),75,0,0,Tuesday,12.99
+2024-01-31,101,Bratwurst,50,0,0,Wednesday,4.99
+2024-01-31,102,Glühwein,1,0,0,Wednesday,8.5
+2024-01-31,103,Pretzel,127,0,0,Wednesday,1.2
+2024-01-31,104,German Beer (6-pack),70,0,0,Wednesday,12.99
+2024-02-01,101,Bratwurst,45,0,0,Thursday,4.99
+2024-02-01,102,Glühwein,2,0,0,Thursday,8.5
+2024-02-01,103,Pretzel,110,0,0,Thursday,1.2
+2024-02-01,104,German Beer (6-pack),77,0,0,Thursday,12.99
+2024-02-02,101,Bratwurst,72,0,0,Friday,4.99
+2024-02-02,102,Glühwein,3,0,0,Friday,8.5
+2024-02-02,103,Pretzel,198,0,0,Friday,1.2
+2024-02-02,104,German Beer (6-pack),126,0,0,Friday,12.99
+2024-02-03,101,Bratwurst,62,0,0,Saturday,4.99
+2024-02-03,102,Glühwein,3,0,0,Saturday,8.5
+2024-02-03,103,Pretzel,184,0,0,Saturday,1.2
+2024-02-03,104,German Beer (6-pack),129,0,0,Saturday,12.99
+2024-02-04,101,Bratwurst,0,0,0,Sunday,4.99
+2024-02-04,102,Glühwein,0,0,0,Sunday,8.5
+2024-02-04,103,Pretzel,0,0,0,Sunday,1.2
+2024-02-04,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-02-05,101,Bratwurst,52,0,0,Monday,4.99
+2024-02-05,102,Glühwein,2,0,0,Monday,8.5
+2024-02-05,103,Pretzel,123,0,0,Monday,1.2
+2024-02-05,104,German Beer (6-pack),82,0,0,Monday,12.99
+2024-02-06,101,Bratwurst,51,0,0,Tuesday,4.99
+2024-02-06,102,Glühwein,2,0,0,Tuesday,8.5
+2024-02-06,103,Pretzel,122,0,0,Tuesday,1.2
+2024-02-06,104,German Beer (6-pack),70,0,0,Tuesday,12.99
+2024-02-07,101,Bratwurst,44,0,0,Wednesday,4.99
+2024-02-07,102,Glühwein,2,0,0,Wednesday,8.5
+2024-02-07,103,Pretzel,108,0,0,Wednesday,1.2
+2024-02-07,104,German Beer (6-pack),86,0,0,Wednesday,12.99
+2024-02-08,101,Bratwurst,53,0,0,Thursday,4.99
+2024-02-08,102,Glühwein,2,0,0,Thursday,8.5
+2024-02-08,103,Pretzel,125,0,0,Thursday,1.2
+2024-02-08,104,German Beer (6-pack),87,0,0,Thursday,12.99
+2024-02-09,101,Bratwurst,73,0,0,Friday,4.99
+2024-02-09,102,Glühwein,2,0,0,Friday,8.5
+2024-02-09,103,Pretzel,163,0,0,Friday,1.2
+2024-02-09,104,German Beer (6-pack),110,0,0,Friday,12.99
+2024-02-10,101,Bratwurst,81,0,0,Saturday,4.99
+2024-02-10,102,Glühwein,2,0,0,Saturday,8.5
+2024-02-10,103,Pretzel,201,0,0,Saturday,1.2
+2024-02-10,104,German Beer (6-pack),126,0,0,Saturday,12.99
+2024-02-11,101,Bratwurst,0,0,0,Sunday,4.99
+2024-02-11,102,Glühwein,0,0,0,Sunday,8.5
+2024-02-11,103,Pretzel,0,0,0,Sunday,1.2
+2024-02-11,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-02-12,101,Bratwurst,42,0,0,Monday,4.99
+2024-02-12,102,Glühwein,1,0,0,Monday,8.5
+2024-02-12,103,Pretzel,108,0,0,Monday,1.2
+2024-02-12,104,German Beer (6-pack),87,0,0,Monday,12.99
+2024-02-13,101,Bratwurst,62,1,0,Tuesday,4.99
+2024-02-13,102,Glühwein,2,1,0,Tuesday,8.5
+2024-02-13,103,Pretzel,164,1,0,Tuesday,1.2
+2024-02-13,104,German Beer (6-pack),119,1,0,Tuesday,12.99
+2024-02-14,101,Bratwurst,69,1,0,Wednesday,4.99
+2024-02-14,102,Glühwein,3,1,0,Wednesday,8.5
+2024-02-14,103,Pretzel,160,1,0,Wednesday,1.2
+2024-02-14,104,German Beer (6-pack),120,1,0,Wednesday,12.99
+2024-02-15,101,Bratwurst,47,0,0,Thursday,4.99
+2024-02-15,102,Glühwein,2,0,0,Thursday,8.5
+2024-02-15,103,Pretzel,122,0,0,Thursday,1.2
+2024-02-15,104,German Beer (6-pack),70,0,0,Thursday,12.99
+2024-02-16,101,Bratwurst,79,0,0,Friday,4.99
+2024-02-16,102,Glühwein,3,0,0,Friday,8.5
+2024-02-16,103,Pretzel,184,0,0,Friday,1.2
+2024-02-16,104,German Beer (6-pack),110,0,0,Friday,12.99
+2024-02-17,101,Bratwurst,75,0,0,Saturday,4.99
+2024-02-17,102,Glühwein,2,0,0,Saturday,8.5
+2024-02-17,103,Pretzel,186,0,0,Saturday,1.2
+2024-02-17,104,German Beer (6-pack),126,0,0,Saturday,12.99
+2024-02-18,101,Bratwurst,0,0,0,Sunday,4.99
+2024-02-18,102,Glühwein,0,0,0,Sunday,8.5
+2024-02-18,103,Pretzel,0,0,0,Sunday,1.2
+2024-02-18,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-02-19,101,Bratwurst,43,0,0,Monday,4.99
+2024-02-19,102,Glühwein,1,0,0,Monday,8.5
+2024-02-19,103,Pretzel,126,0,0,Monday,1.2
+2024-02-19,104,German Beer (6-pack),84,0,0,Monday,12.99
+2024-02-20,101,Bratwurst,50,0,0,Tuesday,4.99
+2024-02-20,102,Glühwein,2,0,0,Tuesday,8.5
+2024-02-20,103,Pretzel,137,0,0,Tuesday,1.2
+2024-02-20,104,German Beer (6-pack),80,0,0,Tuesday,12.99
+2024-02-21,101,Bratwurst,54,0,0,Wednesday,4.99
+2024-02-21,102,Glühwein,2,0,0,Wednesday,8.5
+2024-02-21,103,Pretzel,116,0,0,Wednesday,1.2
+2024-02-21,104,German Beer (6-pack),86,0,0,Wednesday,12.99
+2024-02-22,101,Bratwurst,50,0,0,Thursday,4.99
+2024-02-22,102,Glühwein,1,0,0,Thursday,8.5
+2024-02-22,103,Pretzel,119,0,0,Thursday,1.2
+2024-02-22,104,German Beer (6-pack),75,0,0,Thursday,12.99
+2024-02-23,101,Bratwurst,80,0,0,Friday,4.99
+2024-02-23,102,Glühwein,2,0,0,Friday,8.5
+2024-02-23,103,Pretzel,171,0,0,Friday,1.2
+2024-02-23,104,German Beer (6-pack),133,0,0,Friday,12.99
+2024-02-24,101,Bratwurst,86,0,0,Saturday,4.99
+2024-02-24,102,Glühwein,3,0,0,Saturday,8.5
+2024-02-24,103,Pretzel,189,0,0,Saturday,1.2
+2024-02-24,104,German Beer (6-pack),104,0,0,Saturday,12.99
+2024-02-25,101,Bratwurst,0,0,0,Sunday,4.99
+2024-02-25,102,Glühwein,0,0,0,Sunday,8.5
+2024-02-25,103,Pretzel,0,0,0,Sunday,1.2
+2024-02-25,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-02-26,101,Bratwurst,61,0,0,Monday,4.99
+2024-02-26,102,Glühwein,2,0,0,Monday,8.5
+2024-02-26,103,Pretzel,136,0,0,Monday,1.2
+2024-02-26,104,German Beer (6-pack),86,0,0,Monday,12.99
+2024-02-27,101,Bratwurst,39,0,0,Tuesday,4.99
+2024-02-27,102,Glühwein,2,0,0,Tuesday,8.5
+2024-02-27,103,Pretzel,112,0,0,Tuesday,1.2
+2024-02-27,104,German Beer (6-pack),86,0,0,Tuesday,12.99
+2024-02-28,101,Bratwurst,46,0,0,Wednesday,4.99
+2024-02-28,102,Glühwein,2,0,0,Wednesday,8.5
+2024-02-28,103,Pretzel,115,0,0,Wednesday,1.2
+2024-02-28,104,German Beer (6-pack),77,0,0,Wednesday,12.99
+2024-02-29,101,Bratwurst,58,0,0,Thursday,4.99
+2024-02-29,102,Glühwein,2,0,0,Thursday,8.5
+2024-02-29,103,Pretzel,104,0,0,Thursday,1.2
+2024-02-29,104,German Beer (6-pack),87,0,0,Thursday,12.99
+2024-03-01,101,Bratwurst,77,0,0,Friday,4.99
+2024-03-01,102,Glühwein,3,0,0,Friday,8.5
+2024-03-01,103,Pretzel,156,0,0,Friday,1.2
+2024-03-01,104,German Beer (6-pack),142,0,0,Friday,12.99
+2024-03-02,101,Bratwurst,84,0,0,Saturday,4.99
+2024-03-02,102,Glühwein,2,0,0,Saturday,8.5
+2024-03-02,103,Pretzel,187,0,0,Saturday,1.2
+2024-03-02,104,German Beer (6-pack),129,0,0,Saturday,12.99
+2024-03-03,101,Bratwurst,0,0,0,Sunday,4.99
+2024-03-03,102,Glühwein,0,0,0,Sunday,8.5
+2024-03-03,103,Pretzel,0,0,0,Sunday,1.2
+2024-03-03,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-03-04,101,Bratwurst,33,0,0,Monday,4.99
+2024-03-04,102,Glühwein,1,0,0,Monday,8.5
+2024-03-04,103,Pretzel,116,0,0,Monday,1.2
+2024-03-04,104,German Beer (6-pack),70,0,0,Monday,12.99
+2024-03-05,101,Bratwurst,57,0,0,Tuesday,4.99
+2024-03-05,102,Glühwein,2,0,0,Tuesday,8.5
+2024-03-05,103,Pretzel,118,0,0,Tuesday,1.2
+2024-03-05,104,German Beer (6-pack),76,0,0,Tuesday,12.99
+2024-03-06,101,Bratwurst,55,0,0,Wednesday,4.99
+2024-03-06,102,Glühwein,2,0,0,Wednesday,8.5
+2024-03-06,103,Pretzel,108,0,0,Wednesday,1.2
+2024-03-06,104,German Beer (6-pack),83,0,0,Wednesday,12.99
+2024-03-07,101,Bratwurst,48,0,0,Thursday,4.99
+2024-03-07,102,Glühwein,2,0,0,Thursday,8.5
+2024-03-07,103,Pretzel,127,0,0,Thursday,1.2
+2024-03-07,104,German Beer (6-pack),81,0,0,Thursday,12.99
+2024-03-08,101,Bratwurst,86,0,0,Friday,4.99
+2024-03-08,102,Glühwein,2,0,0,Friday,8.5
+2024-03-08,103,Pretzel,218,0,0,Friday,1.2
+2024-03-08,104,German Beer (6-pack),96,0,0,Friday,12.99
+2024-03-09,101,Bratwurst,78,0,0,Saturday,4.99
+2024-03-09,102,Glühwein,2,0,0,Saturday,8.5
+2024-03-09,103,Pretzel,171,0,0,Saturday,1.2
+2024-03-09,104,German Beer (6-pack),122,0,0,Saturday,12.99
+2024-03-10,101,Bratwurst,0,0,0,Sunday,4.99
+2024-03-10,102,Glühwein,0,0,0,Sunday,8.5
+2024-03-10,103,Pretzel,0,0,0,Sunday,1.2
+2024-03-10,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-03-11,101,Bratwurst,46,0,0,Monday,4.99
+2024-03-11,102,Glühwein,1,0,0,Monday,8.5
+2024-03-11,103,Pretzel,131,0,0,Monday,1.2
+2024-03-11,104,German Beer (6-pack),91,0,0,Monday,12.99
+2024-03-12,101,Bratwurst,54,0,0,Tuesday,4.99
+2024-03-12,102,Glühwein,2,0,0,Tuesday,8.5
+2024-03-12,103,Pretzel,110,0,0,Tuesday,1.2
+2024-03-12,104,German Beer (6-pack),75,0,0,Tuesday,12.99
+2024-03-13,101,Bratwurst,41,0,0,Wednesday,4.99
+2024-03-13,102,Glühwein,1,0,0,Wednesday,8.5
+2024-03-13,103,Pretzel,111,0,0,Wednesday,1.2
+2024-03-13,104,German Beer (6-pack),89,0,0,Wednesday,12.99
+2024-03-14,101,Bratwurst,48,0,0,Thursday,4.99
+2024-03-14,102,Glühwein,2,0,0,Thursday,8.5
+2024-03-14,103,Pretzel,129,0,0,Thursday,1.2
+2024-03-14,104,German Beer (6-pack),86,0,0,Thursday,12.99
+2024-03-15,101,Bratwurst,75,0,0,Friday,4.99
+2024-03-15,102,Glühwein,3,0,0,Friday,8.5
+2024-03-15,103,Pretzel,170,0,0,Friday,1.2
+2024-03-15,104,German Beer (6-pack),131,0,0,Friday,12.99
+2024-03-16,101,Bratwurst,77,0,0,Saturday,4.99
+2024-03-16,102,Glühwein,2,0,0,Saturday,8.5
+2024-03-16,103,Pretzel,181,0,0,Saturday,1.2
+2024-03-16,104,German Beer (6-pack),127,0,0,Saturday,12.99
+2024-03-17,101,Bratwurst,0,0,0,Sunday,4.99
+2024-03-17,102,Glühwein,0,0,0,Sunday,8.5
+2024-03-17,103,Pretzel,0,0,0,Sunday,1.2
+2024-03-17,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-03-18,101,Bratwurst,44,0,0,Monday,4.99
+2024-03-18,102,Glühwein,1,0,0,Monday,8.5
+2024-03-18,103,Pretzel,133,0,0,Monday,1.2
+2024-03-18,104,German Beer (6-pack),86,0,0,Monday,12.99
+2024-03-19,101,Bratwurst,46,0,0,Tuesday,4.99
+2024-03-19,102,Glühwein,1,0,0,Tuesday,8.5
+2024-03-19,103,Pretzel,94,0,0,Tuesday,1.2
+2024-03-19,104,German Beer (6-pack),94,0,0,Tuesday,12.99
+2024-03-20,101,Bratwurst,45,0,0,Wednesday,4.99
+2024-03-20,102,Glühwein,1,0,0,Wednesday,8.5
+2024-03-20,103,Pretzel,124,0,0,Wednesday,1.2
+2024-03-20,104,German Beer (6-pack),75,0,0,Wednesday,12.99
+2024-03-21,101,Bratwurst,47,0,0,Thursday,4.99
+2024-03-21,102,Glühwein,2,0,0,Thursday,8.5
+2024-03-21,103,Pretzel,126,0,0,Thursday,1.2
+2024-03-21,104,German Beer (6-pack),86,0,0,Thursday,12.99
+2024-03-22,101,Bratwurst,64,0,0,Friday,4.99
+2024-03-22,102,Glühwein,2,0,0,Friday,8.5
+2024-03-22,103,Pretzel,167,0,0,Friday,1.2
+2024-03-22,104,German Beer (6-pack),117,0,0,Friday,12.99
+2024-03-23,101,Bratwurst,59,0,0,Saturday,4.99
+2024-03-23,102,Glühwein,3,0,0,Saturday,8.5
+2024-03-23,103,Pretzel,174,0,0,Saturday,1.2
+2024-03-23,104,German Beer (6-pack),119,0,0,Saturday,12.99
+2024-03-24,101,Bratwurst,0,0,0,Sunday,4.99
+2024-03-24,102,Glühwein,0,0,0,Sunday,8.5
+2024-03-24,103,Pretzel,0,0,0,Sunday,1.2
+2024-03-24,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-03-25,101,Bratwurst,56,0,0,Monday,4.99
+2024-03-25,102,Glühwein,2,0,0,Monday,8.5
+2024-03-25,103,Pretzel,125,0,0,Monday,1.2
+2024-03-25,104,German Beer (6-pack),80,0,0,Monday,12.99
+2024-03-26,101,Bratwurst,53,0,0,Tuesday,4.99
+2024-03-26,102,Glühwein,1,0,0,Tuesday,8.5
+2024-03-26,103,Pretzel,122,0,0,Tuesday,1.2
+2024-03-26,104,German Beer (6-pack),80,0,0,Tuesday,12.99
+2024-03-27,101,Bratwurst,52,0,0,Wednesday,4.99
+2024-03-27,102,Glühwein,2,0,0,Wednesday,8.5
+2024-03-27,103,Pretzel,147,0,0,Wednesday,1.2
+2024-03-27,104,German Beer (6-pack),83,0,0,Wednesday,12.99
+2024-03-28,101,Bratwurst,60,0,0,Thursday,4.99
+2024-03-28,102,Glühwein,1,0,0,Thursday,8.5
+2024-03-28,103,Pretzel,130,0,0,Thursday,1.2
+2024-03-28,104,German Beer (6-pack),81,0,0,Thursday,12.99
+2024-03-29,101,Bratwurst,103,1,0,Friday,4.99
+2024-03-29,102,Glühwein,4,1,0,Friday,8.5
+2024-03-29,103,Pretzel,215,1,0,Friday,1.2
+2024-03-29,104,German Beer (6-pack),181,1,0,Friday,12.99
+2024-03-30,101,Bratwurst,59,0,0,Saturday,4.99
+2024-03-30,102,Glühwein,2,0,0,Saturday,8.5
+2024-03-30,103,Pretzel,166,0,0,Saturday,1.2
+2024-03-30,104,German Beer (6-pack),121,0,0,Saturday,12.99
+2024-03-31,101,Bratwurst,0,0,0,Sunday,4.99
+2024-03-31,102,Glühwein,0,0,0,Sunday,8.5
+2024-03-31,103,Pretzel,0,0,0,Sunday,1.2
+2024-03-31,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-04-01,101,Bratwurst,51,0,0,Monday,4.99
+2024-04-01,102,Glühwein,2,0,0,Monday,8.5
+2024-04-01,103,Pretzel,131,0,0,Monday,1.2
+2024-04-01,104,German Beer (6-pack),75,0,0,Monday,12.99
+2024-04-02,101,Bratwurst,53,0,0,Tuesday,4.99
+2024-04-02,102,Glühwein,2,0,0,Tuesday,8.5
+2024-04-02,103,Pretzel,128,0,0,Tuesday,1.2
+2024-04-02,104,German Beer (6-pack),78,0,0,Tuesday,12.99
+2024-04-03,101,Bratwurst,55,0,0,Wednesday,4.99
+2024-04-03,102,Glühwein,1,0,0,Wednesday,8.5
+2024-04-03,103,Pretzel,99,0,0,Wednesday,1.2
+2024-04-03,104,German Beer (6-pack),90,0,0,Wednesday,12.99
+2024-04-04,101,Bratwurst,51,0,0,Thursday,4.99
+2024-04-04,102,Glühwein,2,0,0,Thursday,8.5
+2024-04-04,103,Pretzel,90,0,0,Thursday,1.2
+2024-04-04,104,German Beer (6-pack),72,0,0,Thursday,12.99
+2024-04-05,101,Bratwurst,75,0,0,Friday,4.99
+2024-04-05,102,Glühwein,3,0,0,Friday,8.5
+2024-04-05,103,Pretzel,171,0,0,Friday,1.2
+2024-04-05,104,German Beer (6-pack),127,0,0,Friday,12.99
+2024-04-06,101,Bratwurst,64,0,0,Saturday,4.99
+2024-04-06,102,Glühwein,3,0,0,Saturday,8.5
+2024-04-06,103,Pretzel,199,0,0,Saturday,1.2
+2024-04-06,104,German Beer (6-pack),138,0,0,Saturday,12.99
+2024-04-07,101,Bratwurst,0,0,0,Sunday,4.99
+2024-04-07,102,Glühwein,0,0,0,Sunday,8.5
+2024-04-07,103,Pretzel,0,0,0,Sunday,1.2
+2024-04-07,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-04-08,101,Bratwurst,51,0,0,Monday,4.99
+2024-04-08,102,Glühwein,2,0,0,Monday,8.5
+2024-04-08,103,Pretzel,121,0,0,Monday,1.2
+2024-04-08,104,German Beer (6-pack),92,0,0,Monday,12.99
+2024-04-09,101,Bratwurst,60,0,0,Tuesday,4.99
+2024-04-09,102,Glühwein,2,0,0,Tuesday,8.5
+2024-04-09,103,Pretzel,117,0,0,Tuesday,1.2
+2024-04-09,104,German Beer (6-pack),87,0,0,Tuesday,12.99
+2024-04-10,101,Bratwurst,57,0,0,Wednesday,4.99
+2024-04-10,102,Glühwein,2,0,0,Wednesday,8.5
+2024-04-10,103,Pretzel,114,0,0,Wednesday,1.2
+2024-04-10,104,German Beer (6-pack),77,0,0,Wednesday,12.99
+2024-04-11,101,Bratwurst,77,1,0,Thursday,4.99
+2024-04-11,102,Glühwein,2,1,0,Thursday,8.5
+2024-04-11,103,Pretzel,148,1,0,Thursday,1.2
+2024-04-11,104,German Beer (6-pack),89,1,0,Thursday,12.99
+2024-04-12,101,Bratwurst,76,0,0,Friday,4.99
+2024-04-12,102,Glühwein,2,0,0,Friday,8.5
+2024-04-12,103,Pretzel,171,0,0,Friday,1.2
+2024-04-12,104,German Beer (6-pack),136,0,0,Friday,12.99
+2024-04-13,101,Bratwurst,62,0,0,Saturday,4.99
+2024-04-13,102,Glühwein,2,0,0,Saturday,8.5
+2024-04-13,103,Pretzel,186,0,0,Saturday,1.2
+2024-04-13,104,German Beer (6-pack),119,0,0,Saturday,12.99
+2024-04-14,101,Bratwurst,0,0,0,Sunday,4.99
+2024-04-14,102,Glühwein,0,0,0,Sunday,8.5
+2024-04-14,103,Pretzel,0,0,0,Sunday,1.2
+2024-04-14,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-04-15,101,Bratwurst,43,0,0,Monday,4.99
+2024-04-15,102,Glühwein,2,0,0,Monday,8.5
+2024-04-15,103,Pretzel,124,0,0,Monday,1.2
+2024-04-15,104,German Beer (6-pack),72,0,0,Monday,12.99
+2024-04-16,101,Bratwurst,53,0,0,Tuesday,4.99
+2024-04-16,102,Glühwein,1,0,0,Tuesday,8.5
+2024-04-16,103,Pretzel,144,0,0,Tuesday,1.2
+2024-04-16,104,German Beer (6-pack),77,0,0,Tuesday,12.99
+2024-04-17,101,Bratwurst,47,0,0,Wednesday,4.99
+2024-04-17,102,Glühwein,1,0,0,Wednesday,8.5
+2024-04-17,103,Pretzel,118,0,0,Wednesday,1.2
+2024-04-17,104,German Beer (6-pack),71,0,0,Wednesday,12.99
+2024-04-18,101,Bratwurst,50,0,0,Thursday,4.99
+2024-04-18,102,Glühwein,1,0,0,Thursday,8.5
+2024-04-18,103,Pretzel,118,0,0,Thursday,1.2
+2024-04-18,104,German Beer (6-pack),80,0,0,Thursday,12.99
+2024-04-19,101,Bratwurst,69,0,0,Friday,4.99
+2024-04-19,102,Glühwein,3,0,0,Friday,8.5
+2024-04-19,103,Pretzel,177,0,0,Friday,1.2
+2024-04-19,104,German Beer (6-pack),117,0,0,Friday,12.99
+2024-04-20,101,Bratwurst,69,0,0,Saturday,4.99
+2024-04-20,102,Glühwein,3,0,0,Saturday,8.5
+2024-04-20,103,Pretzel,170,0,0,Saturday,1.2
+2024-04-20,104,German Beer (6-pack),105,0,0,Saturday,12.99
+2024-04-21,101,Bratwurst,0,0,0,Sunday,4.99
+2024-04-21,102,Glühwein,0,0,0,Sunday,8.5
+2024-04-21,103,Pretzel,0,0,0,Sunday,1.2
+2024-04-21,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-04-22,101,Bratwurst,46,0,0,Monday,4.99
+2024-04-22,102,Glühwein,1,0,0,Monday,8.5
+2024-04-22,103,Pretzel,130,0,0,Monday,1.2
+2024-04-22,104,German Beer (6-pack),72,0,0,Monday,12.99
+2024-04-23,101,Bratwurst,65,0,0,Tuesday,4.99
+2024-04-23,102,Glühwein,2,0,0,Tuesday,8.5
+2024-04-23,103,Pretzel,118,0,0,Tuesday,1.2
+2024-04-23,104,German Beer (6-pack),72,0,0,Tuesday,12.99
+2024-04-24,101,Bratwurst,45,0,0,Wednesday,4.99
+2024-04-24,102,Glühwein,1,0,0,Wednesday,8.5
+2024-04-24,103,Pretzel,117,0,0,Wednesday,1.2
+2024-04-24,104,German Beer (6-pack),79,0,0,Wednesday,12.99
+2024-04-25,101,Bratwurst,46,0,0,Thursday,4.99
+2024-04-25,102,Glühwein,1,0,0,Thursday,8.5
+2024-04-25,103,Pretzel,140,0,0,Thursday,1.2
+2024-04-25,104,German Beer (6-pack),87,0,0,Thursday,12.99
+2024-04-26,101,Bratwurst,68,0,0,Friday,4.99
+2024-04-26,102,Glühwein,2,0,0,Friday,8.5
+2024-04-26,103,Pretzel,222,0,0,Friday,1.2
+2024-04-26,104,German Beer (6-pack),132,0,0,Friday,12.99
+2024-04-27,101,Bratwurst,67,0,0,Saturday,4.99
+2024-04-27,102,Glühwein,2,0,0,Saturday,8.5
+2024-04-27,103,Pretzel,164,0,0,Saturday,1.2
+2024-04-27,104,German Beer (6-pack),103,0,0,Saturday,12.99
+2024-04-28,101,Bratwurst,0,0,0,Sunday,4.99
+2024-04-28,102,Glühwein,0,0,0,Sunday,8.5
+2024-04-28,103,Pretzel,0,0,0,Sunday,1.2
+2024-04-28,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-04-29,101,Bratwurst,43,0,0,Monday,4.99
+2024-04-29,102,Glühwein,2,0,0,Monday,8.5
+2024-04-29,103,Pretzel,112,0,0,Monday,1.2
+2024-04-29,104,German Beer (6-pack),76,0,0,Monday,12.99
+2024-04-30,101,Bratwurst,45,0,0,Tuesday,4.99
+2024-04-30,102,Glühwein,1,0,0,Tuesday,8.5
+2024-04-30,103,Pretzel,89,0,0,Tuesday,1.2
+2024-04-30,104,German Beer (6-pack),85,0,0,Tuesday,12.99
+2024-05-01,101,Bratwurst,63,0,1,Wednesday,4.99
+2024-05-01,102,Glühwein,1,0,1,Wednesday,8.5
+2024-05-01,103,Pretzel,113,0,1,Wednesday,1.2
+2024-05-01,104,German Beer (6-pack),111,0,1,Wednesday,12.99
+2024-05-02,101,Bratwurst,68,0,0,Thursday,4.99
+2024-05-02,102,Glühwein,2,0,0,Thursday,8.5
+2024-05-02,103,Pretzel,144,0,0,Thursday,1.2
+2024-05-02,104,German Beer (6-pack),120,0,0,Thursday,12.99
+2024-05-03,101,Bratwurst,91,0,0,Friday,4.99
+2024-05-03,102,Glühwein,3,0,0,Friday,8.5
+2024-05-03,103,Pretzel,166,0,0,Friday,1.2
+2024-05-03,104,German Beer (6-pack),127,0,0,Friday,12.99
+2024-05-04,101,Bratwurst,93,0,0,Saturday,4.99
+2024-05-04,102,Glühwein,2,0,0,Saturday,8.5
+2024-05-04,103,Pretzel,152,0,0,Saturday,1.2
+2024-05-04,104,German Beer (6-pack),168,0,0,Saturday,12.99
+2024-05-05,101,Bratwurst,0,0,0,Sunday,4.99
+2024-05-05,102,Glühwein,0,0,0,Sunday,8.5
+2024-05-05,103,Pretzel,0,0,0,Sunday,1.2
+2024-05-05,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-05-06,101,Bratwurst,83,0,0,Monday,4.99
+2024-05-06,102,Glühwein,1,0,0,Monday,8.5
+2024-05-06,103,Pretzel,118,0,0,Monday,1.2
+2024-05-06,104,German Beer (6-pack),99,0,0,Monday,12.99
+2024-05-07,101,Bratwurst,71,0,0,Tuesday,4.99
+2024-05-07,102,Glühwein,1,0,0,Tuesday,8.5
+2024-05-07,103,Pretzel,130,0,0,Tuesday,1.2
+2024-05-07,104,German Beer (6-pack),92,0,0,Tuesday,12.99
+2024-05-08,101,Bratwurst,60,0,0,Wednesday,4.99
+2024-05-08,102,Glühwein,2,0,0,Wednesday,8.5
+2024-05-08,103,Pretzel,98,0,0,Wednesday,1.2
+2024-05-08,104,German Beer (6-pack),93,0,0,Wednesday,12.99
+2024-05-09,101,Bratwurst,67,0,0,Thursday,4.99
+2024-05-09,102,Glühwein,1,0,0,Thursday,8.5
+2024-05-09,103,Pretzel,121,0,0,Thursday,1.2
+2024-05-09,104,German Beer (6-pack),102,0,0,Thursday,12.99
+2024-05-10,101,Bratwurst,96,0,0,Friday,4.99
+2024-05-10,102,Glühwein,3,0,0,Friday,8.5
+2024-05-10,103,Pretzel,169,0,0,Friday,1.2
+2024-05-10,104,German Beer (6-pack),165,0,0,Friday,12.99
+2024-05-11,101,Bratwurst,101,0,0,Saturday,4.99
+2024-05-11,102,Glühwein,2,0,0,Saturday,8.5
+2024-05-11,103,Pretzel,185,0,0,Saturday,1.2
+2024-05-11,104,German Beer (6-pack),188,0,0,Saturday,12.99
+2024-05-12,101,Bratwurst,0,0,0,Sunday,4.99
+2024-05-12,102,Glühwein,0,0,0,Sunday,8.5
+2024-05-12,103,Pretzel,0,0,0,Sunday,1.2
+2024-05-12,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-05-13,101,Bratwurst,72,0,0,Monday,4.99
+2024-05-13,102,Glühwein,1,0,0,Monday,8.5
+2024-05-13,103,Pretzel,95,0,0,Monday,1.2
+2024-05-13,104,German Beer (6-pack),93,0,0,Monday,12.99
+2024-05-14,101,Bratwurst,71,0,0,Tuesday,4.99
+2024-05-14,102,Glühwein,1,0,0,Tuesday,8.5
+2024-05-14,103,Pretzel,101,0,0,Tuesday,1.2
+2024-05-14,104,German Beer (6-pack),104,0,0,Tuesday,12.99
+2024-05-15,101,Bratwurst,70,0,0,Wednesday,4.99
+2024-05-15,102,Glühwein,1,0,0,Wednesday,8.5
+2024-05-15,103,Pretzel,122,0,0,Wednesday,1.2
+2024-05-15,104,German Beer (6-pack),112,0,0,Wednesday,12.99
+2024-05-16,101,Bratwurst,66,0,0,Thursday,4.99
+2024-05-16,102,Glühwein,2,0,0,Thursday,8.5
+2024-05-16,103,Pretzel,109,0,0,Thursday,1.2
+2024-05-16,104,German Beer (6-pack),99,0,0,Thursday,12.99
+2024-05-17,101,Bratwurst,103,0,0,Friday,4.99
+2024-05-17,102,Glühwein,3,0,0,Friday,8.5
+2024-05-17,103,Pretzel,183,0,0,Friday,1.2
+2024-05-17,104,German Beer (6-pack),159,0,0,Friday,12.99
+2024-05-18,101,Bratwurst,86,0,0,Saturday,4.99
+2024-05-18,102,Glühwein,2,0,0,Saturday,8.5
+2024-05-18,103,Pretzel,207,0,0,Saturday,1.2
+2024-05-18,104,German Beer (6-pack),162,0,0,Saturday,12.99
+2024-05-19,101,Bratwurst,0,0,0,Sunday,4.99
+2024-05-19,102,Glühwein,0,0,0,Sunday,8.5
+2024-05-19,103,Pretzel,0,0,0,Sunday,1.2
+2024-05-19,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-05-20,101,Bratwurst,73,0,0,Monday,4.99
+2024-05-20,102,Glühwein,1,0,0,Monday,8.5
+2024-05-20,103,Pretzel,114,0,0,Monday,1.2
+2024-05-20,104,German Beer (6-pack),98,0,0,Monday,12.99
+2024-05-21,101,Bratwurst,70,0,0,Tuesday,4.99
+2024-05-21,102,Glühwein,2,0,0,Tuesday,8.5
+2024-05-21,103,Pretzel,124,0,0,Tuesday,1.2
+2024-05-21,104,German Beer (6-pack),123,0,0,Tuesday,12.99
+2024-05-22,101,Bratwurst,58,0,0,Wednesday,4.99
+2024-05-22,102,Glühwein,1,0,0,Wednesday,8.5
+2024-05-22,103,Pretzel,122,0,0,Wednesday,1.2
+2024-05-22,104,German Beer (6-pack),112,0,0,Wednesday,12.99
+2024-05-23,101,Bratwurst,69,0,0,Thursday,4.99
+2024-05-23,102,Glühwein,1,0,0,Thursday,8.5
+2024-05-23,103,Pretzel,123,0,0,Thursday,1.2
+2024-05-23,104,German Beer (6-pack),92,0,0,Thursday,12.99
+2024-05-24,101,Bratwurst,95,0,0,Friday,4.99
+2024-05-24,102,Glühwein,3,0,0,Friday,8.5
+2024-05-24,103,Pretzel,212,0,0,Friday,1.2
+2024-05-24,104,German Beer (6-pack),165,0,0,Friday,12.99
+2024-05-25,101,Bratwurst,89,0,0,Saturday,4.99
+2024-05-25,102,Glühwein,3,0,0,Saturday,8.5
+2024-05-25,103,Pretzel,213,0,0,Saturday,1.2
+2024-05-25,104,German Beer (6-pack),176,0,0,Saturday,12.99
+2024-05-26,101,Bratwurst,0,0,0,Sunday,4.99
+2024-05-26,102,Glühwein,0,0,0,Sunday,8.5
+2024-05-26,103,Pretzel,0,0,0,Sunday,1.2
+2024-05-26,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-05-27,101,Bratwurst,58,0,0,Monday,4.99
+2024-05-27,102,Glühwein,1,0,0,Monday,8.5
+2024-05-27,103,Pretzel,120,0,0,Monday,1.2
+2024-05-27,104,German Beer (6-pack),115,0,0,Monday,12.99
+2024-05-28,101,Bratwurst,61,0,0,Tuesday,4.99
+2024-05-28,102,Glühwein,1,0,0,Tuesday,8.5
+2024-05-28,103,Pretzel,132,0,0,Tuesday,1.2
+2024-05-28,104,German Beer (6-pack),97,0,0,Tuesday,12.99
+2024-05-29,101,Bratwurst,81,1,0,Wednesday,4.99
+2024-05-29,102,Glühwein,2,1,0,Wednesday,8.5
+2024-05-29,103,Pretzel,181,1,0,Wednesday,1.2
+2024-05-29,104,German Beer (6-pack),146,1,0,Wednesday,12.99
+2024-05-30,101,Bratwurst,73,0,0,Thursday,4.99
+2024-05-30,102,Glühwein,1,0,0,Thursday,8.5
+2024-05-30,103,Pretzel,101,0,0,Thursday,1.2
+2024-05-30,104,German Beer (6-pack),101,0,0,Thursday,12.99
+2024-05-31,101,Bratwurst,95,0,0,Friday,4.99
+2024-05-31,102,Glühwein,2,0,0,Friday,8.5
+2024-05-31,103,Pretzel,131,0,0,Friday,1.2
+2024-05-31,104,German Beer (6-pack),155,0,0,Friday,12.99
+2024-06-01,101,Bratwurst,149,0,0,Saturday,4.99
+2024-06-01,102,Glühwein,2,0,0,Saturday,8.5
+2024-06-01,103,Pretzel,161,0,0,Saturday,1.2
+2024-06-01,104,German Beer (6-pack),227,0,0,Saturday,12.99
+2024-06-02,101,Bratwurst,0,0,0,Sunday,4.99
+2024-06-02,102,Glühwein,0,0,0,Sunday,8.5
+2024-06-02,103,Pretzel,0,0,0,Sunday,1.2
+2024-06-02,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-06-03,101,Bratwurst,82,0,0,Monday,4.99
+2024-06-03,102,Glühwein,1,0,0,Monday,8.5
+2024-06-03,103,Pretzel,120,0,0,Monday,1.2
+2024-06-03,104,German Beer (6-pack),146,0,0,Monday,12.99
+2024-06-04,101,Bratwurst,90,0,0,Tuesday,4.99
+2024-06-04,102,Glühwein,1,0,0,Tuesday,8.5
+2024-06-04,103,Pretzel,122,0,0,Tuesday,1.2
+2024-06-04,104,German Beer (6-pack),141,0,0,Tuesday,12.99
+2024-06-05,101,Bratwurst,113,0,0,Wednesday,4.99
+2024-06-05,102,Glühwein,1,0,0,Wednesday,8.5
+2024-06-05,103,Pretzel,136,0,0,Wednesday,1.2
+2024-06-05,104,German Beer (6-pack),105,0,0,Wednesday,12.99
+2024-06-06,101,Bratwurst,101,0,0,Thursday,4.99
+2024-06-06,102,Glühwein,1,0,0,Thursday,8.5
+2024-06-06,103,Pretzel,115,0,0,Thursday,1.2
+2024-06-06,104,German Beer (6-pack),138,0,0,Thursday,12.99
+2024-06-07,101,Bratwurst,132,0,0,Friday,4.99
+2024-06-07,102,Glühwein,3,0,0,Friday,8.5
+2024-06-07,103,Pretzel,194,0,0,Friday,1.2
+2024-06-07,104,German Beer (6-pack),187,0,0,Friday,12.99
+2024-06-08,101,Bratwurst,147,0,0,Saturday,4.99
+2024-06-08,102,Glühwein,3,0,0,Saturday,8.5
+2024-06-08,103,Pretzel,192,0,0,Saturday,1.2
+2024-06-08,104,German Beer (6-pack),191,0,0,Saturday,12.99
+2024-06-09,101,Bratwurst,0,1,0,Sunday,4.99
+2024-06-09,102,Glühwein,0,1,0,Sunday,8.5
+2024-06-09,103,Pretzel,0,1,0,Sunday,1.2
+2024-06-09,104,German Beer (6-pack),0,1,0,Sunday,12.99
+2024-06-10,101,Bratwurst,85,0,0,Monday,4.99
+2024-06-10,102,Glühwein,2,0,0,Monday,8.5
+2024-06-10,103,Pretzel,105,0,0,Monday,1.2
+2024-06-10,104,German Beer (6-pack),154,0,0,Monday,12.99
+2024-06-11,101,Bratwurst,97,0,0,Tuesday,4.99
+2024-06-11,102,Glühwein,1,0,0,Tuesday,8.5
+2024-06-11,103,Pretzel,122,0,0,Tuesday,1.2
+2024-06-11,104,German Beer (6-pack),147,0,0,Tuesday,12.99
+2024-06-12,101,Bratwurst,80,0,0,Wednesday,4.99
+2024-06-12,102,Glühwein,2,0,0,Wednesday,8.5
+2024-06-12,103,Pretzel,127,0,0,Wednesday,1.2
+2024-06-12,104,German Beer (6-pack),139,0,0,Wednesday,12.99
+2024-06-13,101,Bratwurst,104,1,0,Thursday,4.99
+2024-06-13,102,Glühwein,3,1,0,Thursday,8.5
+2024-06-13,103,Pretzel,147,1,0,Thursday,1.2
+2024-06-13,104,German Beer (6-pack),185,1,0,Thursday,12.99
+2024-06-14,101,Bratwurst,113,0,0,Friday,4.99
+2024-06-14,102,Glühwein,3,0,0,Friday,8.5
+2024-06-14,103,Pretzel,156,0,0,Friday,1.2
+2024-06-14,104,German Beer (6-pack),253,0,0,Friday,12.99
+2024-06-15,101,Bratwurst,111,0,0,Saturday,4.99
+2024-06-15,102,Glühwein,2,0,0,Saturday,8.5
+2024-06-15,103,Pretzel,197,0,0,Saturday,1.2
+2024-06-15,104,German Beer (6-pack),215,0,0,Saturday,12.99
+2024-06-16,101,Bratwurst,0,0,0,Sunday,4.99
+2024-06-16,102,Glühwein,0,0,0,Sunday,8.5
+2024-06-16,103,Pretzel,0,0,0,Sunday,1.2
+2024-06-16,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-06-17,101,Bratwurst,109,0,0,Monday,4.99
+2024-06-17,102,Glühwein,2,0,0,Monday,8.5
+2024-06-17,103,Pretzel,112,0,0,Monday,1.2
+2024-06-17,104,German Beer (6-pack),137,0,0,Monday,12.99
+2024-06-18,101,Bratwurst,90,0,0,Tuesday,4.99
+2024-06-18,102,Glühwein,2,0,0,Tuesday,8.5
+2024-06-18,103,Pretzel,113,0,0,Tuesday,1.2
+2024-06-18,104,German Beer (6-pack),132,0,0,Tuesday,12.99
+2024-06-19,101,Bratwurst,105,1,0,Wednesday,4.99
+2024-06-19,102,Glühwein,2,1,0,Wednesday,8.5
+2024-06-19,103,Pretzel,201,1,0,Wednesday,1.2
+2024-06-19,104,German Beer (6-pack),216,1,0,Wednesday,12.99
+2024-06-20,101,Bratwurst,92,0,0,Thursday,4.99
+2024-06-20,102,Glühwein,2,0,0,Thursday,8.5
+2024-06-20,103,Pretzel,139,0,0,Thursday,1.2
+2024-06-20,104,German Beer (6-pack),158,0,0,Thursday,12.99
+2024-06-21,101,Bratwurst,132,0,0,Friday,4.99
+2024-06-21,102,Glühwein,3,0,0,Friday,8.5
+2024-06-21,103,Pretzel,186,0,0,Friday,1.2
+2024-06-21,104,German Beer (6-pack),164,0,0,Friday,12.99
+2024-06-22,101,Bratwurst,198,1,0,Saturday,4.99
+2024-06-22,102,Glühwein,3,1,0,Saturday,8.5
+2024-06-22,103,Pretzel,256,1,0,Saturday,1.2
+2024-06-22,104,German Beer (6-pack),279,1,0,Saturday,12.99
+2024-06-23,101,Bratwurst,0,0,0,Sunday,4.99
+2024-06-23,102,Glühwein,0,0,0,Sunday,8.5
+2024-06-23,103,Pretzel,0,0,0,Sunday,1.2
+2024-06-23,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-06-24,101,Bratwurst,81,0,0,Monday,4.99
+2024-06-24,102,Glühwein,1,0,0,Monday,8.5
+2024-06-24,103,Pretzel,108,0,0,Monday,1.2
+2024-06-24,104,German Beer (6-pack),159,0,0,Monday,12.99
+2024-06-25,101,Bratwurst,108,0,0,Tuesday,4.99
+2024-06-25,102,Glühwein,1,0,0,Tuesday,8.5
+2024-06-25,103,Pretzel,121,0,0,Tuesday,1.2
+2024-06-25,104,German Beer (6-pack),146,0,0,Tuesday,12.99
+2024-06-26,101,Bratwurst,84,0,0,Wednesday,4.99
+2024-06-26,102,Glühwein,2,0,0,Wednesday,8.5
+2024-06-26,103,Pretzel,150,0,0,Wednesday,1.2
+2024-06-26,104,German Beer (6-pack),142,0,0,Wednesday,12.99
+2024-06-27,101,Bratwurst,86,0,0,Thursday,4.99
+2024-06-27,102,Glühwein,2,0,0,Thursday,8.5
+2024-06-27,103,Pretzel,122,0,0,Thursday,1.2
+2024-06-27,104,German Beer (6-pack),139,0,0,Thursday,12.99
+2024-06-28,101,Bratwurst,126,0,0,Friday,4.99
+2024-06-28,102,Glühwein,3,0,0,Friday,8.5
+2024-06-28,103,Pretzel,192,0,0,Friday,1.2
+2024-06-28,104,German Beer (6-pack),203,0,0,Friday,12.99
+2024-06-29,101,Bratwurst,120,0,0,Saturday,4.99
+2024-06-29,102,Glühwein,3,0,0,Saturday,8.5
+2024-06-29,103,Pretzel,148,0,0,Saturday,1.2
+2024-06-29,104,German Beer (6-pack),240,0,0,Saturday,12.99
+2024-06-30,101,Bratwurst,0,0,0,Sunday,4.99
+2024-06-30,102,Glühwein,0,0,0,Sunday,8.5
+2024-06-30,103,Pretzel,0,0,0,Sunday,1.2
+2024-06-30,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-07-01,101,Bratwurst,78,0,0,Monday,4.99
+2024-07-01,102,Glühwein,1,0,0,Monday,8.5
+2024-07-01,103,Pretzel,132,0,0,Monday,1.2
+2024-07-01,104,German Beer (6-pack),145,0,0,Monday,12.99
+2024-07-02,101,Bratwurst,95,0,0,Tuesday,4.99
+2024-07-02,102,Glühwein,2,0,0,Tuesday,8.5
+2024-07-02,103,Pretzel,130,0,0,Tuesday,1.2
+2024-07-02,104,German Beer (6-pack),150,0,0,Tuesday,12.99
+2024-07-03,101,Bratwurst,76,0,0,Wednesday,4.99
+2024-07-03,102,Glühwein,1,0,0,Wednesday,8.5
+2024-07-03,103,Pretzel,129,0,0,Wednesday,1.2
+2024-07-03,104,German Beer (6-pack),145,0,0,Wednesday,12.99
+2024-07-04,101,Bratwurst,112,1,0,Thursday,4.99
+2024-07-04,102,Glühwein,3,1,0,Thursday,8.5
+2024-07-04,103,Pretzel,167,1,0,Thursday,1.2
+2024-07-04,104,German Beer (6-pack),215,1,0,Thursday,12.99
+2024-07-05,101,Bratwurst,128,0,0,Friday,4.99
+2024-07-05,102,Glühwein,3,0,0,Friday,8.5
+2024-07-05,103,Pretzel,154,0,0,Friday,1.2
+2024-07-05,104,German Beer (6-pack),226,0,0,Friday,12.99
+2024-07-06,101,Bratwurst,137,0,0,Saturday,4.99
+2024-07-06,102,Glühwein,2,0,0,Saturday,8.5
+2024-07-06,103,Pretzel,202,0,0,Saturday,1.2
+2024-07-06,104,German Beer (6-pack),196,0,0,Saturday,12.99
+2024-07-07,101,Bratwurst,0,0,0,Sunday,4.99
+2024-07-07,102,Glühwein,0,0,0,Sunday,8.5
+2024-07-07,103,Pretzel,0,0,0,Sunday,1.2
+2024-07-07,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-07-08,101,Bratwurst,103,0,0,Monday,4.99
+2024-07-08,102,Glühwein,2,0,0,Monday,8.5
+2024-07-08,103,Pretzel,132,0,0,Monday,1.2
+2024-07-08,104,German Beer (6-pack),122,0,0,Monday,12.99
+2024-07-09,101,Bratwurst,77,0,0,Tuesday,4.99
+2024-07-09,102,Glühwein,2,0,0,Tuesday,8.5
+2024-07-09,103,Pretzel,128,0,0,Tuesday,1.2
+2024-07-09,104,German Beer (6-pack),144,0,0,Tuesday,12.99
+2024-07-10,101,Bratwurst,85,0,0,Wednesday,4.99
+2024-07-10,102,Glühwein,2,0,0,Wednesday,8.5
+2024-07-10,103,Pretzel,147,0,0,Wednesday,1.2
+2024-07-10,104,German Beer (6-pack),138,0,0,Wednesday,12.99
+2024-07-11,101,Bratwurst,74,0,0,Thursday,4.99
+2024-07-11,102,Glühwein,1,0,0,Thursday,8.5
+2024-07-11,103,Pretzel,109,0,0,Thursday,1.2
+2024-07-11,104,German Beer (6-pack),155,0,0,Thursday,12.99
+2024-07-12,101,Bratwurst,116,0,0,Friday,4.99
+2024-07-12,102,Glühwein,2,0,0,Friday,8.5
+2024-07-12,103,Pretzel,161,0,0,Friday,1.2
+2024-07-12,104,German Beer (6-pack),199,0,0,Friday,12.99
+2024-07-13,101,Bratwurst,152,1,0,Saturday,4.99
+2024-07-13,102,Glühwein,3,1,0,Saturday,8.5
+2024-07-13,103,Pretzel,225,1,0,Saturday,1.2
+2024-07-13,104,German Beer (6-pack),323,1,0,Saturday,12.99
+2024-07-14,101,Bratwurst,0,0,0,Sunday,4.99
+2024-07-14,102,Glühwein,0,0,0,Sunday,8.5
+2024-07-14,103,Pretzel,0,0,0,Sunday,1.2
+2024-07-14,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-07-15,101,Bratwurst,88,0,0,Monday,4.99
+2024-07-15,102,Glühwein,1,0,0,Monday,8.5
+2024-07-15,103,Pretzel,147,0,0,Monday,1.2
+2024-07-15,104,German Beer (6-pack),134,0,0,Monday,12.99
+2024-07-16,101,Bratwurst,91,0,0,Tuesday,4.99
+2024-07-16,102,Glühwein,2,0,0,Tuesday,8.5
+2024-07-16,103,Pretzel,123,0,0,Tuesday,1.2
+2024-07-16,104,German Beer (6-pack),179,0,0,Tuesday,12.99
+2024-07-17,101,Bratwurst,85,0,0,Wednesday,4.99
+2024-07-17,102,Glühwein,1,0,0,Wednesday,8.5
+2024-07-17,103,Pretzel,126,0,0,Wednesday,1.2
+2024-07-17,104,German Beer (6-pack),135,0,0,Wednesday,12.99
+2024-07-18,101,Bratwurst,102,0,0,Thursday,4.99
+2024-07-18,102,Glühwein,1,0,0,Thursday,8.5
+2024-07-18,103,Pretzel,110,0,0,Thursday,1.2
+2024-07-18,104,German Beer (6-pack),150,0,0,Thursday,12.99
+2024-07-19,101,Bratwurst,125,0,0,Friday,4.99
+2024-07-19,102,Glühwein,2,0,0,Friday,8.5
+2024-07-19,103,Pretzel,222,0,0,Friday,1.2
+2024-07-19,104,German Beer (6-pack),236,0,0,Friday,12.99
+2024-07-20,101,Bratwurst,126,0,0,Saturday,4.99
+2024-07-20,102,Glühwein,2,0,0,Saturday,8.5
+2024-07-20,103,Pretzel,185,0,0,Saturday,1.2
+2024-07-20,104,German Beer (6-pack),223,0,0,Saturday,12.99
+2024-07-21,101,Bratwurst,0,0,0,Sunday,4.99
+2024-07-21,102,Glühwein,0,0,0,Sunday,8.5
+2024-07-21,103,Pretzel,0,0,0,Sunday,1.2
+2024-07-21,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-07-22,101,Bratwurst,88,0,0,Monday,4.99
+2024-07-22,102,Glühwein,1,0,0,Monday,8.5
+2024-07-22,103,Pretzel,103,0,0,Monday,1.2
+2024-07-22,104,German Beer (6-pack),133,0,0,Monday,12.99
+2024-07-23,101,Bratwurst,82,0,0,Tuesday,4.99
+2024-07-23,102,Glühwein,1,0,0,Tuesday,8.5
+2024-07-23,103,Pretzel,128,0,0,Tuesday,1.2
+2024-07-23,104,German Beer (6-pack),128,0,0,Tuesday,12.99
+2024-07-24,101,Bratwurst,89,0,0,Wednesday,4.99
+2024-07-24,102,Glühwein,2,0,0,Wednesday,8.5
+2024-07-24,103,Pretzel,150,0,0,Wednesday,1.2
+2024-07-24,104,German Beer (6-pack),136,0,0,Wednesday,12.99
+2024-07-25,101,Bratwurst,101,0,0,Thursday,4.99
+2024-07-25,102,Glühwein,1,0,0,Thursday,8.5
+2024-07-25,103,Pretzel,100,0,0,Thursday,1.2
+2024-07-25,104,German Beer (6-pack),150,0,0,Thursday,12.99
+2024-07-26,101,Bratwurst,142,0,0,Friday,4.99
+2024-07-26,102,Glühwein,3,0,0,Friday,8.5
+2024-07-26,103,Pretzel,194,0,0,Friday,1.2
+2024-07-26,104,German Beer (6-pack),226,0,0,Friday,12.99
+2024-07-27,101,Bratwurst,148,0,0,Saturday,4.99
+2024-07-27,102,Glühwein,3,0,0,Saturday,8.5
+2024-07-27,103,Pretzel,168,0,0,Saturday,1.2
+2024-07-27,104,German Beer (6-pack),226,0,0,Saturday,12.99
+2024-07-28,101,Bratwurst,0,0,0,Sunday,4.99
+2024-07-28,102,Glühwein,0,0,0,Sunday,8.5
+2024-07-28,103,Pretzel,0,0,0,Sunday,1.2
+2024-07-28,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-07-29,101,Bratwurst,86,0,0,Monday,4.99
+2024-07-29,102,Glühwein,1,0,0,Monday,8.5
+2024-07-29,103,Pretzel,111,0,0,Monday,1.2
+2024-07-29,104,German Beer (6-pack),151,0,0,Monday,12.99
+2024-07-30,101,Bratwurst,90,0,0,Tuesday,4.99
+2024-07-30,102,Glühwein,2,0,0,Tuesday,8.5
+2024-07-30,103,Pretzel,122,0,0,Tuesday,1.2
+2024-07-30,104,German Beer (6-pack),144,0,0,Tuesday,12.99
+2024-07-31,101,Bratwurst,96,0,0,Wednesday,4.99
+2024-07-31,102,Glühwein,1,0,0,Wednesday,8.5
+2024-07-31,103,Pretzel,137,0,0,Wednesday,1.2
+2024-07-31,104,German Beer (6-pack),147,0,0,Wednesday,12.99
+2024-08-01,101,Bratwurst,92,0,0,Thursday,4.99
+2024-08-01,102,Glühwein,2,0,0,Thursday,8.5
+2024-08-01,103,Pretzel,118,0,0,Thursday,1.2
+2024-08-01,104,German Beer (6-pack),148,0,0,Thursday,12.99
+2024-08-02,101,Bratwurst,137,0,0,Friday,4.99
+2024-08-02,102,Glühwein,3,0,0,Friday,8.5
+2024-08-02,103,Pretzel,176,0,0,Friday,1.2
+2024-08-02,104,German Beer (6-pack),207,0,0,Friday,12.99
+2024-08-03,101,Bratwurst,136,0,0,Saturday,4.99
+2024-08-03,102,Glühwein,2,0,0,Saturday,8.5
+2024-08-03,103,Pretzel,201,0,0,Saturday,1.2
+2024-08-03,104,German Beer (6-pack),183,0,0,Saturday,12.99
+2024-08-04,101,Bratwurst,0,1,0,Sunday,4.99
+2024-08-04,102,Glühwein,0,1,0,Sunday,8.5
+2024-08-04,103,Pretzel,0,1,0,Sunday,1.2
+2024-08-04,104,German Beer (6-pack),0,1,0,Sunday,12.99
+2024-08-05,101,Bratwurst,84,0,0,Monday,4.99
+2024-08-05,102,Glühwein,2,0,0,Monday,8.5
+2024-08-05,103,Pretzel,138,0,0,Monday,1.2
+2024-08-05,104,German Beer (6-pack),143,0,0,Monday,12.99
+2024-08-06,101,Bratwurst,74,0,0,Tuesday,4.99
+2024-08-06,102,Glühwein,1,0,0,Tuesday,8.5
+2024-08-06,103,Pretzel,105,0,0,Tuesday,1.2
+2024-08-06,104,German Beer (6-pack),141,0,0,Tuesday,12.99
+2024-08-07,101,Bratwurst,80,0,0,Wednesday,4.99
+2024-08-07,102,Glühwein,2,0,0,Wednesday,8.5
+2024-08-07,103,Pretzel,122,0,0,Wednesday,1.2
+2024-08-07,104,German Beer (6-pack),135,0,0,Wednesday,12.99
+2024-08-08,101,Bratwurst,87,0,0,Thursday,4.99
+2024-08-08,102,Glühwein,1,0,0,Thursday,8.5
+2024-08-08,103,Pretzel,118,0,0,Thursday,1.2
+2024-08-08,104,German Beer (6-pack),153,0,0,Thursday,12.99
+2024-08-09,101,Bratwurst,114,0,0,Friday,4.99
+2024-08-09,102,Glühwein,2,0,0,Friday,8.5
+2024-08-09,103,Pretzel,179,0,0,Friday,1.2
+2024-08-09,104,German Beer (6-pack),221,0,0,Friday,12.99
+2024-08-10,101,Bratwurst,125,0,0,Saturday,4.99
+2024-08-10,102,Glühwein,2,0,0,Saturday,8.5
+2024-08-10,103,Pretzel,181,0,0,Saturday,1.2
+2024-08-10,104,German Beer (6-pack),211,0,0,Saturday,12.99
+2024-08-11,101,Bratwurst,0,0,0,Sunday,4.99
+2024-08-11,102,Glühwein,0,0,0,Sunday,8.5
+2024-08-11,103,Pretzel,0,0,0,Sunday,1.2
+2024-08-11,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-08-12,101,Bratwurst,94,0,0,Monday,4.99
+2024-08-12,102,Glühwein,1,0,0,Monday,8.5
+2024-08-12,103,Pretzel,123,0,0,Monday,1.2
+2024-08-12,104,German Beer (6-pack),140,0,0,Monday,12.99
+2024-08-13,101,Bratwurst,95,0,0,Tuesday,4.99
+2024-08-13,102,Glühwein,2,0,0,Tuesday,8.5
+2024-08-13,103,Pretzel,127,0,0,Tuesday,1.2
+2024-08-13,104,German Beer (6-pack),163,0,0,Tuesday,12.99
+2024-08-14,101,Bratwurst,101,0,0,Wednesday,4.99
+2024-08-14,102,Glühwein,2,0,0,Wednesday,8.5
+2024-08-14,103,Pretzel,107,0,0,Wednesday,1.2
+2024-08-14,104,German Beer (6-pack),143,0,0,Wednesday,12.99
+2024-08-15,101,Bratwurst,83,0,0,Thursday,4.99
+2024-08-15,102,Glühwein,2,0,0,Thursday,8.5
+2024-08-15,103,Pretzel,119,0,0,Thursday,1.2
+2024-08-15,104,German Beer (6-pack),123,0,0,Thursday,12.99
+2024-08-16,101,Bratwurst,113,0,0,Friday,4.99
+2024-08-16,102,Glühwein,3,0,0,Friday,8.5
+2024-08-16,103,Pretzel,168,0,0,Friday,1.2
+2024-08-16,104,German Beer (6-pack),237,0,0,Friday,12.99
+2024-08-17,101,Bratwurst,128,0,0,Saturday,4.99
+2024-08-17,102,Glühwein,2,0,0,Saturday,8.5
+2024-08-17,103,Pretzel,151,0,0,Saturday,1.2
+2024-08-17,104,German Beer (6-pack),232,0,0,Saturday,12.99
+2024-08-18,101,Bratwurst,0,0,0,Sunday,4.99
+2024-08-18,102,Glühwein,0,0,0,Sunday,8.5
+2024-08-18,103,Pretzel,0,0,0,Sunday,1.2
+2024-08-18,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-08-19,101,Bratwurst,81,0,0,Monday,4.99
+2024-08-19,102,Glühwein,1,0,0,Monday,8.5
+2024-08-19,103,Pretzel,119,0,0,Monday,1.2
+2024-08-19,104,German Beer (6-pack),127,0,0,Monday,12.99
+2024-08-20,101,Bratwurst,94,0,0,Tuesday,4.99
+2024-08-20,102,Glühwein,2,0,0,Tuesday,8.5
+2024-08-20,103,Pretzel,109,0,0,Tuesday,1.2
+2024-08-20,104,German Beer (6-pack),144,0,0,Tuesday,12.99
+2024-08-21,101,Bratwurst,80,0,0,Wednesday,4.99
+2024-08-21,102,Glühwein,1,0,0,Wednesday,8.5
+2024-08-21,103,Pretzel,141,0,0,Wednesday,1.2
+2024-08-21,104,German Beer (6-pack),153,0,0,Wednesday,12.99
+2024-08-22,101,Bratwurst,85,0,0,Thursday,4.99
+2024-08-22,102,Glühwein,1,0,0,Thursday,8.5
+2024-08-22,103,Pretzel,123,0,0,Thursday,1.2
+2024-08-22,104,German Beer (6-pack),132,0,0,Thursday,12.99
+2024-08-23,101,Bratwurst,135,0,0,Friday,4.99
+2024-08-23,102,Glühwein,2,0,0,Friday,8.5
+2024-08-23,103,Pretzel,192,0,0,Friday,1.2
+2024-08-23,104,German Beer (6-pack),224,0,0,Friday,12.99
+2024-08-24,101,Bratwurst,127,0,0,Saturday,4.99
+2024-08-24,102,Glühwein,3,0,0,Saturday,8.5
+2024-08-24,103,Pretzel,182,0,0,Saturday,1.2
+2024-08-24,104,German Beer (6-pack),236,0,0,Saturday,12.99
+2024-08-25,101,Bratwurst,0,0,0,Sunday,4.99
+2024-08-25,102,Glühwein,0,0,0,Sunday,8.5
+2024-08-25,103,Pretzel,0,0,0,Sunday,1.2
+2024-08-25,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-08-26,101,Bratwurst,93,0,0,Monday,4.99
+2024-08-26,102,Glühwein,2,0,0,Monday,8.5
+2024-08-26,103,Pretzel,115,0,0,Monday,1.2
+2024-08-26,104,German Beer (6-pack),146,0,0,Monday,12.99
+2024-08-27,101,Bratwurst,84,0,0,Tuesday,4.99
+2024-08-27,102,Glühwein,1,0,0,Tuesday,8.5
+2024-08-27,103,Pretzel,116,0,0,Tuesday,1.2
+2024-08-27,104,German Beer (6-pack),150,0,0,Tuesday,12.99
+2024-08-28,101,Bratwurst,80,0,0,Wednesday,4.99
+2024-08-28,102,Glühwein,1,0,0,Wednesday,8.5
+2024-08-28,103,Pretzel,127,0,0,Wednesday,1.2
+2024-08-28,104,German Beer (6-pack),160,0,0,Wednesday,12.99
+2024-08-29,101,Bratwurst,105,0,0,Thursday,4.99
+2024-08-29,102,Glühwein,2,0,0,Thursday,8.5
+2024-08-29,103,Pretzel,120,0,0,Thursday,1.2
+2024-08-29,104,German Beer (6-pack),145,0,0,Thursday,12.99
+2024-08-30,101,Bratwurst,128,0,0,Friday,4.99
+2024-08-30,102,Glühwein,3,0,0,Friday,8.5
+2024-08-30,103,Pretzel,199,0,0,Friday,1.2
+2024-08-30,104,German Beer (6-pack),213,0,0,Friday,12.99
+2024-08-31,101,Bratwurst,128,0,0,Saturday,4.99
+2024-08-31,102,Glühwein,3,0,0,Saturday,8.5
+2024-08-31,103,Pretzel,157,0,0,Saturday,1.2
+2024-08-31,104,German Beer (6-pack),184,0,0,Saturday,12.99
+2024-09-01,101,Bratwurst,0,0,0,Sunday,4.99
+2024-09-01,102,Glühwein,0,0,0,Sunday,8.5
+2024-09-01,103,Pretzel,0,0,0,Sunday,1.2
+2024-09-01,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-09-02,101,Bratwurst,93,1,0,Monday,4.99
+2024-09-02,102,Glühwein,3,1,0,Monday,8.5
+2024-09-02,103,Pretzel,196,1,0,Monday,1.2
+2024-09-02,104,German Beer (6-pack),138,1,0,Monday,12.99
+2024-09-03,101,Bratwurst,54,0,0,Tuesday,4.99
+2024-09-03,102,Glühwein,1,0,0,Tuesday,8.5
+2024-09-03,103,Pretzel,129,0,0,Tuesday,1.2
+2024-09-03,104,German Beer (6-pack),105,0,0,Tuesday,12.99
+2024-09-04,101,Bratwurst,74,0,0,Wednesday,4.99
+2024-09-04,102,Glühwein,2,0,0,Wednesday,8.5
+2024-09-04,103,Pretzel,112,0,0,Wednesday,1.2
+2024-09-04,104,German Beer (6-pack),108,0,0,Wednesday,12.99
+2024-09-05,101,Bratwurst,67,0,0,Thursday,4.99
+2024-09-05,102,Glühwein,1,0,0,Thursday,8.5
+2024-09-05,103,Pretzel,100,0,0,Thursday,1.2
+2024-09-05,104,German Beer (6-pack),103,0,0,Thursday,12.99
+2024-09-06,101,Bratwurst,105,0,0,Friday,4.99
+2024-09-06,102,Glühwein,2,0,0,Friday,8.5
+2024-09-06,103,Pretzel,200,0,0,Friday,1.2
+2024-09-06,104,German Beer (6-pack),128,0,0,Friday,12.99
+2024-09-07,101,Bratwurst,101,0,0,Saturday,4.99
+2024-09-07,102,Glühwein,2,0,0,Saturday,8.5
+2024-09-07,103,Pretzel,194,0,0,Saturday,1.2
+2024-09-07,104,German Beer (6-pack),136,0,0,Saturday,12.99
+2024-09-08,101,Bratwurst,0,0,0,Sunday,4.99
+2024-09-08,102,Glühwein,0,0,0,Sunday,8.5
+2024-09-08,103,Pretzel,0,0,0,Sunday,1.2
+2024-09-08,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-09-09,101,Bratwurst,54,0,0,Monday,4.99
+2024-09-09,102,Glühwein,1,0,0,Monday,8.5
+2024-09-09,103,Pretzel,94,0,0,Monday,1.2
+2024-09-09,104,German Beer (6-pack),106,0,0,Monday,12.99
+2024-09-10,101,Bratwurst,54,0,0,Tuesday,4.99
+2024-09-10,102,Glühwein,1,0,0,Tuesday,8.5
+2024-09-10,103,Pretzel,138,0,0,Tuesday,1.2
+2024-09-10,104,German Beer (6-pack),112,0,0,Tuesday,12.99
+2024-09-11,101,Bratwurst,70,0,0,Wednesday,4.99
+2024-09-11,102,Glühwein,2,0,0,Wednesday,8.5
+2024-09-11,103,Pretzel,134,0,0,Wednesday,1.2
+2024-09-11,104,German Beer (6-pack),103,0,0,Wednesday,12.99
+2024-09-12,101,Bratwurst,71,0,0,Thursday,4.99
+2024-09-12,102,Glühwein,2,0,0,Thursday,8.5
+2024-09-12,103,Pretzel,116,0,0,Thursday,1.2
+2024-09-12,104,German Beer (6-pack),101,0,0,Thursday,12.99
+2024-09-13,101,Bratwurst,97,0,0,Friday,4.99
+2024-09-13,102,Glühwein,2,0,0,Friday,8.5
+2024-09-13,103,Pretzel,177,0,0,Friday,1.2
+2024-09-13,104,German Beer (6-pack),139,0,0,Friday,12.99
+2024-09-14,101,Bratwurst,98,0,0,Saturday,4.99
+2024-09-14,102,Glühwein,2,0,0,Saturday,8.5
+2024-09-14,103,Pretzel,196,0,0,Saturday,1.2
+2024-09-14,104,German Beer (6-pack),161,0,0,Saturday,12.99
+2024-09-15,101,Bratwurst,0,0,0,Sunday,4.99
+2024-09-15,102,Glühwein,0,0,0,Sunday,8.5
+2024-09-15,103,Pretzel,0,0,0,Sunday,1.2
+2024-09-15,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-09-16,101,Bratwurst,78,0,0,Monday,4.99
+2024-09-16,102,Glühwein,1,0,0,Monday,8.5
+2024-09-16,103,Pretzel,133,0,0,Monday,1.2
+2024-09-16,104,German Beer (6-pack),93,0,0,Monday,12.99
+2024-09-17,101,Bratwurst,66,0,0,Tuesday,4.99
+2024-09-17,102,Glühwein,1,0,0,Tuesday,8.5
+2024-09-17,103,Pretzel,132,0,0,Tuesday,1.2
+2024-09-17,104,German Beer (6-pack),102,0,0,Tuesday,12.99
+2024-09-18,101,Bratwurst,70,0,0,Wednesday,4.99
+2024-09-18,102,Glühwein,2,0,0,Wednesday,8.5
+2024-09-18,103,Pretzel,121,0,0,Wednesday,1.2
+2024-09-18,104,German Beer (6-pack),107,0,0,Wednesday,12.99
+2024-09-19,101,Bratwurst,71,0,0,Thursday,4.99
+2024-09-19,102,Glühwein,2,0,0,Thursday,8.5
+2024-09-19,103,Pretzel,114,0,0,Thursday,1.2
+2024-09-19,104,German Beer (6-pack),104,0,0,Thursday,12.99
+2024-09-20,101,Bratwurst,108,0,0,Friday,4.99
+2024-09-20,102,Glühwein,3,0,0,Friday,8.5
+2024-09-20,103,Pretzel,191,0,0,Friday,1.2
+2024-09-20,104,German Beer (6-pack),138,0,0,Friday,12.99
+2024-09-21,101,Bratwurst,89,0,0,Saturday,4.99
+2024-09-21,102,Glühwein,3,0,0,Saturday,8.5
+2024-09-21,103,Pretzel,198,0,0,Saturday,1.2
+2024-09-21,104,German Beer (6-pack),152,0,0,Saturday,12.99
+2024-09-22,101,Bratwurst,0,0,0,Sunday,4.99
+2024-09-22,102,Glühwein,0,0,0,Sunday,8.5
+2024-09-22,103,Pretzel,0,0,0,Sunday,1.2
+2024-09-22,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-09-23,101,Bratwurst,68,0,0,Monday,4.99
+2024-09-23,102,Glühwein,2,0,0,Monday,8.5
+2024-09-23,103,Pretzel,99,0,0,Monday,1.2
+2024-09-23,104,German Beer (6-pack),94,0,0,Monday,12.99
+2024-09-24,101,Bratwurst,68,0,0,Tuesday,4.99
+2024-09-24,102,Glühwein,2,0,0,Tuesday,8.5
+2024-09-24,103,Pretzel,116,0,0,Tuesday,1.2
+2024-09-24,104,German Beer (6-pack),118,0,0,Tuesday,12.99
+2024-09-25,101,Bratwurst,65,0,0,Wednesday,4.99
+2024-09-25,102,Glühwein,1,0,0,Wednesday,8.5
+2024-09-25,103,Pretzel,104,0,0,Wednesday,1.2
+2024-09-25,104,German Beer (6-pack),86,0,0,Wednesday,12.99
+2024-09-26,101,Bratwurst,58,0,0,Thursday,4.99
+2024-09-26,102,Glühwein,1,0,0,Thursday,8.5
+2024-09-26,103,Pretzel,112,0,0,Thursday,1.2
+2024-09-26,104,German Beer (6-pack),90,0,0,Thursday,12.99
+2024-09-27,101,Bratwurst,99,0,0,Friday,4.99
+2024-09-27,102,Glühwein,2,0,0,Friday,8.5
+2024-09-27,103,Pretzel,199,0,0,Friday,1.2
+2024-09-27,104,German Beer (6-pack),179,0,0,Friday,12.99
+2024-09-28,101,Bratwurst,107,0,0,Saturday,4.99
+2024-09-28,102,Glühwein,2,0,0,Saturday,8.5
+2024-09-28,103,Pretzel,135,0,0,Saturday,1.2
+2024-09-28,104,German Beer (6-pack),191,0,0,Saturday,12.99
+2024-09-29,101,Bratwurst,0,1,0,Sunday,4.99
+2024-09-29,102,Glühwein,0,1,0,Sunday,8.5
+2024-09-29,103,Pretzel,0,1,0,Sunday,1.2
+2024-09-29,104,German Beer (6-pack),0,1,0,Sunday,12.99
+2024-09-30,101,Bratwurst,55,0,0,Monday,4.99
+2024-09-30,102,Glühwein,1,0,0,Monday,8.5
+2024-09-30,103,Pretzel,132,0,0,Monday,1.2
+2024-09-30,104,German Beer (6-pack),129,0,0,Monday,12.99
+2024-10-01,101,Bratwurst,53,0,0,Tuesday,4.99
+2024-10-01,102,Glühwein,2,0,0,Tuesday,8.5
+2024-10-01,103,Pretzel,116,0,0,Tuesday,1.2
+2024-10-01,104,German Beer (6-pack),83,0,0,Tuesday,12.99
+2024-10-02,101,Bratwurst,46,0,0,Wednesday,4.99
+2024-10-02,102,Glühwein,1,0,0,Wednesday,8.5
+2024-10-02,103,Pretzel,99,0,0,Wednesday,1.2
+2024-10-02,104,German Beer (6-pack),79,0,0,Wednesday,12.99
+2024-10-03,101,Bratwurst,54,0,1,Thursday,4.99
+2024-10-03,102,Glühwein,1,0,1,Thursday,8.5
+2024-10-03,103,Pretzel,97,0,1,Thursday,1.2
+2024-10-03,104,German Beer (6-pack),83,0,1,Thursday,12.99
+2024-10-04,101,Bratwurst,67,0,0,Friday,4.99
+2024-10-04,102,Glühwein,3,0,0,Friday,8.5
+2024-10-04,103,Pretzel,162,0,0,Friday,1.2
+2024-10-04,104,German Beer (6-pack),117,0,0,Friday,12.99
+2024-10-05,101,Bratwurst,67,0,0,Saturday,4.99
+2024-10-05,102,Glühwein,3,0,0,Saturday,8.5
+2024-10-05,103,Pretzel,213,0,0,Saturday,1.2
+2024-10-05,104,German Beer (6-pack),122,0,0,Saturday,12.99
+2024-10-06,101,Bratwurst,0,0,0,Sunday,4.99
+2024-10-06,102,Glühwein,0,0,0,Sunday,8.5
+2024-10-06,103,Pretzel,0,0,0,Sunday,1.2
+2024-10-06,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-10-07,101,Bratwurst,56,0,0,Monday,4.99
+2024-10-07,102,Glühwein,1,0,0,Monday,8.5
+2024-10-07,103,Pretzel,113,0,0,Monday,1.2
+2024-10-07,104,German Beer (6-pack),80,0,0,Monday,12.99
+2024-10-08,101,Bratwurst,50,0,0,Tuesday,4.99
+2024-10-08,102,Glühwein,2,0,0,Tuesday,8.5
+2024-10-08,103,Pretzel,120,0,0,Tuesday,1.2
+2024-10-08,104,German Beer (6-pack),80,0,0,Tuesday,12.99
+2024-10-09,101,Bratwurst,52,0,0,Wednesday,4.99
+2024-10-09,102,Glühwein,1,0,0,Wednesday,8.5
+2024-10-09,103,Pretzel,133,0,0,Wednesday,1.2
+2024-10-09,104,German Beer (6-pack),77,0,0,Wednesday,12.99
+2024-10-10,101,Bratwurst,43,0,0,Thursday,4.99
+2024-10-10,102,Glühwein,1,0,0,Thursday,8.5
+2024-10-10,103,Pretzel,111,0,0,Thursday,1.2
+2024-10-10,104,German Beer (6-pack),87,0,0,Thursday,12.99
+2024-10-11,101,Bratwurst,88,0,0,Friday,4.99
+2024-10-11,102,Glühwein,2,0,0,Friday,8.5
+2024-10-11,103,Pretzel,184,0,0,Friday,1.2
+2024-10-11,104,German Beer (6-pack),110,0,0,Friday,12.99
+2024-10-12,101,Bratwurst,66,0,0,Saturday,4.99
+2024-10-12,102,Glühwein,3,0,0,Saturday,8.5
+2024-10-12,103,Pretzel,191,0,0,Saturday,1.2
+2024-10-12,104,German Beer (6-pack),124,0,0,Saturday,12.99
+2024-10-13,101,Bratwurst,0,0,0,Sunday,4.99
+2024-10-13,102,Glühwein,0,0,0,Sunday,8.5
+2024-10-13,103,Pretzel,0,0,0,Sunday,1.2
+2024-10-13,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-10-14,101,Bratwurst,50,0,0,Monday,4.99
+2024-10-14,102,Glühwein,1,0,0,Monday,8.5
+2024-10-14,103,Pretzel,131,0,0,Monday,1.2
+2024-10-14,104,German Beer (6-pack),97,0,0,Monday,12.99
+2024-10-15,101,Bratwurst,57,0,0,Tuesday,4.99
+2024-10-15,102,Glühwein,1,0,0,Tuesday,8.5
+2024-10-15,103,Pretzel,123,0,0,Tuesday,1.2
+2024-10-15,104,German Beer (6-pack),79,0,0,Tuesday,12.99
+2024-10-16,101,Bratwurst,45,0,0,Wednesday,4.99
+2024-10-16,102,Glühwein,2,0,0,Wednesday,8.5
+2024-10-16,103,Pretzel,140,0,0,Wednesday,1.2
+2024-10-16,104,German Beer (6-pack),75,0,0,Wednesday,12.99
+2024-10-17,101,Bratwurst,51,0,0,Thursday,4.99
+2024-10-17,102,Glühwein,1,0,0,Thursday,8.5
+2024-10-17,103,Pretzel,100,0,0,Thursday,1.2
+2024-10-17,104,German Beer (6-pack),84,0,0,Thursday,12.99
+2024-10-18,101,Bratwurst,70,0,0,Friday,4.99
+2024-10-18,102,Glühwein,2,0,0,Friday,8.5
+2024-10-18,103,Pretzel,168,0,0,Friday,1.2
+2024-10-18,104,German Beer (6-pack),105,0,0,Friday,12.99
+2024-10-19,101,Bratwurst,69,0,0,Saturday,4.99
+2024-10-19,102,Glühwein,3,0,0,Saturday,8.5
+2024-10-19,103,Pretzel,168,0,0,Saturday,1.2
+2024-10-19,104,German Beer (6-pack),128,0,0,Saturday,12.99
+2024-10-20,101,Bratwurst,0,0,0,Sunday,4.99
+2024-10-20,102,Glühwein,0,0,0,Sunday,8.5
+2024-10-20,103,Pretzel,0,0,0,Sunday,1.2
+2024-10-20,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-10-21,101,Bratwurst,52,0,0,Monday,4.99
+2024-10-21,102,Glühwein,2,0,0,Monday,8.5
+2024-10-21,103,Pretzel,105,0,0,Monday,1.2
+2024-10-21,104,German Beer (6-pack),70,0,0,Monday,12.99
+2024-10-22,101,Bratwurst,58,0,0,Tuesday,4.99
+2024-10-22,102,Glühwein,2,0,0,Tuesday,8.5
+2024-10-22,103,Pretzel,111,0,0,Tuesday,1.2
+2024-10-22,104,German Beer (6-pack),79,0,0,Tuesday,12.99
+2024-10-23,101,Bratwurst,45,0,0,Wednesday,4.99
+2024-10-23,102,Glühwein,2,0,0,Wednesday,8.5
+2024-10-23,103,Pretzel,109,0,0,Wednesday,1.2
+2024-10-23,104,German Beer (6-pack),80,0,0,Wednesday,12.99
+2024-10-24,101,Bratwurst,46,0,0,Thursday,4.99
+2024-10-24,102,Glühwein,2,0,0,Thursday,8.5
+2024-10-24,103,Pretzel,133,0,0,Thursday,1.2
+2024-10-24,104,German Beer (6-pack),84,0,0,Thursday,12.99
+2024-10-25,101,Bratwurst,70,0,0,Friday,4.99
+2024-10-25,102,Glühwein,2,0,0,Friday,8.5
+2024-10-25,103,Pretzel,181,0,0,Friday,1.2
+2024-10-25,104,German Beer (6-pack),129,0,0,Friday,12.99
+2024-10-26,101,Bratwurst,92,0,0,Saturday,4.99
+2024-10-26,102,Glühwein,3,0,0,Saturday,8.5
+2024-10-26,103,Pretzel,183,0,0,Saturday,1.2
+2024-10-26,104,German Beer (6-pack),116,0,0,Saturday,12.99
+2024-10-27,101,Bratwurst,0,0,0,Sunday,4.99
+2024-10-27,102,Glühwein,0,0,0,Sunday,8.5
+2024-10-27,103,Pretzel,0,0,0,Sunday,1.2
+2024-10-27,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-10-28,101,Bratwurst,53,0,0,Monday,4.99
+2024-10-28,102,Glühwein,2,0,0,Monday,8.5
+2024-10-28,103,Pretzel,110,0,0,Monday,1.2
+2024-10-28,104,German Beer (6-pack),69,0,0,Monday,12.99
+2024-10-29,101,Bratwurst,50,0,0,Tuesday,4.99
+2024-10-29,102,Glühwein,2,0,0,Tuesday,8.5
+2024-10-29,103,Pretzel,109,0,0,Tuesday,1.2
+2024-10-29,104,German Beer (6-pack),67,0,0,Tuesday,12.99
+2024-10-30,101,Bratwurst,51,0,0,Wednesday,4.99
+2024-10-30,102,Glühwein,2,0,0,Wednesday,8.5
+2024-10-30,103,Pretzel,119,0,0,Wednesday,1.2
+2024-10-30,104,German Beer (6-pack),86,0,0,Wednesday,12.99
+2024-10-31,101,Bratwurst,48,0,0,Thursday,4.99
+2024-10-31,102,Glühwein,2,0,0,Thursday,8.5
+2024-10-31,103,Pretzel,114,0,0,Thursday,1.2
+2024-10-31,104,German Beer (6-pack),89,0,0,Thursday,12.99
+2024-11-01,101,Bratwurst,77,0,0,Friday,4.99
+2024-11-01,102,Glühwein,61,0,0,Friday,8.5
+2024-11-01,103,Pretzel,167,0,0,Friday,1.2
+2024-11-01,104,German Beer (6-pack),131,0,0,Friday,12.99
+2024-11-02,101,Bratwurst,66,0,0,Saturday,4.99
+2024-11-02,102,Glühwein,57,0,0,Saturday,8.5
+2024-11-02,103,Pretzel,161,0,0,Saturday,1.2
+2024-11-02,104,German Beer (6-pack),135,0,0,Saturday,12.99
+2024-11-03,101,Bratwurst,0,0,0,Sunday,4.99
+2024-11-03,102,Glühwein,0,0,0,Sunday,8.5
+2024-11-03,103,Pretzel,0,0,0,Sunday,1.2
+2024-11-03,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-11-04,101,Bratwurst,48,0,0,Monday,4.99
+2024-11-04,102,Glühwein,40,0,0,Monday,8.5
+2024-11-04,103,Pretzel,149,0,0,Monday,1.2
+2024-11-04,104,German Beer (6-pack),77,0,0,Monday,12.99
+2024-11-05,101,Bratwurst,50,0,0,Tuesday,4.99
+2024-11-05,102,Glühwein,34,0,0,Tuesday,8.5
+2024-11-05,103,Pretzel,107,0,0,Tuesday,1.2
+2024-11-05,104,German Beer (6-pack),77,0,0,Tuesday,12.99
+2024-11-06,101,Bratwurst,52,0,0,Wednesday,4.99
+2024-11-06,102,Glühwein,40,0,0,Wednesday,8.5
+2024-11-06,103,Pretzel,98,0,0,Wednesday,1.2
+2024-11-06,104,German Beer (6-pack),74,0,0,Wednesday,12.99
+2024-11-07,101,Bratwurst,45,0,0,Thursday,4.99
+2024-11-07,102,Glühwein,39,0,0,Thursday,8.5
+2024-11-07,103,Pretzel,105,0,0,Thursday,1.2
+2024-11-07,104,German Beer (6-pack),84,0,0,Thursday,12.99
+2024-11-08,101,Bratwurst,67,0,0,Friday,4.99
+2024-11-08,102,Glühwein,62,0,0,Friday,8.5
+2024-11-08,103,Pretzel,167,0,0,Friday,1.2
+2024-11-08,104,German Beer (6-pack),119,0,0,Friday,12.99
+2024-11-09,101,Bratwurst,76,0,0,Saturday,4.99
+2024-11-09,102,Glühwein,57,0,0,Saturday,8.5
+2024-11-09,103,Pretzel,168,0,0,Saturday,1.2
+2024-11-09,104,German Beer (6-pack),116,0,0,Saturday,12.99
+2024-11-10,101,Bratwurst,0,0,0,Sunday,4.99
+2024-11-10,102,Glühwein,0,0,0,Sunday,8.5
+2024-11-10,103,Pretzel,0,0,0,Sunday,1.2
+2024-11-10,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-11-11,101,Bratwurst,50,0,0,Monday,4.99
+2024-11-11,102,Glühwein,40,0,0,Monday,8.5
+2024-11-11,103,Pretzel,125,0,0,Monday,1.2
+2024-11-11,104,German Beer (6-pack),89,0,0,Monday,12.99
+2024-11-12,101,Bratwurst,52,0,0,Tuesday,4.99
+2024-11-12,102,Glühwein,49,0,0,Tuesday,8.5
+2024-11-12,103,Pretzel,107,0,0,Tuesday,1.2
+2024-11-12,104,German Beer (6-pack),78,0,0,Tuesday,12.99
+2024-11-13,101,Bratwurst,43,0,0,Wednesday,4.99
+2024-11-13,102,Glühwein,39,0,0,Wednesday,8.5
+2024-11-13,103,Pretzel,105,0,0,Wednesday,1.2
+2024-11-13,104,German Beer (6-pack),65,0,0,Wednesday,12.99
+2024-11-14,101,Bratwurst,54,0,0,Thursday,4.99
+2024-11-14,102,Glühwein,43,0,0,Thursday,8.5
+2024-11-14,103,Pretzel,119,0,0,Thursday,1.2
+2024-11-14,104,German Beer (6-pack),78,0,0,Thursday,12.99
+2024-11-15,101,Bratwurst,70,0,0,Friday,4.99
+2024-11-15,102,Glühwein,62,0,0,Friday,8.5
+2024-11-15,103,Pretzel,153,0,0,Friday,1.2
+2024-11-15,104,German Beer (6-pack),122,0,0,Friday,12.99
+2024-11-16,101,Bratwurst,94,1,0,Saturday,4.99
+2024-11-16,102,Glühwein,83,1,0,Saturday,8.5
+2024-11-16,103,Pretzel,202,1,0,Saturday,1.2
+2024-11-16,104,German Beer (6-pack),202,1,0,Saturday,12.99
+2024-11-17,101,Bratwurst,0,0,0,Sunday,4.99
+2024-11-17,102,Glühwein,0,0,0,Sunday,8.5
+2024-11-17,103,Pretzel,0,0,0,Sunday,1.2
+2024-11-17,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-11-18,101,Bratwurst,44,0,0,Monday,4.99
+2024-11-18,102,Glühwein,39,0,0,Monday,8.5
+2024-11-18,103,Pretzel,134,0,0,Monday,1.2
+2024-11-18,104,German Beer (6-pack),73,0,0,Monday,12.99
+2024-11-19,101,Bratwurst,43,0,0,Tuesday,4.99
+2024-11-19,102,Glühwein,33,0,0,Tuesday,8.5
+2024-11-19,103,Pretzel,137,0,0,Tuesday,1.2
+2024-11-19,104,German Beer (6-pack),78,0,0,Tuesday,12.99
+2024-11-20,101,Bratwurst,55,0,0,Wednesday,4.99
+2024-11-20,102,Glühwein,35,0,0,Wednesday,8.5
+2024-11-20,103,Pretzel,100,0,0,Wednesday,1.2
+2024-11-20,104,German Beer (6-pack),76,0,0,Wednesday,12.99
+2024-11-21,101,Bratwurst,60,0,0,Thursday,4.99
+2024-11-21,102,Glühwein,37,0,0,Thursday,8.5
+2024-11-21,103,Pretzel,128,0,0,Thursday,1.2
+2024-11-21,104,German Beer (6-pack),82,0,0,Thursday,12.99
+2024-11-22,101,Bratwurst,70,0,0,Friday,4.99
+2024-11-22,102,Glühwein,61,0,0,Friday,8.5
+2024-11-22,103,Pretzel,158,0,0,Friday,1.2
+2024-11-22,104,German Beer (6-pack),120,0,0,Friday,12.99
+2024-11-23,101,Bratwurst,90,0,0,Saturday,4.99
+2024-11-23,102,Glühwein,60,0,0,Saturday,8.5
+2024-11-23,103,Pretzel,173,0,0,Saturday,1.2
+2024-11-23,104,German Beer (6-pack),122,0,0,Saturday,12.99
+2024-11-24,101,Bratwurst,0,0,0,Sunday,4.99
+2024-11-24,102,Glühwein,0,0,0,Sunday,8.5
+2024-11-24,103,Pretzel,0,0,0,Sunday,1.2
+2024-11-24,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-11-25,101,Bratwurst,60,1,0,Monday,4.99
+2024-11-25,102,Glühwein,50,1,0,Monday,8.5
+2024-11-25,103,Pretzel,188,1,0,Monday,1.2
+2024-11-25,104,German Beer (6-pack),104,1,0,Monday,12.99
+2024-11-26,101,Bratwurst,47,0,0,Tuesday,4.99
+2024-11-26,102,Glühwein,38,0,0,Tuesday,8.5
+2024-11-26,103,Pretzel,123,0,0,Tuesday,1.2
+2024-11-26,104,German Beer (6-pack),74,0,0,Tuesday,12.99
+2024-11-27,101,Bratwurst,54,0,0,Wednesday,4.99
+2024-11-27,102,Glühwein,36,0,0,Wednesday,8.5
+2024-11-27,103,Pretzel,102,0,0,Wednesday,1.2
+2024-11-27,104,German Beer (6-pack),92,0,0,Wednesday,12.99
+2024-11-28,101,Bratwurst,51,0,0,Thursday,4.99
+2024-11-28,102,Glühwein,36,0,0,Thursday,8.5
+2024-11-28,103,Pretzel,127,0,0,Thursday,1.2
+2024-11-28,104,German Beer (6-pack),89,0,0,Thursday,12.99
+2024-11-29,101,Bratwurst,70,0,0,Friday,4.99
+2024-11-29,102,Glühwein,65,0,0,Friday,8.5
+2024-11-29,103,Pretzel,181,0,0,Friday,1.2
+2024-11-29,104,German Beer (6-pack),123,0,0,Friday,12.99
+2024-11-30,101,Bratwurst,80,0,0,Saturday,4.99
+2024-11-30,102,Glühwein,63,0,0,Saturday,8.5
+2024-11-30,103,Pretzel,164,0,0,Saturday,1.2
+2024-11-30,104,German Beer (6-pack),124,0,0,Saturday,12.99
+2024-12-01,101,Bratwurst,0,0,0,Sunday,4.99
+2024-12-01,102,Glühwein,0,0,0,Sunday,8.5
+2024-12-01,103,Pretzel,0,0,0,Sunday,1.2
+2024-12-01,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-12-02,101,Bratwurst,47,0,0,Monday,4.99
+2024-12-02,102,Glühwein,34,0,0,Monday,8.5
+2024-12-02,103,Pretzel,99,0,0,Monday,1.2
+2024-12-02,104,German Beer (6-pack),64,0,0,Monday,12.99
+2024-12-03,101,Bratwurst,48,0,0,Tuesday,4.99
+2024-12-03,102,Glühwein,38,0,0,Tuesday,8.5
+2024-12-03,103,Pretzel,123,0,0,Tuesday,1.2
+2024-12-03,104,German Beer (6-pack),86,0,0,Tuesday,12.99
+2024-12-04,101,Bratwurst,51,0,0,Wednesday,4.99
+2024-12-04,102,Glühwein,41,0,0,Wednesday,8.5
+2024-12-04,103,Pretzel,130,0,0,Wednesday,1.2
+2024-12-04,104,German Beer (6-pack),73,0,0,Wednesday,12.99
+2024-12-05,101,Bratwurst,52,0,0,Thursday,4.99
+2024-12-05,102,Glühwein,42,0,0,Thursday,8.5
+2024-12-05,103,Pretzel,127,0,0,Thursday,1.2
+2024-12-05,104,German Beer (6-pack),89,0,0,Thursday,12.99
+2024-12-06,101,Bratwurst,77,0,0,Friday,4.99
+2024-12-06,102,Glühwein,60,0,0,Friday,8.5
+2024-12-06,103,Pretzel,178,0,0,Friday,1.2
+2024-12-06,104,German Beer (6-pack),118,0,0,Friday,12.99
+2024-12-07,101,Bratwurst,71,0,0,Saturday,4.99
+2024-12-07,102,Glühwein,63,0,0,Saturday,8.5
+2024-12-07,103,Pretzel,202,0,0,Saturday,1.2
+2024-12-07,104,German Beer (6-pack),120,0,0,Saturday,12.99
+2024-12-08,101,Bratwurst,0,0,0,Sunday,4.99
+2024-12-08,102,Glühwein,0,0,0,Sunday,8.5
+2024-12-08,103,Pretzel,0,0,0,Sunday,1.2
+2024-12-08,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-12-09,101,Bratwurst,51,0,0,Monday,4.99
+2024-12-09,102,Glühwein,50,0,0,Monday,8.5
+2024-12-09,103,Pretzel,126,0,0,Monday,1.2
+2024-12-09,104,German Beer (6-pack),65,0,0,Monday,12.99
+2024-12-10,101,Bratwurst,51,0,0,Tuesday,4.99
+2024-12-10,102,Glühwein,43,0,0,Tuesday,8.5
+2024-12-10,103,Pretzel,112,0,0,Tuesday,1.2
+2024-12-10,104,German Beer (6-pack),83,0,0,Tuesday,12.99
+2024-12-11,101,Bratwurst,48,0,0,Wednesday,4.99
+2024-12-11,102,Glühwein,36,0,0,Wednesday,8.5
+2024-12-11,103,Pretzel,113,0,0,Wednesday,1.2
+2024-12-11,104,German Beer (6-pack),84,0,0,Wednesday,12.99
+2024-12-12,101,Bratwurst,53,0,0,Thursday,4.99
+2024-12-12,102,Glühwein,45,0,0,Thursday,8.5
+2024-12-12,103,Pretzel,113,0,0,Thursday,1.2
+2024-12-12,104,German Beer (6-pack),71,0,0,Thursday,12.99
+2024-12-13,101,Bratwurst,73,0,0,Friday,4.99
+2024-12-13,102,Glühwein,60,0,0,Friday,8.5
+2024-12-13,103,Pretzel,165,0,0,Friday,1.2
+2024-12-13,104,German Beer (6-pack),127,0,0,Friday,12.99
+2024-12-14,101,Bratwurst,64,0,0,Saturday,4.99
+2024-12-14,102,Glühwein,53,0,0,Saturday,8.5
+2024-12-14,103,Pretzel,171,0,0,Saturday,1.2
+2024-12-14,104,German Beer (6-pack),110,0,0,Saturday,12.99
+2024-12-15,101,Bratwurst,0,0,0,Sunday,4.99
+2024-12-15,102,Glühwein,0,0,0,Sunday,8.5
+2024-12-15,103,Pretzel,0,0,0,Sunday,1.2
+2024-12-15,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-12-16,101,Bratwurst,45,0,0,Monday,4.99
+2024-12-16,102,Glühwein,31,0,0,Monday,8.5
+2024-12-16,103,Pretzel,127,0,0,Monday,1.2
+2024-12-16,104,German Beer (6-pack),82,0,0,Monday,12.99
+2024-12-17,101,Bratwurst,42,0,0,Tuesday,4.99
+2024-12-17,102,Glühwein,32,0,0,Tuesday,8.5
+2024-12-17,103,Pretzel,101,0,0,Tuesday,1.2
+2024-12-17,104,German Beer (6-pack),90,0,0,Tuesday,12.99
+2024-12-18,101,Bratwurst,50,0,0,Wednesday,4.99
+2024-12-18,102,Glühwein,36,0,0,Wednesday,8.5
+2024-12-18,103,Pretzel,146,0,0,Wednesday,1.2
+2024-12-18,104,German Beer (6-pack),77,0,0,Wednesday,12.99
+2024-12-19,101,Bratwurst,57,0,0,Thursday,4.99
+2024-12-19,102,Glühwein,48,0,0,Thursday,8.5
+2024-12-19,103,Pretzel,144,0,0,Thursday,1.2
+2024-12-19,104,German Beer (6-pack),89,0,0,Thursday,12.99
+2024-12-20,101,Bratwurst,70,0,0,Friday,4.99
+2024-12-20,102,Glühwein,64,0,0,Friday,8.5
+2024-12-20,103,Pretzel,179,0,0,Friday,1.2
+2024-12-20,104,German Beer (6-pack),135,0,0,Friday,12.99
+2024-12-21,101,Bratwurst,73,0,0,Saturday,4.99
+2024-12-21,102,Glühwein,57,0,0,Saturday,8.5
+2024-12-21,103,Pretzel,192,0,0,Saturday,1.2
+2024-12-21,104,German Beer (6-pack),131,0,0,Saturday,12.99
+2024-12-22,101,Bratwurst,0,0,0,Sunday,4.99
+2024-12-22,102,Glühwein,0,0,0,Sunday,8.5
+2024-12-22,103,Pretzel,0,0,0,Sunday,1.2
+2024-12-22,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-12-23,101,Bratwurst,44,0,0,Monday,4.99
+2024-12-23,102,Glühwein,39,0,0,Monday,8.5
+2024-12-23,103,Pretzel,111,0,0,Monday,1.2
+2024-12-23,104,German Beer (6-pack),65,0,0,Monday,12.99
+2024-12-24,101,Bratwurst,52,0,0,Tuesday,4.99
+2024-12-24,102,Glühwein,34,0,0,Tuesday,8.5
+2024-12-24,103,Pretzel,122,0,0,Tuesday,1.2
+2024-12-24,104,German Beer (6-pack),84,0,0,Tuesday,12.99
+2024-12-25,101,Bratwurst,56,0,1,Wednesday,4.99
+2024-12-25,102,Glühwein,42,0,1,Wednesday,8.5
+2024-12-25,103,Pretzel,117,0,1,Wednesday,1.2
+2024-12-25,104,German Beer (6-pack),72,0,1,Wednesday,12.99
+2024-12-26,101,Bratwurst,55,0,1,Thursday,4.99
+2024-12-26,102,Glühwein,32,0,1,Thursday,8.5
+2024-12-26,103,Pretzel,104,0,1,Thursday,1.2
+2024-12-26,104,German Beer (6-pack),82,0,1,Thursday,12.99
+2024-12-27,101,Bratwurst,76,0,0,Friday,4.99
+2024-12-27,102,Glühwein,49,0,0,Friday,8.5
+2024-12-27,103,Pretzel,185,0,0,Friday,1.2
+2024-12-27,104,German Beer (6-pack),118,0,0,Friday,12.99
+2024-12-28,101,Bratwurst,82,0,0,Saturday,4.99
+2024-12-28,102,Glühwein,58,0,0,Saturday,8.5
+2024-12-28,103,Pretzel,173,0,0,Saturday,1.2
+2024-12-28,104,German Beer (6-pack),124,0,0,Saturday,12.99
+2024-12-29,101,Bratwurst,0,0,0,Sunday,4.99
+2024-12-29,102,Glühwein,0,0,0,Sunday,8.5
+2024-12-29,103,Pretzel,0,0,0,Sunday,1.2
+2024-12-29,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2024-12-30,101,Bratwurst,44,0,0,Monday,4.99
+2024-12-30,102,Glühwein,39,0,0,Monday,8.5
+2024-12-30,103,Pretzel,122,0,0,Monday,1.2
+2024-12-30,104,German Beer (6-pack),76,0,0,Monday,12.99
+2024-12-31,101,Bratwurst,58,0,0,Tuesday,4.99
+2024-12-31,102,Glühwein,38,0,0,Tuesday,8.5
+2024-12-31,103,Pretzel,112,0,0,Tuesday,1.2
+2024-12-31,104,German Beer (6-pack),83,0,0,Tuesday,12.99
+2025-01-01,101,Bratwurst,51,0,1,Wednesday,4.99
+2025-01-01,102,Glühwein,1,0,1,Wednesday,8.5
+2025-01-01,103,Pretzel,124,0,1,Wednesday,1.2
+2025-01-01,104,German Beer (6-pack),80,0,1,Wednesday,12.99
+2025-01-02,101,Bratwurst,49,0,0,Thursday,4.99
+2025-01-02,102,Glühwein,1,0,0,Thursday,8.5
+2025-01-02,103,Pretzel,109,0,0,Thursday,1.2
+2025-01-02,104,German Beer (6-pack),73,0,0,Thursday,12.99
+2025-01-03,101,Bratwurst,68,0,0,Friday,4.99
+2025-01-03,102,Glühwein,2,0,0,Friday,8.5
+2025-01-03,103,Pretzel,174,0,0,Friday,1.2
+2025-01-03,104,German Beer (6-pack),138,0,0,Friday,12.99
+2025-01-04,101,Bratwurst,74,0,0,Saturday,4.99
+2025-01-04,102,Glühwein,2,0,0,Saturday,8.5
+2025-01-04,103,Pretzel,136,0,0,Saturday,1.2
+2025-01-04,104,German Beer (6-pack),130,0,0,Saturday,12.99
+2025-01-05,101,Bratwurst,0,0,0,Sunday,4.99
+2025-01-05,102,Glühwein,0,0,0,Sunday,8.5
+2025-01-05,103,Pretzel,0,0,0,Sunday,1.2
+2025-01-05,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-01-06,101,Bratwurst,50,0,0,Monday,4.99
+2025-01-06,102,Glühwein,2,0,0,Monday,8.5
+2025-01-06,103,Pretzel,101,0,0,Monday,1.2
+2025-01-06,104,German Beer (6-pack),75,0,0,Monday,12.99
+2025-01-07,101,Bratwurst,44,0,0,Tuesday,4.99
+2025-01-07,102,Glühwein,2,0,0,Tuesday,8.5
+2025-01-07,103,Pretzel,104,0,0,Tuesday,1.2
+2025-01-07,104,German Beer (6-pack),99,0,0,Tuesday,12.99
+2025-01-08,101,Bratwurst,41,0,0,Wednesday,4.99
+2025-01-08,102,Glühwein,2,0,0,Wednesday,8.5
+2025-01-08,103,Pretzel,111,0,0,Wednesday,1.2
+2025-01-08,104,German Beer (6-pack),73,0,0,Wednesday,12.99
+2025-01-09,101,Bratwurst,55,0,0,Thursday,4.99
+2025-01-09,102,Glühwein,2,0,0,Thursday,8.5
+2025-01-09,103,Pretzel,116,0,0,Thursday,1.2
+2025-01-09,104,German Beer (6-pack),81,0,0,Thursday,12.99
+2025-01-10,101,Bratwurst,68,0,0,Friday,4.99
+2025-01-10,102,Glühwein,3,0,0,Friday,8.5
+2025-01-10,103,Pretzel,160,0,0,Friday,1.2
+2025-01-10,104,German Beer (6-pack),84,0,0,Friday,12.99
+2025-01-11,101,Bratwurst,71,0,0,Saturday,4.99
+2025-01-11,102,Glühwein,3,0,0,Saturday,8.5
+2025-01-11,103,Pretzel,211,0,0,Saturday,1.2
+2025-01-11,104,German Beer (6-pack),107,0,0,Saturday,12.99
+2025-01-12,101,Bratwurst,0,0,0,Sunday,4.99
+2025-01-12,102,Glühwein,0,0,0,Sunday,8.5
+2025-01-12,103,Pretzel,0,0,0,Sunday,1.2
+2025-01-12,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-01-13,101,Bratwurst,56,0,0,Monday,4.99
+2025-01-13,102,Glühwein,2,0,0,Monday,8.5
+2025-01-13,103,Pretzel,112,0,0,Monday,1.2
+2025-01-13,104,German Beer (6-pack),79,0,0,Monday,12.99
+2025-01-14,101,Bratwurst,46,0,0,Tuesday,4.99
+2025-01-14,102,Glühwein,1,0,0,Tuesday,8.5
+2025-01-14,103,Pretzel,114,0,0,Tuesday,1.2
+2025-01-14,104,German Beer (6-pack),72,0,0,Tuesday,12.99
+2025-01-15,101,Bratwurst,42,0,0,Wednesday,4.99
+2025-01-15,102,Glühwein,2,0,0,Wednesday,8.5
+2025-01-15,103,Pretzel,115,0,0,Wednesday,1.2
+2025-01-15,104,German Beer (6-pack),84,0,0,Wednesday,12.99
+2025-01-16,101,Bratwurst,54,0,0,Thursday,4.99
+2025-01-16,102,Glühwein,1,0,0,Thursday,8.5
+2025-01-16,103,Pretzel,117,0,0,Thursday,1.2
+2025-01-16,104,German Beer (6-pack),105,0,0,Thursday,12.99
+2025-01-17,101,Bratwurst,82,0,0,Friday,4.99
+2025-01-17,102,Glühwein,3,0,0,Friday,8.5
+2025-01-17,103,Pretzel,203,0,0,Friday,1.2
+2025-01-17,104,German Beer (6-pack),113,0,0,Friday,12.99
+2025-01-18,101,Bratwurst,75,0,0,Saturday,4.99
+2025-01-18,102,Glühwein,2,0,0,Saturday,8.5
+2025-01-18,103,Pretzel,196,0,0,Saturday,1.2
+2025-01-18,104,German Beer (6-pack),111,0,0,Saturday,12.99
+2025-01-19,101,Bratwurst,0,0,0,Sunday,4.99
+2025-01-19,102,Glühwein,0,0,0,Sunday,8.5
+2025-01-19,103,Pretzel,0,0,0,Sunday,1.2
+2025-01-19,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-01-20,101,Bratwurst,47,0,0,Monday,4.99
+2025-01-20,102,Glühwein,2,0,0,Monday,8.5
+2025-01-20,103,Pretzel,120,0,0,Monday,1.2
+2025-01-20,104,German Beer (6-pack),86,0,0,Monday,12.99
+2025-01-21,101,Bratwurst,54,0,0,Tuesday,4.99
+2025-01-21,102,Glühwein,2,0,0,Tuesday,8.5
+2025-01-21,103,Pretzel,130,0,0,Tuesday,1.2
+2025-01-21,104,German Beer (6-pack),76,0,0,Tuesday,12.99
+2025-01-22,101,Bratwurst,48,0,0,Wednesday,4.99
+2025-01-22,102,Glühwein,1,0,0,Wednesday,8.5
+2025-01-22,103,Pretzel,108,0,0,Wednesday,1.2
+2025-01-22,104,German Beer (6-pack),83,0,0,Wednesday,12.99
+2025-01-23,101,Bratwurst,46,0,0,Thursday,4.99
+2025-01-23,102,Glühwein,2,0,0,Thursday,8.5
+2025-01-23,103,Pretzel,122,0,0,Thursday,1.2
+2025-01-23,104,German Beer (6-pack),81,0,0,Thursday,12.99
+2025-01-24,101,Bratwurst,74,0,0,Friday,4.99
+2025-01-24,102,Glühwein,3,0,0,Friday,8.5
+2025-01-24,103,Pretzel,160,0,0,Friday,1.2
+2025-01-24,104,German Beer (6-pack),125,0,0,Friday,12.99
+2025-01-25,101,Bratwurst,66,0,0,Saturday,4.99
+2025-01-25,102,Glühwein,2,0,0,Saturday,8.5
+2025-01-25,103,Pretzel,180,0,0,Saturday,1.2
+2025-01-25,104,German Beer (6-pack),116,0,0,Saturday,12.99
+2025-01-26,101,Bratwurst,0,0,0,Sunday,4.99
+2025-01-26,102,Glühwein,0,0,0,Sunday,8.5
+2025-01-26,103,Pretzel,0,0,0,Sunday,1.2
+2025-01-26,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-01-27,101,Bratwurst,45,0,0,Monday,4.99
+2025-01-27,102,Glühwein,2,0,0,Monday,8.5
+2025-01-27,103,Pretzel,123,0,0,Monday,1.2
+2025-01-27,104,German Beer (6-pack),82,0,0,Monday,12.99
+2025-01-28,101,Bratwurst,44,0,0,Tuesday,4.99
+2025-01-28,102,Glühwein,2,0,0,Tuesday,8.5
+2025-01-28,103,Pretzel,135,0,0,Tuesday,1.2
+2025-01-28,104,German Beer (6-pack),79,0,0,Tuesday,12.99
+2025-01-29,101,Bratwurst,49,0,0,Wednesday,4.99
+2025-01-29,102,Glühwein,1,0,0,Wednesday,8.5
+2025-01-29,103,Pretzel,114,0,0,Wednesday,1.2
+2025-01-29,104,German Beer (6-pack),87,0,0,Wednesday,12.99
+2025-01-30,101,Bratwurst,54,0,0,Thursday,4.99
+2025-01-30,102,Glühwein,2,0,0,Thursday,8.5
+2025-01-30,103,Pretzel,117,0,0,Thursday,1.2
+2025-01-30,104,German Beer (6-pack),77,0,0,Thursday,12.99
+2025-01-31,101,Bratwurst,70,0,0,Friday,4.99
+2025-01-31,102,Glühwein,2,0,0,Friday,8.5
+2025-01-31,103,Pretzel,193,0,0,Friday,1.2
+2025-01-31,104,German Beer (6-pack),135,0,0,Friday,12.99
+2025-02-01,101,Bratwurst,82,0,0,Saturday,4.99
+2025-02-01,102,Glühwein,2,0,0,Saturday,8.5
+2025-02-01,103,Pretzel,187,0,0,Saturday,1.2
+2025-02-01,104,German Beer (6-pack),119,0,0,Saturday,12.99
+2025-02-02,101,Bratwurst,0,0,0,Sunday,4.99
+2025-02-02,102,Glühwein,0,0,0,Sunday,8.5
+2025-02-02,103,Pretzel,0,0,0,Sunday,1.2
+2025-02-02,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-02-03,101,Bratwurst,44,0,0,Monday,4.99
+2025-02-03,102,Glühwein,2,0,0,Monday,8.5
+2025-02-03,103,Pretzel,114,0,0,Monday,1.2
+2025-02-03,104,German Beer (6-pack),81,0,0,Monday,12.99
+2025-02-04,101,Bratwurst,47,0,0,Tuesday,4.99
+2025-02-04,102,Glühwein,2,0,0,Tuesday,8.5
+2025-02-04,103,Pretzel,113,0,0,Tuesday,1.2
+2025-02-04,104,German Beer (6-pack),86,0,0,Tuesday,12.99
+2025-02-05,101,Bratwurst,50,0,0,Wednesday,4.99
+2025-02-05,102,Glühwein,2,0,0,Wednesday,8.5
+2025-02-05,103,Pretzel,107,0,0,Wednesday,1.2
+2025-02-05,104,German Beer (6-pack),74,0,0,Wednesday,12.99
+2025-02-06,101,Bratwurst,77,1,0,Thursday,4.99
+2025-02-06,102,Glühwein,2,1,0,Thursday,8.5
+2025-02-06,103,Pretzel,180,1,0,Thursday,1.2
+2025-02-06,104,German Beer (6-pack),119,1,0,Thursday,12.99
+2025-02-07,101,Bratwurst,78,0,0,Friday,4.99
+2025-02-07,102,Glühwein,2,0,0,Friday,8.5
+2025-02-07,103,Pretzel,192,0,0,Friday,1.2
+2025-02-07,104,German Beer (6-pack),142,0,0,Friday,12.99
+2025-02-08,101,Bratwurst,62,0,0,Saturday,4.99
+2025-02-08,102,Glühwein,2,0,0,Saturday,8.5
+2025-02-08,103,Pretzel,182,0,0,Saturday,1.2
+2025-02-08,104,German Beer (6-pack),133,0,0,Saturday,12.99
+2025-02-09,101,Bratwurst,0,0,0,Sunday,4.99
+2025-02-09,102,Glühwein,0,0,0,Sunday,8.5
+2025-02-09,103,Pretzel,0,0,0,Sunday,1.2
+2025-02-09,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-02-10,101,Bratwurst,49,0,0,Monday,4.99
+2025-02-10,102,Glühwein,1,0,0,Monday,8.5
+2025-02-10,103,Pretzel,117,0,0,Monday,1.2
+2025-02-10,104,German Beer (6-pack),83,0,0,Monday,12.99
+2025-02-11,101,Bratwurst,52,0,0,Tuesday,4.99
+2025-02-11,102,Glühwein,1,0,0,Tuesday,8.5
+2025-02-11,103,Pretzel,128,0,0,Tuesday,1.2
+2025-02-11,104,German Beer (6-pack),84,0,0,Tuesday,12.99
+2025-02-12,101,Bratwurst,76,1,0,Wednesday,4.99
+2025-02-12,102,Glühwein,2,1,0,Wednesday,8.5
+2025-02-12,103,Pretzel,179,1,0,Wednesday,1.2
+2025-02-12,104,German Beer (6-pack),107,1,0,Wednesday,12.99
+2025-02-13,101,Bratwurst,51,0,0,Thursday,4.99
+2025-02-13,102,Glühwein,2,0,0,Thursday,8.5
+2025-02-13,103,Pretzel,117,0,0,Thursday,1.2
+2025-02-13,104,German Beer (6-pack),77,0,0,Thursday,12.99
+2025-02-14,101,Bratwurst,85,1,0,Friday,4.99
+2025-02-14,102,Glühwein,4,1,0,Friday,8.5
+2025-02-14,103,Pretzel,211,1,0,Friday,1.2
+2025-02-14,104,German Beer (6-pack),181,1,0,Friday,12.99
+2025-02-15,101,Bratwurst,82,0,0,Saturday,4.99
+2025-02-15,102,Glühwein,3,0,0,Saturday,8.5
+2025-02-15,103,Pretzel,178,0,0,Saturday,1.2
+2025-02-15,104,German Beer (6-pack),117,0,0,Saturday,12.99
+2025-02-16,101,Bratwurst,0,0,0,Sunday,4.99
+2025-02-16,102,Glühwein,0,0,0,Sunday,8.5
+2025-02-16,103,Pretzel,0,0,0,Sunday,1.2
+2025-02-16,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-02-17,101,Bratwurst,70,1,0,Monday,4.99
+2025-02-17,102,Glühwein,3,1,0,Monday,8.5
+2025-02-17,103,Pretzel,152,1,0,Monday,1.2
+2025-02-17,104,German Beer (6-pack),114,1,0,Monday,12.99
+2025-02-18,101,Bratwurst,51,0,0,Tuesday,4.99
+2025-02-18,102,Glühwein,2,0,0,Tuesday,8.5
+2025-02-18,103,Pretzel,127,0,0,Tuesday,1.2
+2025-02-18,104,German Beer (6-pack),101,0,0,Tuesday,12.99
+2025-02-19,101,Bratwurst,46,0,0,Wednesday,4.99
+2025-02-19,102,Glühwein,1,0,0,Wednesday,8.5
+2025-02-19,103,Pretzel,126,0,0,Wednesday,1.2
+2025-02-19,104,German Beer (6-pack),90,0,0,Wednesday,12.99
+2025-02-20,101,Bratwurst,60,0,0,Thursday,4.99
+2025-02-20,102,Glühwein,1,0,0,Thursday,8.5
+2025-02-20,103,Pretzel,134,0,0,Thursday,1.2
+2025-02-20,104,German Beer (6-pack),93,0,0,Thursday,12.99
+2025-02-21,101,Bratwurst,75,0,0,Friday,4.99
+2025-02-21,102,Glühwein,2,0,0,Friday,8.5
+2025-02-21,103,Pretzel,175,0,0,Friday,1.2
+2025-02-21,104,German Beer (6-pack),109,0,0,Friday,12.99
+2025-02-22,101,Bratwurst,78,0,0,Saturday,4.99
+2025-02-22,102,Glühwein,3,0,0,Saturday,8.5
+2025-02-22,103,Pretzel,206,0,0,Saturday,1.2
+2025-02-22,104,German Beer (6-pack),127,0,0,Saturday,12.99
+2025-02-23,101,Bratwurst,0,0,0,Sunday,4.99
+2025-02-23,102,Glühwein,0,0,0,Sunday,8.5
+2025-02-23,103,Pretzel,0,0,0,Sunday,1.2
+2025-02-23,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-02-24,101,Bratwurst,49,0,0,Monday,4.99
+2025-02-24,102,Glühwein,1,0,0,Monday,8.5
+2025-02-24,103,Pretzel,114,0,0,Monday,1.2
+2025-02-24,104,German Beer (6-pack),62,0,0,Monday,12.99
+2025-02-25,101,Bratwurst,66,1,0,Tuesday,4.99
+2025-02-25,102,Glühwein,2,1,0,Tuesday,8.5
+2025-02-25,103,Pretzel,144,1,0,Tuesday,1.2
+2025-02-25,104,German Beer (6-pack),111,1,0,Tuesday,12.99
+2025-02-26,101,Bratwurst,45,0,0,Wednesday,4.99
+2025-02-26,102,Glühwein,1,0,0,Wednesday,8.5
+2025-02-26,103,Pretzel,117,0,0,Wednesday,1.2
+2025-02-26,104,German Beer (6-pack),80,0,0,Wednesday,12.99
+2025-02-27,101,Bratwurst,67,1,0,Thursday,4.99
+2025-02-27,102,Glühwein,2,1,0,Thursday,8.5
+2025-02-27,103,Pretzel,173,1,0,Thursday,1.2
+2025-02-27,104,German Beer (6-pack),127,1,0,Thursday,12.99
+2025-02-28,101,Bratwurst,77,0,0,Friday,4.99
+2025-02-28,102,Glühwein,2,0,0,Friday,8.5
+2025-02-28,103,Pretzel,165,0,0,Friday,1.2
+2025-02-28,104,German Beer (6-pack),117,0,0,Friday,12.99
+2025-03-01,101,Bratwurst,72,0,0,Saturday,4.99
+2025-03-01,102,Glühwein,2,0,0,Saturday,8.5
+2025-03-01,103,Pretzel,199,0,0,Saturday,1.2
+2025-03-01,104,German Beer (6-pack),120,0,0,Saturday,12.99
+2025-03-02,101,Bratwurst,0,0,0,Sunday,4.99
+2025-03-02,102,Glühwein,0,0,0,Sunday,8.5
+2025-03-02,103,Pretzel,0,0,0,Sunday,1.2
+2025-03-02,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-03-03,101,Bratwurst,46,0,0,Monday,4.99
+2025-03-03,102,Glühwein,1,0,0,Monday,8.5
+2025-03-03,103,Pretzel,98,0,0,Monday,1.2
+2025-03-03,104,German Beer (6-pack),67,0,0,Monday,12.99
+2025-03-04,101,Bratwurst,53,0,0,Tuesday,4.99
+2025-03-04,102,Glühwein,2,0,0,Tuesday,8.5
+2025-03-04,103,Pretzel,131,0,0,Tuesday,1.2
+2025-03-04,104,German Beer (6-pack),75,0,0,Tuesday,12.99
+2025-03-05,101,Bratwurst,47,0,0,Wednesday,4.99
+2025-03-05,102,Glühwein,2,0,0,Wednesday,8.5
+2025-03-05,103,Pretzel,139,0,0,Wednesday,1.2
+2025-03-05,104,German Beer (6-pack),87,0,0,Wednesday,12.99
+2025-03-06,101,Bratwurst,45,0,0,Thursday,4.99
+2025-03-06,102,Glühwein,1,0,0,Thursday,8.5
+2025-03-06,103,Pretzel,109,0,0,Thursday,1.2
+2025-03-06,104,German Beer (6-pack),77,0,0,Thursday,12.99
+2025-03-07,101,Bratwurst,74,0,0,Friday,4.99
+2025-03-07,102,Glühwein,3,0,0,Friday,8.5
+2025-03-07,103,Pretzel,175,0,0,Friday,1.2
+2025-03-07,104,German Beer (6-pack),112,0,0,Friday,12.99
+2025-03-08,101,Bratwurst,84,0,0,Saturday,4.99
+2025-03-08,102,Glühwein,3,0,0,Saturday,8.5
+2025-03-08,103,Pretzel,201,0,0,Saturday,1.2
+2025-03-08,104,German Beer (6-pack),99,0,0,Saturday,12.99
+2025-03-09,101,Bratwurst,0,1,0,Sunday,4.99
+2025-03-09,102,Glühwein,0,1,0,Sunday,8.5
+2025-03-09,103,Pretzel,0,1,0,Sunday,1.2
+2025-03-09,104,German Beer (6-pack),0,1,0,Sunday,12.99
+2025-03-10,101,Bratwurst,51,0,0,Monday,4.99
+2025-03-10,102,Glühwein,2,0,0,Monday,8.5
+2025-03-10,103,Pretzel,124,0,0,Monday,1.2
+2025-03-10,104,German Beer (6-pack),85,0,0,Monday,12.99
+2025-03-11,101,Bratwurst,44,0,0,Tuesday,4.99
+2025-03-11,102,Glühwein,2,0,0,Tuesday,8.5
+2025-03-11,103,Pretzel,119,0,0,Tuesday,1.2
+2025-03-11,104,German Beer (6-pack),78,0,0,Tuesday,12.99
+2025-03-12,101,Bratwurst,63,0,0,Wednesday,4.99
+2025-03-12,102,Glühwein,1,0,0,Wednesday,8.5
+2025-03-12,103,Pretzel,96,0,0,Wednesday,1.2
+2025-03-12,104,German Beer (6-pack),85,0,0,Wednesday,12.99
+2025-03-13,101,Bratwurst,54,0,0,Thursday,4.99
+2025-03-13,102,Glühwein,2,0,0,Thursday,8.5
+2025-03-13,103,Pretzel,112,0,0,Thursday,1.2
+2025-03-13,104,German Beer (6-pack),94,0,0,Thursday,12.99
+2025-03-14,101,Bratwurst,67,0,0,Friday,4.99
+2025-03-14,102,Glühwein,2,0,0,Friday,8.5
+2025-03-14,103,Pretzel,175,0,0,Friday,1.2
+2025-03-14,104,German Beer (6-pack),137,0,0,Friday,12.99
+2025-03-15,101,Bratwurst,77,0,0,Saturday,4.99
+2025-03-15,102,Glühwein,3,0,0,Saturday,8.5
+2025-03-15,103,Pretzel,177,0,0,Saturday,1.2
+2025-03-15,104,German Beer (6-pack),129,0,0,Saturday,12.99
+2025-03-16,101,Bratwurst,0,0,0,Sunday,4.99
+2025-03-16,102,Glühwein,0,0,0,Sunday,8.5
+2025-03-16,103,Pretzel,0,0,0,Sunday,1.2
+2025-03-16,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-03-17,101,Bratwurst,56,0,0,Monday,4.99
+2025-03-17,102,Glühwein,1,0,0,Monday,8.5
+2025-03-17,103,Pretzel,132,0,0,Monday,1.2
+2025-03-17,104,German Beer (6-pack),89,0,0,Monday,12.99
+2025-03-18,101,Bratwurst,48,0,0,Tuesday,4.99
+2025-03-18,102,Glühwein,1,0,0,Tuesday,8.5
+2025-03-18,103,Pretzel,108,0,0,Tuesday,1.2
+2025-03-18,104,German Beer (6-pack),76,0,0,Tuesday,12.99
+2025-03-19,101,Bratwurst,79,1,0,Wednesday,4.99
+2025-03-19,102,Glühwein,3,1,0,Wednesday,8.5
+2025-03-19,103,Pretzel,158,1,0,Wednesday,1.2
+2025-03-19,104,German Beer (6-pack),109,1,0,Wednesday,12.99
+2025-03-20,101,Bratwurst,55,0,0,Thursday,4.99
+2025-03-20,102,Glühwein,1,0,0,Thursday,8.5
+2025-03-20,103,Pretzel,100,0,0,Thursday,1.2
+2025-03-20,104,German Beer (6-pack),90,0,0,Thursday,12.99
+2025-03-21,101,Bratwurst,74,0,0,Friday,4.99
+2025-03-21,102,Glühwein,3,0,0,Friday,8.5
+2025-03-21,103,Pretzel,165,0,0,Friday,1.2
+2025-03-21,104,German Beer (6-pack),125,0,0,Friday,12.99
+2025-03-22,101,Bratwurst,75,0,0,Saturday,4.99
+2025-03-22,102,Glühwein,2,0,0,Saturday,8.5
+2025-03-22,103,Pretzel,178,0,0,Saturday,1.2
+2025-03-22,104,German Beer (6-pack),124,0,0,Saturday,12.99
+2025-03-23,101,Bratwurst,0,1,0,Sunday,4.99
+2025-03-23,102,Glühwein,0,1,0,Sunday,8.5
+2025-03-23,103,Pretzel,0,1,0,Sunday,1.2
+2025-03-23,104,German Beer (6-pack),0,1,0,Sunday,12.99
+2025-03-24,101,Bratwurst,62,1,0,Monday,4.99
+2025-03-24,102,Glühwein,2,1,0,Monday,8.5
+2025-03-24,103,Pretzel,137,1,0,Monday,1.2
+2025-03-24,104,German Beer (6-pack),108,1,0,Monday,12.99
+2025-03-25,101,Bratwurst,53,0,0,Tuesday,4.99
+2025-03-25,102,Glühwein,1,0,0,Tuesday,8.5
+2025-03-25,103,Pretzel,134,0,0,Tuesday,1.2
+2025-03-25,104,German Beer (6-pack),82,0,0,Tuesday,12.99
+2025-03-26,101,Bratwurst,42,0,0,Wednesday,4.99
+2025-03-26,102,Glühwein,1,0,0,Wednesday,8.5
+2025-03-26,103,Pretzel,126,0,0,Wednesday,1.2
+2025-03-26,104,German Beer (6-pack),63,0,0,Wednesday,12.99
+2025-03-27,101,Bratwurst,58,0,0,Thursday,4.99
+2025-03-27,102,Glühwein,2,0,0,Thursday,8.5
+2025-03-27,103,Pretzel,127,0,0,Thursday,1.2
+2025-03-27,104,German Beer (6-pack),84,0,0,Thursday,12.99
+2025-03-28,101,Bratwurst,67,0,0,Friday,4.99
+2025-03-28,102,Glühwein,2,0,0,Friday,8.5
+2025-03-28,103,Pretzel,157,0,0,Friday,1.2
+2025-03-28,104,German Beer (6-pack),109,0,0,Friday,12.99
+2025-03-29,101,Bratwurst,60,0,0,Saturday,4.99
+2025-03-29,102,Glühwein,3,0,0,Saturday,8.5
+2025-03-29,103,Pretzel,160,0,0,Saturday,1.2
+2025-03-29,104,German Beer (6-pack),122,0,0,Saturday,12.99
+2025-03-30,101,Bratwurst,0,0,0,Sunday,4.99
+2025-03-30,102,Glühwein,0,0,0,Sunday,8.5
+2025-03-30,103,Pretzel,0,0,0,Sunday,1.2
+2025-03-30,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-03-31,101,Bratwurst,37,0,0,Monday,4.99
+2025-03-31,102,Glühwein,1,0,0,Monday,8.5
+2025-03-31,103,Pretzel,133,0,0,Monday,1.2
+2025-03-31,104,German Beer (6-pack),95,0,0,Monday,12.99
+2025-04-01,101,Bratwurst,47,0,0,Tuesday,4.99
+2025-04-01,102,Glühwein,1,0,0,Tuesday,8.5
+2025-04-01,103,Pretzel,119,0,0,Tuesday,1.2
+2025-04-01,104,German Beer (6-pack),75,0,0,Tuesday,12.99
+2025-04-02,101,Bratwurst,51,0,0,Wednesday,4.99
+2025-04-02,102,Glühwein,2,0,0,Wednesday,8.5
+2025-04-02,103,Pretzel,133,0,0,Wednesday,1.2
+2025-04-02,104,German Beer (6-pack),80,0,0,Wednesday,12.99
+2025-04-03,101,Bratwurst,48,0,0,Thursday,4.99
+2025-04-03,102,Glühwein,2,0,0,Thursday,8.5
+2025-04-03,103,Pretzel,112,0,0,Thursday,1.2
+2025-04-03,104,German Beer (6-pack),86,0,0,Thursday,12.99
+2025-04-04,101,Bratwurst,77,0,0,Friday,4.99
+2025-04-04,102,Glühwein,2,0,0,Friday,8.5
+2025-04-04,103,Pretzel,200,0,0,Friday,1.2
+2025-04-04,104,German Beer (6-pack),119,0,0,Friday,12.99
+2025-04-05,101,Bratwurst,64,0,0,Saturday,4.99
+2025-04-05,102,Glühwein,2,0,0,Saturday,8.5
+2025-04-05,103,Pretzel,191,0,0,Saturday,1.2
+2025-04-05,104,German Beer (6-pack),111,0,0,Saturday,12.99
+2025-04-06,101,Bratwurst,0,0,0,Sunday,4.99
+2025-04-06,102,Glühwein,0,0,0,Sunday,8.5
+2025-04-06,103,Pretzel,0,0,0,Sunday,1.2
+2025-04-06,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-04-07,101,Bratwurst,63,0,0,Monday,4.99
+2025-04-07,102,Glühwein,1,0,0,Monday,8.5
+2025-04-07,103,Pretzel,134,0,0,Monday,1.2
+2025-04-07,104,German Beer (6-pack),77,0,0,Monday,12.99
+2025-04-08,101,Bratwurst,52,0,0,Tuesday,4.99
+2025-04-08,102,Glühwein,2,0,0,Tuesday,8.5
+2025-04-08,103,Pretzel,117,0,0,Tuesday,1.2
+2025-04-08,104,German Beer (6-pack),78,0,0,Tuesday,12.99
+2025-04-09,101,Bratwurst,55,0,0,Wednesday,4.99
+2025-04-09,102,Glühwein,1,0,0,Wednesday,8.5
+2025-04-09,103,Pretzel,118,0,0,Wednesday,1.2
+2025-04-09,104,German Beer (6-pack),88,0,0,Wednesday,12.99
+2025-04-10,101,Bratwurst,53,0,0,Thursday,4.99
+2025-04-10,102,Glühwein,2,0,0,Thursday,8.5
+2025-04-10,103,Pretzel,119,0,0,Thursday,1.2
+2025-04-10,104,German Beer (6-pack),76,0,0,Thursday,12.99
+2025-04-11,101,Bratwurst,82,0,0,Friday,4.99
+2025-04-11,102,Glühwein,3,0,0,Friday,8.5
+2025-04-11,103,Pretzel,172,0,0,Friday,1.2
+2025-04-11,104,German Beer (6-pack),111,0,0,Friday,12.99
+2025-04-12,101,Bratwurst,70,0,0,Saturday,4.99
+2025-04-12,102,Glühwein,3,0,0,Saturday,8.5
+2025-04-12,103,Pretzel,197,0,0,Saturday,1.2
+2025-04-12,104,German Beer (6-pack),126,0,0,Saturday,12.99
+2025-04-13,101,Bratwurst,0,0,0,Sunday,4.99
+2025-04-13,102,Glühwein,0,0,0,Sunday,8.5
+2025-04-13,103,Pretzel,0,0,0,Sunday,1.2
+2025-04-13,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-04-14,101,Bratwurst,75,1,0,Monday,4.99
+2025-04-14,102,Glühwein,2,1,0,Monday,8.5
+2025-04-14,103,Pretzel,157,1,0,Monday,1.2
+2025-04-14,104,German Beer (6-pack),116,1,0,Monday,12.99
+2025-04-15,101,Bratwurst,53,0,0,Tuesday,4.99
+2025-04-15,102,Glühwein,2,0,0,Tuesday,8.5
+2025-04-15,103,Pretzel,127,0,0,Tuesday,1.2
+2025-04-15,104,German Beer (6-pack),83,0,0,Tuesday,12.99
+2025-04-16,101,Bratwurst,49,0,0,Wednesday,4.99
+2025-04-16,102,Glühwein,1,0,0,Wednesday,8.5
+2025-04-16,103,Pretzel,118,0,0,Wednesday,1.2
+2025-04-16,104,German Beer (6-pack),74,0,0,Wednesday,12.99
+2025-04-17,101,Bratwurst,49,0,0,Thursday,4.99
+2025-04-17,102,Glühwein,1,0,0,Thursday,8.5
+2025-04-17,103,Pretzel,121,0,0,Thursday,1.2
+2025-04-17,104,German Beer (6-pack),78,0,0,Thursday,12.99
+2025-04-18,101,Bratwurst,60,0,0,Friday,4.99
+2025-04-18,102,Glühwein,3,0,0,Friday,8.5
+2025-04-18,103,Pretzel,180,0,0,Friday,1.2
+2025-04-18,104,German Beer (6-pack),110,0,0,Friday,12.99
+2025-04-19,101,Bratwurst,73,0,0,Saturday,4.99
+2025-04-19,102,Glühwein,3,0,0,Saturday,8.5
+2025-04-19,103,Pretzel,177,0,0,Saturday,1.2
+2025-04-19,104,German Beer (6-pack),111,0,0,Saturday,12.99
+2025-04-20,101,Bratwurst,0,0,0,Sunday,4.99
+2025-04-20,102,Glühwein,0,0,0,Sunday,8.5
+2025-04-20,103,Pretzel,0,0,0,Sunday,1.2
+2025-04-20,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-04-21,101,Bratwurst,54,0,0,Monday,4.99
+2025-04-21,102,Glühwein,1,0,0,Monday,8.5
+2025-04-21,103,Pretzel,118,0,0,Monday,1.2
+2025-04-21,104,German Beer (6-pack),85,0,0,Monday,12.99
+2025-04-22,101,Bratwurst,48,0,0,Tuesday,4.99
+2025-04-22,102,Glühwein,1,0,0,Tuesday,8.5
+2025-04-22,103,Pretzel,127,0,0,Tuesday,1.2
+2025-04-22,104,German Beer (6-pack),70,0,0,Tuesday,12.99
+2025-04-23,101,Bratwurst,41,0,0,Wednesday,4.99
+2025-04-23,102,Glühwein,2,0,0,Wednesday,8.5
+2025-04-23,103,Pretzel,109,0,0,Wednesday,1.2
+2025-04-23,104,German Beer (6-pack),82,0,0,Wednesday,12.99
+2025-04-24,101,Bratwurst,34,0,0,Thursday,4.99
+2025-04-24,102,Glühwein,2,0,0,Thursday,8.5
+2025-04-24,103,Pretzel,141,0,0,Thursday,1.2
+2025-04-24,104,German Beer (6-pack),89,0,0,Thursday,12.99
+2025-04-25,101,Bratwurst,66,0,0,Friday,4.99
+2025-04-25,102,Glühwein,3,0,0,Friday,8.5
+2025-04-25,103,Pretzel,195,0,0,Friday,1.2
+2025-04-25,104,German Beer (6-pack),126,0,0,Friday,12.99
+2025-04-26,101,Bratwurst,82,0,0,Saturday,4.99
+2025-04-26,102,Glühwein,3,0,0,Saturday,8.5
+2025-04-26,103,Pretzel,187,0,0,Saturday,1.2
+2025-04-26,104,German Beer (6-pack),113,0,0,Saturday,12.99
+2025-04-27,101,Bratwurst,0,0,0,Sunday,4.99
+2025-04-27,102,Glühwein,0,0,0,Sunday,8.5
+2025-04-27,103,Pretzel,0,0,0,Sunday,1.2
+2025-04-27,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-04-28,101,Bratwurst,46,0,0,Monday,4.99
+2025-04-28,102,Glühwein,1,0,0,Monday,8.5
+2025-04-28,103,Pretzel,113,0,0,Monday,1.2
+2025-04-28,104,German Beer (6-pack),81,0,0,Monday,12.99
+2025-04-29,101,Bratwurst,46,0,0,Tuesday,4.99
+2025-04-29,102,Glühwein,2,0,0,Tuesday,8.5
+2025-04-29,103,Pretzel,131,0,0,Tuesday,1.2
+2025-04-29,104,German Beer (6-pack),71,0,0,Tuesday,12.99
+2025-04-30,101,Bratwurst,54,0,0,Wednesday,4.99
+2025-04-30,102,Glühwein,1,0,0,Wednesday,8.5
+2025-04-30,103,Pretzel,112,0,0,Wednesday,1.2
+2025-04-30,104,German Beer (6-pack),77,0,0,Wednesday,12.99
+2025-05-01,101,Bratwurst,69,0,1,Thursday,4.99
+2025-05-01,102,Glühwein,1,0,1,Thursday,8.5
+2025-05-01,103,Pretzel,132,0,1,Thursday,1.2
+2025-05-01,104,German Beer (6-pack),97,0,1,Thursday,12.99
+2025-05-02,101,Bratwurst,105,0,0,Friday,4.99
+2025-05-02,102,Glühwein,2,0,0,Friday,8.5
+2025-05-02,103,Pretzel,187,0,0,Friday,1.2
+2025-05-02,104,German Beer (6-pack),154,0,0,Friday,12.99
+2025-05-03,101,Bratwurst,96,0,0,Saturday,4.99
+2025-05-03,102,Glühwein,3,0,0,Saturday,8.5
+2025-05-03,103,Pretzel,208,0,0,Saturday,1.2
+2025-05-03,104,German Beer (6-pack),135,0,0,Saturday,12.99
+2025-05-04,101,Bratwurst,0,0,0,Sunday,4.99
+2025-05-04,102,Glühwein,0,0,0,Sunday,8.5
+2025-05-04,103,Pretzel,0,0,0,Sunday,1.2
+2025-05-04,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-05-05,101,Bratwurst,95,1,0,Monday,4.99
+2025-05-05,102,Glühwein,2,1,0,Monday,8.5
+2025-05-05,103,Pretzel,171,1,0,Monday,1.2
+2025-05-05,104,German Beer (6-pack),146,1,0,Monday,12.99
+2025-05-06,101,Bratwurst,65,0,0,Tuesday,4.99
+2025-05-06,102,Glühwein,2,0,0,Tuesday,8.5
+2025-05-06,103,Pretzel,112,0,0,Tuesday,1.2
+2025-05-06,104,German Beer (6-pack),100,0,0,Tuesday,12.99
+2025-05-07,101,Bratwurst,62,0,0,Wednesday,4.99
+2025-05-07,102,Glühwein,2,0,0,Wednesday,8.5
+2025-05-07,103,Pretzel,124,0,0,Wednesday,1.2
+2025-05-07,104,German Beer (6-pack),102,0,0,Wednesday,12.99
+2025-05-08,101,Bratwurst,55,0,0,Thursday,4.99
+2025-05-08,102,Glühwein,1,0,0,Thursday,8.5
+2025-05-08,103,Pretzel,113,0,0,Thursday,1.2
+2025-05-08,104,German Beer (6-pack),91,0,0,Thursday,12.99
+2025-05-09,101,Bratwurst,109,0,0,Friday,4.99
+2025-05-09,102,Glühwein,2,0,0,Friday,8.5
+2025-05-09,103,Pretzel,172,0,0,Friday,1.2
+2025-05-09,104,German Beer (6-pack),163,0,0,Friday,12.99
+2025-05-10,101,Bratwurst,107,0,0,Saturday,4.99
+2025-05-10,102,Glühwein,2,0,0,Saturday,8.5
+2025-05-10,103,Pretzel,192,0,0,Saturday,1.2
+2025-05-10,104,German Beer (6-pack),139,0,0,Saturday,12.99
+2025-05-11,101,Bratwurst,0,0,0,Sunday,4.99
+2025-05-11,102,Glühwein,0,0,0,Sunday,8.5
+2025-05-11,103,Pretzel,0,0,0,Sunday,1.2
+2025-05-11,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-05-12,101,Bratwurst,67,0,0,Monday,4.99
+2025-05-12,102,Glühwein,1,0,0,Monday,8.5
+2025-05-12,103,Pretzel,109,0,0,Monday,1.2
+2025-05-12,104,German Beer (6-pack),115,0,0,Monday,12.99
+2025-05-13,101,Bratwurst,75,0,0,Tuesday,4.99
+2025-05-13,102,Glühwein,1,0,0,Tuesday,8.5
+2025-05-13,103,Pretzel,122,0,0,Tuesday,1.2
+2025-05-13,104,German Beer (6-pack),102,0,0,Tuesday,12.99
+2025-05-14,101,Bratwurst,61,0,0,Wednesday,4.99
+2025-05-14,102,Glühwein,1,0,0,Wednesday,8.5
+2025-05-14,103,Pretzel,120,0,0,Wednesday,1.2
+2025-05-14,104,German Beer (6-pack),93,0,0,Wednesday,12.99
+2025-05-15,101,Bratwurst,55,0,0,Thursday,4.99
+2025-05-15,102,Glühwein,1,0,0,Thursday,8.5
+2025-05-15,103,Pretzel,117,0,0,Thursday,1.2
+2025-05-15,104,German Beer (6-pack),76,0,0,Thursday,12.99
+2025-05-16,101,Bratwurst,121,0,0,Friday,4.99
+2025-05-16,102,Glühwein,3,0,0,Friday,8.5
+2025-05-16,103,Pretzel,179,0,0,Friday,1.2
+2025-05-16,104,German Beer (6-pack),151,0,0,Friday,12.99
+2025-05-17,101,Bratwurst,117,0,0,Saturday,4.99
+2025-05-17,102,Glühwein,3,0,0,Saturday,8.5
+2025-05-17,103,Pretzel,198,0,0,Saturday,1.2
+2025-05-17,104,German Beer (6-pack),144,0,0,Saturday,12.99
+2025-05-18,101,Bratwurst,0,0,0,Sunday,4.99
+2025-05-18,102,Glühwein,0,0,0,Sunday,8.5
+2025-05-18,103,Pretzel,0,0,0,Sunday,1.2
+2025-05-18,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-05-19,101,Bratwurst,63,0,0,Monday,4.99
+2025-05-19,102,Glühwein,2,0,0,Monday,8.5
+2025-05-19,103,Pretzel,131,0,0,Monday,1.2
+2025-05-19,104,German Beer (6-pack),96,0,0,Monday,12.99
+2025-05-20,101,Bratwurst,56,0,0,Tuesday,4.99
+2025-05-20,102,Glühwein,1,0,0,Tuesday,8.5
+2025-05-20,103,Pretzel,121,0,0,Tuesday,1.2
+2025-05-20,104,German Beer (6-pack),104,0,0,Tuesday,12.99
+2025-05-21,101,Bratwurst,69,0,0,Wednesday,4.99
+2025-05-21,102,Glühwein,2,0,0,Wednesday,8.5
+2025-05-21,103,Pretzel,92,0,0,Wednesday,1.2
+2025-05-21,104,German Beer (6-pack),94,0,0,Wednesday,12.99
+2025-05-22,101,Bratwurst,64,0,0,Thursday,4.99
+2025-05-22,102,Glühwein,1,0,0,Thursday,8.5
+2025-05-22,103,Pretzel,117,0,0,Thursday,1.2
+2025-05-22,104,German Beer (6-pack),121,0,0,Thursday,12.99
+2025-05-23,101,Bratwurst,102,0,0,Friday,4.99
+2025-05-23,102,Glühwein,3,0,0,Friday,8.5
+2025-05-23,103,Pretzel,176,0,0,Friday,1.2
+2025-05-23,104,German Beer (6-pack),145,0,0,Friday,12.99
+2025-05-24,101,Bratwurst,93,0,0,Saturday,4.99
+2025-05-24,102,Glühwein,2,0,0,Saturday,8.5
+2025-05-24,103,Pretzel,203,0,0,Saturday,1.2
+2025-05-24,104,German Beer (6-pack),164,0,0,Saturday,12.99
+2025-05-25,101,Bratwurst,0,0,0,Sunday,4.99
+2025-05-25,102,Glühwein,0,0,0,Sunday,8.5
+2025-05-25,103,Pretzel,0,0,0,Sunday,1.2
+2025-05-25,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-05-26,101,Bratwurst,68,0,0,Monday,4.99
+2025-05-26,102,Glühwein,2,0,0,Monday,8.5
+2025-05-26,103,Pretzel,138,0,0,Monday,1.2
+2025-05-26,104,German Beer (6-pack),93,0,0,Monday,12.99
+2025-05-27,101,Bratwurst,69,0,0,Tuesday,4.99
+2025-05-27,102,Glühwein,1,0,0,Tuesday,8.5
+2025-05-27,103,Pretzel,116,0,0,Tuesday,1.2
+2025-05-27,104,German Beer (6-pack),84,0,0,Tuesday,12.99
+2025-05-28,101,Bratwurst,62,0,0,Wednesday,4.99
+2025-05-28,102,Glühwein,2,0,0,Wednesday,8.5
+2025-05-28,103,Pretzel,109,0,0,Wednesday,1.2
+2025-05-28,104,German Beer (6-pack),125,0,0,Wednesday,12.99
+2025-05-29,101,Bratwurst,65,0,0,Thursday,4.99
+2025-05-29,102,Glühwein,2,0,0,Thursday,8.5
+2025-05-29,103,Pretzel,120,0,0,Thursday,1.2
+2025-05-29,104,German Beer (6-pack),87,0,0,Thursday,12.99
+2025-05-30,101,Bratwurst,95,0,0,Friday,4.99
+2025-05-30,102,Glühwein,2,0,0,Friday,8.5
+2025-05-30,103,Pretzel,176,0,0,Friday,1.2
+2025-05-30,104,German Beer (6-pack),177,0,0,Friday,12.99
+2025-05-31,101,Bratwurst,92,0,0,Saturday,4.99
+2025-05-31,102,Glühwein,2,0,0,Saturday,8.5
+2025-05-31,103,Pretzel,176,0,0,Saturday,1.2
+2025-05-31,104,German Beer (6-pack),136,0,0,Saturday,12.99
+2025-06-01,101,Bratwurst,0,0,0,Sunday,4.99
+2025-06-01,102,Glühwein,0,0,0,Sunday,8.5
+2025-06-01,103,Pretzel,0,0,0,Sunday,1.2
+2025-06-01,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-06-02,101,Bratwurst,131,1,0,Monday,4.99
+2025-06-02,102,Glühwein,2,1,0,Monday,8.5
+2025-06-02,103,Pretzel,168,1,0,Monday,1.2
+2025-06-02,104,German Beer (6-pack),208,1,0,Monday,12.99
+2025-06-03,101,Bratwurst,108,0,0,Tuesday,4.99
+2025-06-03,102,Glühwein,1,0,0,Tuesday,8.5
+2025-06-03,103,Pretzel,122,0,0,Tuesday,1.2
+2025-06-03,104,German Beer (6-pack),134,0,0,Tuesday,12.99
+2025-06-04,101,Bratwurst,94,0,0,Wednesday,4.99
+2025-06-04,102,Glühwein,1,0,0,Wednesday,8.5
+2025-06-04,103,Pretzel,120,0,0,Wednesday,1.2
+2025-06-04,104,German Beer (6-pack),152,0,0,Wednesday,12.99
+2025-06-05,101,Bratwurst,84,0,0,Thursday,4.99
+2025-06-05,102,Glühwein,2,0,0,Thursday,8.5
+2025-06-05,103,Pretzel,141,0,0,Thursday,1.2
+2025-06-05,104,German Beer (6-pack),141,0,0,Thursday,12.99
+2025-06-06,101,Bratwurst,153,0,0,Friday,4.99
+2025-06-06,102,Glühwein,3,0,0,Friday,8.5
+2025-06-06,103,Pretzel,184,0,0,Friday,1.2
+2025-06-06,104,German Beer (6-pack),190,0,0,Friday,12.99
+2025-06-07,101,Bratwurst,130,0,0,Saturday,4.99
+2025-06-07,102,Glühwein,2,0,0,Saturday,8.5
+2025-06-07,103,Pretzel,157,0,0,Saturday,1.2
+2025-06-07,104,German Beer (6-pack),229,0,0,Saturday,12.99
+2025-06-08,101,Bratwurst,0,0,0,Sunday,4.99
+2025-06-08,102,Glühwein,0,0,0,Sunday,8.5
+2025-06-08,103,Pretzel,0,0,0,Sunday,1.2
+2025-06-08,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-06-09,101,Bratwurst,85,0,0,Monday,4.99
+2025-06-09,102,Glühwein,2,0,0,Monday,8.5
+2025-06-09,103,Pretzel,114,0,0,Monday,1.2
+2025-06-09,104,German Beer (6-pack),143,0,0,Monday,12.99
+2025-06-10,101,Bratwurst,82,0,0,Tuesday,4.99
+2025-06-10,102,Glühwein,2,0,0,Tuesday,8.5
+2025-06-10,103,Pretzel,110,0,0,Tuesday,1.2
+2025-06-10,104,German Beer (6-pack),121,0,0,Tuesday,12.99
+2025-06-11,101,Bratwurst,84,0,0,Wednesday,4.99
+2025-06-11,102,Glühwein,2,0,0,Wednesday,8.5
+2025-06-11,103,Pretzel,137,0,0,Wednesday,1.2
+2025-06-11,104,German Beer (6-pack),135,0,0,Wednesday,12.99
+2025-06-12,101,Bratwurst,90,0,0,Thursday,4.99
+2025-06-12,102,Glühwein,2,0,0,Thursday,8.5
+2025-06-12,103,Pretzel,134,0,0,Thursday,1.2
+2025-06-12,104,German Beer (6-pack),135,0,0,Thursday,12.99
+2025-06-13,101,Bratwurst,108,0,0,Friday,4.99
+2025-06-13,102,Glühwein,3,0,0,Friday,8.5
+2025-06-13,103,Pretzel,158,0,0,Friday,1.2
+2025-06-13,104,German Beer (6-pack),231,0,0,Friday,12.99
+2025-06-14,101,Bratwurst,114,0,0,Saturday,4.99
+2025-06-14,102,Glühwein,3,0,0,Saturday,8.5
+2025-06-14,103,Pretzel,183,0,0,Saturday,1.2
+2025-06-14,104,German Beer (6-pack),211,0,0,Saturday,12.99
+2025-06-15,101,Bratwurst,0,0,0,Sunday,4.99
+2025-06-15,102,Glühwein,0,0,0,Sunday,8.5
+2025-06-15,103,Pretzel,0,0,0,Sunday,1.2
+2025-06-15,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-06-16,101,Bratwurst,76,0,0,Monday,4.99
+2025-06-16,102,Glühwein,2,0,0,Monday,8.5
+2025-06-16,103,Pretzel,126,0,0,Monday,1.2
+2025-06-16,104,German Beer (6-pack),181,0,0,Monday,12.99
+2025-06-17,101,Bratwurst,81,0,0,Tuesday,4.99
+2025-06-17,102,Glühwein,1,0,0,Tuesday,8.5
+2025-06-17,103,Pretzel,117,0,0,Tuesday,1.2
+2025-06-17,104,German Beer (6-pack),157,0,0,Tuesday,12.99
+2025-06-18,101,Bratwurst,86,0,0,Wednesday,4.99
+2025-06-18,102,Glühwein,1,0,0,Wednesday,8.5
+2025-06-18,103,Pretzel,124,0,0,Wednesday,1.2
+2025-06-18,104,German Beer (6-pack),124,0,0,Wednesday,12.99
+2025-06-19,101,Bratwurst,97,0,0,Thursday,4.99
+2025-06-19,102,Glühwein,1,0,0,Thursday,8.5
+2025-06-19,103,Pretzel,88,0,0,Thursday,1.2
+2025-06-19,104,German Beer (6-pack),146,0,0,Thursday,12.99
+2025-06-20,101,Bratwurst,128,0,0,Friday,4.99
+2025-06-20,102,Glühwein,3,0,0,Friday,8.5
+2025-06-20,103,Pretzel,198,0,0,Friday,1.2
+2025-06-20,104,German Beer (6-pack),231,0,0,Friday,12.99
+2025-06-21,101,Bratwurst,110,0,0,Saturday,4.99
+2025-06-21,102,Glühwein,3,0,0,Saturday,8.5
+2025-06-21,103,Pretzel,170,0,0,Saturday,1.2
+2025-06-21,104,German Beer (6-pack),214,0,0,Saturday,12.99
+2025-06-22,101,Bratwurst,0,0,0,Sunday,4.99
+2025-06-22,102,Glühwein,0,0,0,Sunday,8.5
+2025-06-22,103,Pretzel,0,0,0,Sunday,1.2
+2025-06-22,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-06-23,101,Bratwurst,83,0,0,Monday,4.99
+2025-06-23,102,Glühwein,2,0,0,Monday,8.5
+2025-06-23,103,Pretzel,106,0,0,Monday,1.2
+2025-06-23,104,German Beer (6-pack),128,0,0,Monday,12.99
+2025-06-24,101,Bratwurst,100,0,0,Tuesday,4.99
+2025-06-24,102,Glühwein,2,0,0,Tuesday,8.5
+2025-06-24,103,Pretzel,116,0,0,Tuesday,1.2
+2025-06-24,104,German Beer (6-pack),160,0,0,Tuesday,12.99
+2025-06-25,101,Bratwurst,100,0,0,Wednesday,4.99
+2025-06-25,102,Glühwein,1,0,0,Wednesday,8.5
+2025-06-25,103,Pretzel,114,0,0,Wednesday,1.2
+2025-06-25,104,German Beer (6-pack),150,0,0,Wednesday,12.99
+2025-06-26,101,Bratwurst,103,0,0,Thursday,4.99
+2025-06-26,102,Glühwein,1,0,0,Thursday,8.5
+2025-06-26,103,Pretzel,112,0,0,Thursday,1.2
+2025-06-26,104,German Beer (6-pack),147,0,0,Thursday,12.99
+2025-06-27,101,Bratwurst,123,0,0,Friday,4.99
+2025-06-27,102,Glühwein,3,0,0,Friday,8.5
+2025-06-27,103,Pretzel,187,0,0,Friday,1.2
+2025-06-27,104,German Beer (6-pack),246,0,0,Friday,12.99
+2025-06-28,101,Bratwurst,113,0,0,Saturday,4.99
+2025-06-28,102,Glühwein,3,0,0,Saturday,8.5
+2025-06-28,103,Pretzel,197,0,0,Saturday,1.2
+2025-06-28,104,German Beer (6-pack),233,0,0,Saturday,12.99
+2025-06-29,101,Bratwurst,0,0,0,Sunday,4.99
+2025-06-29,102,Glühwein,0,0,0,Sunday,8.5
+2025-06-29,103,Pretzel,0,0,0,Sunday,1.2
+2025-06-29,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-06-30,101,Bratwurst,69,0,0,Monday,4.99
+2025-06-30,102,Glühwein,2,0,0,Monday,8.5
+2025-06-30,103,Pretzel,132,0,0,Monday,1.2
+2025-06-30,104,German Beer (6-pack),158,0,0,Monday,12.99
+2025-07-01,101,Bratwurst,92,0,0,Tuesday,4.99
+2025-07-01,102,Glühwein,2,0,0,Tuesday,8.5
+2025-07-01,103,Pretzel,127,0,0,Tuesday,1.2
+2025-07-01,104,German Beer (6-pack),150,0,0,Tuesday,12.99
+2025-07-02,101,Bratwurst,85,0,0,Wednesday,4.99
+2025-07-02,102,Glühwein,2,0,0,Wednesday,8.5
+2025-07-02,103,Pretzel,104,0,0,Wednesday,1.2
+2025-07-02,104,German Beer (6-pack),126,0,0,Wednesday,12.99
+2025-07-03,101,Bratwurst,93,0,0,Thursday,4.99
+2025-07-03,102,Glühwein,2,0,0,Thursday,8.5
+2025-07-03,103,Pretzel,125,0,0,Thursday,1.2
+2025-07-03,104,German Beer (6-pack),168,0,0,Thursday,12.99
+2025-07-04,101,Bratwurst,102,0,0,Friday,4.99
+2025-07-04,102,Glühwein,2,0,0,Friday,8.5
+2025-07-04,103,Pretzel,188,0,0,Friday,1.2
+2025-07-04,104,German Beer (6-pack),204,0,0,Friday,12.99
+2025-07-05,101,Bratwurst,131,0,0,Saturday,4.99
+2025-07-05,102,Glühwein,2,0,0,Saturday,8.5
+2025-07-05,103,Pretzel,152,0,0,Saturday,1.2
+2025-07-05,104,German Beer (6-pack),208,0,0,Saturday,12.99
+2025-07-06,101,Bratwurst,0,0,0,Sunday,4.99
+2025-07-06,102,Glühwein,0,0,0,Sunday,8.5
+2025-07-06,103,Pretzel,0,0,0,Sunday,1.2
+2025-07-06,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-07-07,101,Bratwurst,94,0,0,Monday,4.99
+2025-07-07,102,Glühwein,2,0,0,Monday,8.5
+2025-07-07,103,Pretzel,120,0,0,Monday,1.2
+2025-07-07,104,German Beer (6-pack),134,0,0,Monday,12.99
+2025-07-08,101,Bratwurst,87,0,0,Tuesday,4.99
+2025-07-08,102,Glühwein,2,0,0,Tuesday,8.5
+2025-07-08,103,Pretzel,122,0,0,Tuesday,1.2
+2025-07-08,104,German Beer (6-pack),163,0,0,Tuesday,12.99
+2025-07-09,101,Bratwurst,85,0,0,Wednesday,4.99
+2025-07-09,102,Glühwein,1,0,0,Wednesday,8.5
+2025-07-09,103,Pretzel,128,0,0,Wednesday,1.2
+2025-07-09,104,German Beer (6-pack),138,0,0,Wednesday,12.99
+2025-07-10,101,Bratwurst,84,0,0,Thursday,4.99
+2025-07-10,102,Glühwein,2,0,0,Thursday,8.5
+2025-07-10,103,Pretzel,133,0,0,Thursday,1.2
+2025-07-10,104,German Beer (6-pack),171,0,0,Thursday,12.99
+2025-07-11,101,Bratwurst,130,0,0,Friday,4.99
+2025-07-11,102,Glühwein,3,0,0,Friday,8.5
+2025-07-11,103,Pretzel,148,0,0,Friday,1.2
+2025-07-11,104,German Beer (6-pack),224,0,0,Friday,12.99
+2025-07-12,101,Bratwurst,151,0,0,Saturday,4.99
+2025-07-12,102,Glühwein,2,0,0,Saturday,8.5
+2025-07-12,103,Pretzel,201,0,0,Saturday,1.2
+2025-07-12,104,German Beer (6-pack),197,0,0,Saturday,12.99
+2025-07-13,101,Bratwurst,0,0,0,Sunday,4.99
+2025-07-13,102,Glühwein,0,0,0,Sunday,8.5
+2025-07-13,103,Pretzel,0,0,0,Sunday,1.2
+2025-07-13,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-07-14,101,Bratwurst,83,0,0,Monday,4.99
+2025-07-14,102,Glühwein,2,0,0,Monday,8.5
+2025-07-14,103,Pretzel,141,0,0,Monday,1.2
+2025-07-14,104,German Beer (6-pack),134,0,0,Monday,12.99
+2025-07-15,101,Bratwurst,88,0,0,Tuesday,4.99
+2025-07-15,102,Glühwein,1,0,0,Tuesday,8.5
+2025-07-15,103,Pretzel,121,0,0,Tuesday,1.2
+2025-07-15,104,German Beer (6-pack),151,0,0,Tuesday,12.99
+2025-07-16,101,Bratwurst,79,0,0,Wednesday,4.99
+2025-07-16,102,Glühwein,2,0,0,Wednesday,8.5
+2025-07-16,103,Pretzel,138,0,0,Wednesday,1.2
+2025-07-16,104,German Beer (6-pack),136,0,0,Wednesday,12.99
+2025-07-17,101,Bratwurst,81,0,0,Thursday,4.99
+2025-07-17,102,Glühwein,1,0,0,Thursday,8.5
+2025-07-17,103,Pretzel,124,0,0,Thursday,1.2
+2025-07-17,104,German Beer (6-pack),143,0,0,Thursday,12.99
+2025-07-18,101,Bratwurst,117,0,0,Friday,4.99
+2025-07-18,102,Glühwein,3,0,0,Friday,8.5
+2025-07-18,103,Pretzel,207,0,0,Friday,1.2
+2025-07-18,104,German Beer (6-pack),202,0,0,Friday,12.99
+2025-07-19,101,Bratwurst,110,0,0,Saturday,4.99
+2025-07-19,102,Glühwein,2,0,0,Saturday,8.5
+2025-07-19,103,Pretzel,153,0,0,Saturday,1.2
+2025-07-19,104,German Beer (6-pack),201,0,0,Saturday,12.99
+2025-07-20,101,Bratwurst,0,0,0,Sunday,4.99
+2025-07-20,102,Glühwein,0,0,0,Sunday,8.5
+2025-07-20,103,Pretzel,0,0,0,Sunday,1.2
+2025-07-20,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-07-21,101,Bratwurst,81,0,0,Monday,4.99
+2025-07-21,102,Glühwein,1,0,0,Monday,8.5
+2025-07-21,103,Pretzel,122,0,0,Monday,1.2
+2025-07-21,104,German Beer (6-pack),144,0,0,Monday,12.99
+2025-07-22,101,Bratwurst,89,0,0,Tuesday,4.99
+2025-07-22,102,Glühwein,2,0,0,Tuesday,8.5
+2025-07-22,103,Pretzel,122,0,0,Tuesday,1.2
+2025-07-22,104,German Beer (6-pack),132,0,0,Tuesday,12.99
+2025-07-23,101,Bratwurst,78,0,0,Wednesday,4.99
+2025-07-23,102,Glühwein,2,0,0,Wednesday,8.5
+2025-07-23,103,Pretzel,129,0,0,Wednesday,1.2
+2025-07-23,104,German Beer (6-pack),127,0,0,Wednesday,12.99
+2025-07-24,101,Bratwurst,75,0,0,Thursday,4.99
+2025-07-24,102,Glühwein,2,0,0,Thursday,8.5
+2025-07-24,103,Pretzel,127,0,0,Thursday,1.2
+2025-07-24,104,German Beer (6-pack),121,0,0,Thursday,12.99
+2025-07-25,101,Bratwurst,142,0,0,Friday,4.99
+2025-07-25,102,Glühwein,3,0,0,Friday,8.5
+2025-07-25,103,Pretzel,187,0,0,Friday,1.2
+2025-07-25,104,German Beer (6-pack),187,0,0,Friday,12.99
+2025-07-26,101,Bratwurst,123,0,0,Saturday,4.99
+2025-07-26,102,Glühwein,3,0,0,Saturday,8.5
+2025-07-26,103,Pretzel,180,0,0,Saturday,1.2
+2025-07-26,104,German Beer (6-pack),210,0,0,Saturday,12.99
+2025-07-27,101,Bratwurst,0,0,0,Sunday,4.99
+2025-07-27,102,Glühwein,0,0,0,Sunday,8.5
+2025-07-27,103,Pretzel,0,0,0,Sunday,1.2
+2025-07-27,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-07-28,101,Bratwurst,89,0,0,Monday,4.99
+2025-07-28,102,Glühwein,2,0,0,Monday,8.5
+2025-07-28,103,Pretzel,115,0,0,Monday,1.2
+2025-07-28,104,German Beer (6-pack),150,0,0,Monday,12.99
+2025-07-29,101,Bratwurst,89,0,0,Tuesday,4.99
+2025-07-29,102,Glühwein,1,0,0,Tuesday,8.5
+2025-07-29,103,Pretzel,122,0,0,Tuesday,1.2
+2025-07-29,104,German Beer (6-pack),138,0,0,Tuesday,12.99
+2025-07-30,101,Bratwurst,75,0,0,Wednesday,4.99
+2025-07-30,102,Glühwein,1,0,0,Wednesday,8.5
+2025-07-30,103,Pretzel,140,0,0,Wednesday,1.2
+2025-07-30,104,German Beer (6-pack),136,0,0,Wednesday,12.99
+2025-07-31,101,Bratwurst,148,1,0,Thursday,4.99
+2025-07-31,102,Glühwein,3,1,0,Thursday,8.5
+2025-07-31,103,Pretzel,146,1,0,Thursday,1.2
+2025-07-31,104,German Beer (6-pack),215,1,0,Thursday,12.99
+2025-08-01,101,Bratwurst,139,0,0,Friday,4.99
+2025-08-01,102,Glühwein,3,0,0,Friday,8.5
+2025-08-01,103,Pretzel,167,0,0,Friday,1.2
+2025-08-01,104,German Beer (6-pack),197,0,0,Friday,12.99
+2025-08-02,101,Bratwurst,134,0,0,Saturday,4.99
+2025-08-02,102,Glühwein,2,0,0,Saturday,8.5
+2025-08-02,103,Pretzel,192,0,0,Saturday,1.2
+2025-08-02,104,German Beer (6-pack),248,0,0,Saturday,12.99
+2025-08-03,101,Bratwurst,0,0,0,Sunday,4.99
+2025-08-03,102,Glühwein,0,0,0,Sunday,8.5
+2025-08-03,103,Pretzel,0,0,0,Sunday,1.2
+2025-08-03,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-08-04,101,Bratwurst,94,0,0,Monday,4.99
+2025-08-04,102,Glühwein,2,0,0,Monday,8.5
+2025-08-04,103,Pretzel,120,0,0,Monday,1.2
+2025-08-04,104,German Beer (6-pack),154,0,0,Monday,12.99
+2025-08-05,101,Bratwurst,102,0,0,Tuesday,4.99
+2025-08-05,102,Glühwein,2,0,0,Tuesday,8.5
+2025-08-05,103,Pretzel,121,0,0,Tuesday,1.2
+2025-08-05,104,German Beer (6-pack),168,0,0,Tuesday,12.99
+2025-08-06,101,Bratwurst,96,0,0,Wednesday,4.99
+2025-08-06,102,Glühwein,1,0,0,Wednesday,8.5
+2025-08-06,103,Pretzel,132,0,0,Wednesday,1.2
+2025-08-06,104,German Beer (6-pack),178,0,0,Wednesday,12.99
+2025-08-07,101,Bratwurst,97,0,0,Thursday,4.99
+2025-08-07,102,Glühwein,1,0,0,Thursday,8.5
+2025-08-07,103,Pretzel,133,0,0,Thursday,1.2
+2025-08-07,104,German Beer (6-pack),153,0,0,Thursday,12.99
+2025-08-08,101,Bratwurst,116,0,0,Friday,4.99
+2025-08-08,102,Glühwein,3,0,0,Friday,8.5
+2025-08-08,103,Pretzel,169,0,0,Friday,1.2
+2025-08-08,104,German Beer (6-pack),253,0,0,Friday,12.99
+2025-08-09,101,Bratwurst,142,0,0,Saturday,4.99
+2025-08-09,102,Glühwein,3,0,0,Saturday,8.5
+2025-08-09,103,Pretzel,171,0,0,Saturday,1.2
+2025-08-09,104,German Beer (6-pack),177,0,0,Saturday,12.99
+2025-08-10,101,Bratwurst,0,1,0,Sunday,4.99
+2025-08-10,102,Glühwein,0,1,0,Sunday,8.5
+2025-08-10,103,Pretzel,0,1,0,Sunday,1.2
+2025-08-10,104,German Beer (6-pack),0,1,0,Sunday,12.99
+2025-08-11,101,Bratwurst,83,0,0,Monday,4.99
+2025-08-11,102,Glühwein,2,0,0,Monday,8.5
+2025-08-11,103,Pretzel,129,0,0,Monday,1.2
+2025-08-11,104,German Beer (6-pack),143,0,0,Monday,12.99
+2025-08-12,101,Bratwurst,85,0,0,Tuesday,4.99
+2025-08-12,102,Glühwein,2,0,0,Tuesday,8.5
+2025-08-12,103,Pretzel,104,0,0,Tuesday,1.2
+2025-08-12,104,German Beer (6-pack),155,0,0,Tuesday,12.99
+2025-08-13,101,Bratwurst,94,0,0,Wednesday,4.99
+2025-08-13,102,Glühwein,1,0,0,Wednesday,8.5
+2025-08-13,103,Pretzel,121,0,0,Wednesday,1.2
+2025-08-13,104,German Beer (6-pack),146,0,0,Wednesday,12.99
+2025-08-14,101,Bratwurst,87,0,0,Thursday,4.99
+2025-08-14,102,Glühwein,1,0,0,Thursday,8.5
+2025-08-14,103,Pretzel,106,0,0,Thursday,1.2
+2025-08-14,104,German Beer (6-pack),132,0,0,Thursday,12.99
+2025-08-15,101,Bratwurst,106,0,0,Friday,4.99
+2025-08-15,102,Glühwein,3,0,0,Friday,8.5
+2025-08-15,103,Pretzel,198,0,0,Friday,1.2
+2025-08-15,104,German Beer (6-pack),205,0,0,Friday,12.99
+2025-08-16,101,Bratwurst,142,0,0,Saturday,4.99
+2025-08-16,102,Glühwein,2,0,0,Saturday,8.5
+2025-08-16,103,Pretzel,177,0,0,Saturday,1.2
+2025-08-16,104,German Beer (6-pack),223,0,0,Saturday,12.99
+2025-08-17,101,Bratwurst,0,0,0,Sunday,4.99
+2025-08-17,102,Glühwein,0,0,0,Sunday,8.5
+2025-08-17,103,Pretzel,0,0,0,Sunday,1.2
+2025-08-17,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-08-18,101,Bratwurst,87,0,0,Monday,4.99
+2025-08-18,102,Glühwein,1,0,0,Monday,8.5
+2025-08-18,103,Pretzel,122,0,0,Monday,1.2
+2025-08-18,104,German Beer (6-pack),186,0,0,Monday,12.99
+2025-08-19,101,Bratwurst,93,0,0,Tuesday,4.99
+2025-08-19,102,Glühwein,2,0,0,Tuesday,8.5
+2025-08-19,103,Pretzel,122,0,0,Tuesday,1.2
+2025-08-19,104,German Beer (6-pack),146,0,0,Tuesday,12.99
+2025-08-20,101,Bratwurst,108,0,0,Wednesday,4.99
+2025-08-20,102,Glühwein,1,0,0,Wednesday,8.5
+2025-08-20,103,Pretzel,125,0,0,Wednesday,1.2
+2025-08-20,104,German Beer (6-pack),130,0,0,Wednesday,12.99
+2025-08-21,101,Bratwurst,80,0,0,Thursday,4.99
+2025-08-21,102,Glühwein,2,0,0,Thursday,8.5
+2025-08-21,103,Pretzel,121,0,0,Thursday,1.2
+2025-08-21,104,German Beer (6-pack),169,0,0,Thursday,12.99
+2025-08-22,101,Bratwurst,125,0,0,Friday,4.99
+2025-08-22,102,Glühwein,2,0,0,Friday,8.5
+2025-08-22,103,Pretzel,176,0,0,Friday,1.2
+2025-08-22,104,German Beer (6-pack),209,0,0,Friday,12.99
+2025-08-23,101,Bratwurst,115,0,0,Saturday,4.99
+2025-08-23,102,Glühwein,3,0,0,Saturday,8.5
+2025-08-23,103,Pretzel,177,0,0,Saturday,1.2
+2025-08-23,104,German Beer (6-pack),203,0,0,Saturday,12.99
+2025-08-24,101,Bratwurst,0,0,0,Sunday,4.99
+2025-08-24,102,Glühwein,0,0,0,Sunday,8.5
+2025-08-24,103,Pretzel,0,0,0,Sunday,1.2
+2025-08-24,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-08-25,101,Bratwurst,91,0,0,Monday,4.99
+2025-08-25,102,Glühwein,2,0,0,Monday,8.5
+2025-08-25,103,Pretzel,94,0,0,Monday,1.2
+2025-08-25,104,German Beer (6-pack),164,0,0,Monday,12.99
+2025-08-26,101,Bratwurst,106,0,0,Tuesday,4.99
+2025-08-26,102,Glühwein,2,0,0,Tuesday,8.5
+2025-08-26,103,Pretzel,109,0,0,Tuesday,1.2
+2025-08-26,104,German Beer (6-pack),151,0,0,Tuesday,12.99
+2025-08-27,101,Bratwurst,99,0,0,Wednesday,4.99
+2025-08-27,102,Glühwein,1,0,0,Wednesday,8.5
+2025-08-27,103,Pretzel,126,0,0,Wednesday,1.2
+2025-08-27,104,German Beer (6-pack),175,0,0,Wednesday,12.99
+2025-08-28,101,Bratwurst,81,0,0,Thursday,4.99
+2025-08-28,102,Glühwein,2,0,0,Thursday,8.5
+2025-08-28,103,Pretzel,109,0,0,Thursday,1.2
+2025-08-28,104,German Beer (6-pack),138,0,0,Thursday,12.99
+2025-08-29,101,Bratwurst,128,0,0,Friday,4.99
+2025-08-29,102,Glühwein,2,0,0,Friday,8.5
+2025-08-29,103,Pretzel,177,0,0,Friday,1.2
+2025-08-29,104,German Beer (6-pack),219,0,0,Friday,12.99
+2025-08-30,101,Bratwurst,130,0,0,Saturday,4.99
+2025-08-30,102,Glühwein,2,0,0,Saturday,8.5
+2025-08-30,103,Pretzel,227,0,0,Saturday,1.2
+2025-08-30,104,German Beer (6-pack),191,0,0,Saturday,12.99
+2025-08-31,101,Bratwurst,0,0,0,Sunday,4.99
+2025-08-31,102,Glühwein,0,0,0,Sunday,8.5
+2025-08-31,103,Pretzel,0,0,0,Sunday,1.2
+2025-08-31,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-09-01,101,Bratwurst,66,0,0,Monday,4.99
+2025-09-01,102,Glühwein,2,0,0,Monday,8.5
+2025-09-01,103,Pretzel,124,0,0,Monday,1.2
+2025-09-01,104,German Beer (6-pack),108,0,0,Monday,12.99
+2025-09-02,101,Bratwurst,51,0,0,Tuesday,4.99
+2025-09-02,102,Glühwein,1,0,0,Tuesday,8.5
+2025-09-02,103,Pretzel,117,0,0,Tuesday,1.2
+2025-09-02,104,German Beer (6-pack),118,0,0,Tuesday,12.99
+2025-09-03,101,Bratwurst,59,0,0,Wednesday,4.99
+2025-09-03,102,Glühwein,1,0,0,Wednesday,8.5
+2025-09-03,103,Pretzel,134,0,0,Wednesday,1.2
+2025-09-03,104,German Beer (6-pack),99,0,0,Wednesday,12.99
+2025-09-04,101,Bratwurst,63,0,0,Thursday,4.99
+2025-09-04,102,Glühwein,2,0,0,Thursday,8.5
+2025-09-04,103,Pretzel,125,0,0,Thursday,1.2
+2025-09-04,104,German Beer (6-pack),104,0,0,Thursday,12.99
+2025-09-05,101,Bratwurst,91,0,0,Friday,4.99
+2025-09-05,102,Glühwein,3,0,0,Friday,8.5
+2025-09-05,103,Pretzel,201,0,0,Friday,1.2
+2025-09-05,104,German Beer (6-pack),148,0,0,Friday,12.99
+2025-09-06,101,Bratwurst,86,0,0,Saturday,4.99
+2025-09-06,102,Glühwein,2,0,0,Saturday,8.5
+2025-09-06,103,Pretzel,157,0,0,Saturday,1.2
+2025-09-06,104,German Beer (6-pack),133,0,0,Saturday,12.99
+2025-09-07,101,Bratwurst,0,0,0,Sunday,4.99
+2025-09-07,102,Glühwein,0,0,0,Sunday,8.5
+2025-09-07,103,Pretzel,0,0,0,Sunday,1.2
+2025-09-07,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-09-08,101,Bratwurst,76,0,0,Monday,4.99
+2025-09-08,102,Glühwein,1,0,0,Monday,8.5
+2025-09-08,103,Pretzel,135,0,0,Monday,1.2
+2025-09-08,104,German Beer (6-pack),114,0,0,Monday,12.99
+2025-09-09,101,Bratwurst,96,1,0,Tuesday,4.99
+2025-09-09,102,Glühwein,2,1,0,Tuesday,8.5
+2025-09-09,103,Pretzel,164,1,0,Tuesday,1.2
+2025-09-09,104,German Beer (6-pack),145,1,0,Tuesday,12.99
+2025-09-10,101,Bratwurst,66,0,0,Wednesday,4.99
+2025-09-10,102,Glühwein,2,0,0,Wednesday,8.5
+2025-09-10,103,Pretzel,136,0,0,Wednesday,1.2
+2025-09-10,104,German Beer (6-pack),108,0,0,Wednesday,12.99
+2025-09-11,101,Bratwurst,65,0,0,Thursday,4.99
+2025-09-11,102,Glühwein,2,0,0,Thursday,8.5
+2025-09-11,103,Pretzel,124,0,0,Thursday,1.2
+2025-09-11,104,German Beer (6-pack),95,0,0,Thursday,12.99
+2025-09-12,101,Bratwurst,90,0,0,Friday,4.99
+2025-09-12,102,Glühwein,3,0,0,Friday,8.5
+2025-09-12,103,Pretzel,182,0,0,Friday,1.2
+2025-09-12,104,German Beer (6-pack),154,0,0,Friday,12.99
+2025-09-13,101,Bratwurst,99,0,0,Saturday,4.99
+2025-09-13,102,Glühwein,3,0,0,Saturday,8.5
+2025-09-13,103,Pretzel,210,0,0,Saturday,1.2
+2025-09-13,104,German Beer (6-pack),172,0,0,Saturday,12.99
+2025-09-14,101,Bratwurst,0,0,0,Sunday,4.99
+2025-09-14,102,Glühwein,0,0,0,Sunday,8.5
+2025-09-14,103,Pretzel,0,0,0,Sunday,1.2
+2025-09-14,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-09-15,101,Bratwurst,58,0,0,Monday,4.99
+2025-09-15,102,Glühwein,2,0,0,Monday,8.5
+2025-09-15,103,Pretzel,141,0,0,Monday,1.2
+2025-09-15,104,German Beer (6-pack),101,0,0,Monday,12.99
+2025-09-16,101,Bratwurst,60,0,0,Tuesday,4.99
+2025-09-16,102,Glühwein,1,0,0,Tuesday,8.5
+2025-09-16,103,Pretzel,110,0,0,Tuesday,1.2
+2025-09-16,104,German Beer (6-pack),96,0,0,Tuesday,12.99
+2025-09-17,101,Bratwurst,65,0,0,Wednesday,4.99
+2025-09-17,102,Glühwein,2,0,0,Wednesday,8.5
+2025-09-17,103,Pretzel,109,0,0,Wednesday,1.2
+2025-09-17,104,German Beer (6-pack),119,0,0,Wednesday,12.99
+2025-09-18,101,Bratwurst,72,0,0,Thursday,4.99
+2025-09-18,102,Glühwein,2,0,0,Thursday,8.5
+2025-09-18,103,Pretzel,131,0,0,Thursday,1.2
+2025-09-18,104,German Beer (6-pack),92,0,0,Thursday,12.99
+2025-09-19,101,Bratwurst,99,0,0,Friday,4.99
+2025-09-19,102,Glühwein,3,0,0,Friday,8.5
+2025-09-19,103,Pretzel,158,0,0,Friday,1.2
+2025-09-19,104,German Beer (6-pack),142,0,0,Friday,12.99
+2025-09-20,101,Bratwurst,87,0,0,Saturday,4.99
+2025-09-20,102,Glühwein,3,0,0,Saturday,8.5
+2025-09-20,103,Pretzel,152,0,0,Saturday,1.2
+2025-09-20,104,German Beer (6-pack),165,0,0,Saturday,12.99
+2025-09-21,101,Bratwurst,0,0,0,Sunday,4.99
+2025-09-21,102,Glühwein,0,0,0,Sunday,8.5
+2025-09-21,103,Pretzel,0,0,0,Sunday,1.2
+2025-09-21,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-09-22,101,Bratwurst,69,0,0,Monday,4.99
+2025-09-22,102,Glühwein,2,0,0,Monday,8.5
+2025-09-22,103,Pretzel,108,0,0,Monday,1.2
+2025-09-22,104,German Beer (6-pack),118,0,0,Monday,12.99
+2025-09-23,101,Bratwurst,67,0,0,Tuesday,4.99
+2025-09-23,102,Glühwein,1,0,0,Tuesday,8.5
+2025-09-23,103,Pretzel,121,0,0,Tuesday,1.2
+2025-09-23,104,German Beer (6-pack),101,0,0,Tuesday,12.99
+2025-09-24,101,Bratwurst,69,0,0,Wednesday,4.99
+2025-09-24,102,Glühwein,1,0,0,Wednesday,8.5
+2025-09-24,103,Pretzel,114,0,0,Wednesday,1.2
+2025-09-24,104,German Beer (6-pack),110,0,0,Wednesday,12.99
+2025-09-25,101,Bratwurst,69,0,0,Thursday,4.99
+2025-09-25,102,Glühwein,2,0,0,Thursday,8.5
+2025-09-25,103,Pretzel,107,0,0,Thursday,1.2
+2025-09-25,104,German Beer (6-pack),101,0,0,Thursday,12.99
+2025-09-26,101,Bratwurst,153,1,0,Friday,4.99
+2025-09-26,102,Glühwein,3,1,0,Friday,8.5
+2025-09-26,103,Pretzel,206,1,0,Friday,1.2
+2025-09-26,104,German Beer (6-pack),232,1,0,Friday,12.99
+2025-09-27,101,Bratwurst,103,0,0,Saturday,4.99
+2025-09-27,102,Glühwein,3,0,0,Saturday,8.5
+2025-09-27,103,Pretzel,186,0,0,Saturday,1.2
+2025-09-27,104,German Beer (6-pack),173,0,0,Saturday,12.99
+2025-09-28,101,Bratwurst,0,0,0,Sunday,4.99
+2025-09-28,102,Glühwein,0,0,0,Sunday,8.5
+2025-09-28,103,Pretzel,0,0,0,Sunday,1.2
+2025-09-28,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-09-29,101,Bratwurst,66,0,0,Monday,4.99
+2025-09-29,102,Glühwein,2,0,0,Monday,8.5
+2025-09-29,103,Pretzel,121,0,0,Monday,1.2
+2025-09-29,104,German Beer (6-pack),104,0,0,Monday,12.99
+2025-09-30,101,Bratwurst,76,0,0,Tuesday,4.99
+2025-09-30,102,Glühwein,1,0,0,Tuesday,8.5
+2025-09-30,103,Pretzel,103,0,0,Tuesday,1.2
+2025-09-30,104,German Beer (6-pack),98,0,0,Tuesday,12.99
+2025-10-01,101,Bratwurst,51,0,0,Wednesday,4.99
+2025-10-01,102,Glühwein,1,0,0,Wednesday,8.5
+2025-10-01,103,Pretzel,127,0,0,Wednesday,1.2
+2025-10-01,104,German Beer (6-pack),87,0,0,Wednesday,12.99
+2025-10-02,101,Bratwurst,49,0,0,Thursday,4.99
+2025-10-02,102,Glühwein,1,0,0,Thursday,8.5
+2025-10-02,103,Pretzel,134,0,0,Thursday,1.2
+2025-10-02,104,German Beer (6-pack),89,0,0,Thursday,12.99
+2025-10-03,101,Bratwurst,89,0,1,Friday,4.99
+2025-10-03,102,Glühwein,3,0,1,Friday,8.5
+2025-10-03,103,Pretzel,198,0,1,Friday,1.2
+2025-10-03,104,German Beer (6-pack),136,0,1,Friday,12.99
+2025-10-04,101,Bratwurst,78,0,0,Saturday,4.99
+2025-10-04,102,Glühwein,2,0,0,Saturday,8.5
+2025-10-04,103,Pretzel,158,0,0,Saturday,1.2
+2025-10-04,104,German Beer (6-pack),124,0,0,Saturday,12.99
+2025-10-05,101,Bratwurst,0,0,0,Sunday,4.99
+2025-10-05,102,Glühwein,0,0,0,Sunday,8.5
+2025-10-05,103,Pretzel,0,0,0,Sunday,1.2
+2025-10-05,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-10-06,101,Bratwurst,54,0,0,Monday,4.99
+2025-10-06,102,Glühwein,2,0,0,Monday,8.5
+2025-10-06,103,Pretzel,126,0,0,Monday,1.2
+2025-10-06,104,German Beer (6-pack),90,0,0,Monday,12.99
+2025-10-07,101,Bratwurst,52,0,0,Tuesday,4.99
+2025-10-07,102,Glühwein,2,0,0,Tuesday,8.5
+2025-10-07,103,Pretzel,120,0,0,Tuesday,1.2
+2025-10-07,104,German Beer (6-pack),84,0,0,Tuesday,12.99
+2025-10-08,101,Bratwurst,44,0,0,Wednesday,4.99
+2025-10-08,102,Glühwein,1,0,0,Wednesday,8.5
+2025-10-08,103,Pretzel,100,0,0,Wednesday,1.2
+2025-10-08,104,German Beer (6-pack),84,0,0,Wednesday,12.99
+2025-10-09,101,Bratwurst,58,0,0,Thursday,4.99
+2025-10-09,102,Glühwein,2,0,0,Thursday,8.5
+2025-10-09,103,Pretzel,114,0,0,Thursday,1.2
+2025-10-09,104,German Beer (6-pack),78,0,0,Thursday,12.99
+2025-10-10,101,Bratwurst,96,1,0,Friday,4.99
+2025-10-10,102,Glühwein,4,1,0,Friday,8.5
+2025-10-10,103,Pretzel,275,1,0,Friday,1.2
+2025-10-10,104,German Beer (6-pack),172,1,0,Friday,12.99
+2025-10-11,101,Bratwurst,66,0,0,Saturday,4.99
+2025-10-11,102,Glühwein,3,0,0,Saturday,8.5
+2025-10-11,103,Pretzel,191,0,0,Saturday,1.2
+2025-10-11,104,German Beer (6-pack),110,0,0,Saturday,12.99
+2025-10-12,101,Bratwurst,0,0,0,Sunday,4.99
+2025-10-12,102,Glühwein,0,0,0,Sunday,8.5
+2025-10-12,103,Pretzel,0,0,0,Sunday,1.2
+2025-10-12,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-10-13,101,Bratwurst,51,0,0,Monday,4.99
+2025-10-13,102,Glühwein,2,0,0,Monday,8.5
+2025-10-13,103,Pretzel,119,0,0,Monday,1.2
+2025-10-13,104,German Beer (6-pack),83,0,0,Monday,12.99
+2025-10-14,101,Bratwurst,49,0,0,Tuesday,4.99
+2025-10-14,102,Glühwein,1,0,0,Tuesday,8.5
+2025-10-14,103,Pretzel,124,0,0,Tuesday,1.2
+2025-10-14,104,German Beer (6-pack),82,0,0,Tuesday,12.99
+2025-10-15,101,Bratwurst,48,0,0,Wednesday,4.99
+2025-10-15,102,Glühwein,1,0,0,Wednesday,8.5
+2025-10-15,103,Pretzel,117,0,0,Wednesday,1.2
+2025-10-15,104,German Beer (6-pack),67,0,0,Wednesday,12.99
+2025-10-16,101,Bratwurst,41,0,0,Thursday,4.99
+2025-10-16,102,Glühwein,1,0,0,Thursday,8.5
+2025-10-16,103,Pretzel,112,0,0,Thursday,1.2
+2025-10-16,104,German Beer (6-pack),88,0,0,Thursday,12.99
+2025-10-17,101,Bratwurst,71,0,0,Friday,4.99
+2025-10-17,102,Glühwein,2,0,0,Friday,8.5
+2025-10-17,103,Pretzel,166,0,0,Friday,1.2
+2025-10-17,104,German Beer (6-pack),104,0,0,Friday,12.99
+2025-10-18,101,Bratwurst,72,0,0,Saturday,4.99
+2025-10-18,102,Glühwein,3,0,0,Saturday,8.5
+2025-10-18,103,Pretzel,195,0,0,Saturday,1.2
+2025-10-18,104,German Beer (6-pack),115,0,0,Saturday,12.99
+2025-10-19,101,Bratwurst,0,0,0,Sunday,4.99
+2025-10-19,102,Glühwein,0,0,0,Sunday,8.5
+2025-10-19,103,Pretzel,0,0,0,Sunday,1.2
+2025-10-19,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-10-20,101,Bratwurst,40,0,0,Monday,4.99
+2025-10-20,102,Glühwein,1,0,0,Monday,8.5
+2025-10-20,103,Pretzel,136,0,0,Monday,1.2
+2025-10-20,104,German Beer (6-pack),82,0,0,Monday,12.99
+2025-10-21,101,Bratwurst,50,0,0,Tuesday,4.99
+2025-10-21,102,Glühwein,2,0,0,Tuesday,8.5
+2025-10-21,103,Pretzel,124,0,0,Tuesday,1.2
+2025-10-21,104,German Beer (6-pack),71,0,0,Tuesday,12.99
+2025-10-22,101,Bratwurst,45,0,0,Wednesday,4.99
+2025-10-22,102,Glühwein,1,0,0,Wednesday,8.5
+2025-10-22,103,Pretzel,97,0,0,Wednesday,1.2
+2025-10-22,104,German Beer (6-pack),76,0,0,Wednesday,12.99
+2025-10-23,101,Bratwurst,49,0,0,Thursday,4.99
+2025-10-23,102,Glühwein,1,0,0,Thursday,8.5
+2025-10-23,103,Pretzel,140,0,0,Thursday,1.2
+2025-10-23,104,German Beer (6-pack),77,0,0,Thursday,12.99
+2025-10-24,101,Bratwurst,83,0,0,Friday,4.99
+2025-10-24,102,Glühwein,3,0,0,Friday,8.5
+2025-10-24,103,Pretzel,172,0,0,Friday,1.2
+2025-10-24,104,German Beer (6-pack),129,0,0,Friday,12.99
+2025-10-25,101,Bratwurst,72,0,0,Saturday,4.99
+2025-10-25,102,Glühwein,3,0,0,Saturday,8.5
+2025-10-25,103,Pretzel,179,0,0,Saturday,1.2
+2025-10-25,104,German Beer (6-pack),103,0,0,Saturday,12.99
+2025-10-26,101,Bratwurst,0,0,0,Sunday,4.99
+2025-10-26,102,Glühwein,0,0,0,Sunday,8.5
+2025-10-26,103,Pretzel,0,0,0,Sunday,1.2
+2025-10-26,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-10-27,101,Bratwurst,56,0,0,Monday,4.99
+2025-10-27,102,Glühwein,1,0,0,Monday,8.5
+2025-10-27,103,Pretzel,131,0,0,Monday,1.2
+2025-10-27,104,German Beer (6-pack),77,0,0,Monday,12.99
+2025-10-28,101,Bratwurst,47,0,0,Tuesday,4.99
+2025-10-28,102,Glühwein,1,0,0,Tuesday,8.5
+2025-10-28,103,Pretzel,114,0,0,Tuesday,1.2
+2025-10-28,104,German Beer (6-pack),82,0,0,Tuesday,12.99
+2025-10-29,101,Bratwurst,59,0,0,Wednesday,4.99
+2025-10-29,102,Glühwein,2,0,0,Wednesday,8.5
+2025-10-29,103,Pretzel,146,0,0,Wednesday,1.2
+2025-10-29,104,German Beer (6-pack),78,0,0,Wednesday,12.99
+2025-10-30,101,Bratwurst,39,0,0,Thursday,4.99
+2025-10-30,102,Glühwein,2,0,0,Thursday,8.5
+2025-10-30,103,Pretzel,109,0,0,Thursday,1.2
+2025-10-30,104,German Beer (6-pack),83,0,0,Thursday,12.99
+2025-10-31,101,Bratwurst,70,0,0,Friday,4.99
+2025-10-31,102,Glühwein,2,0,0,Friday,8.5
+2025-10-31,103,Pretzel,169,0,0,Friday,1.2
+2025-10-31,104,German Beer (6-pack),113,0,0,Friday,12.99
+2025-11-01,101,Bratwurst,77,0,0,Saturday,4.99
+2025-11-01,102,Glühwein,58,0,0,Saturday,8.5
+2025-11-01,103,Pretzel,181,0,0,Saturday,1.2
+2025-11-01,104,German Beer (6-pack),125,0,0,Saturday,12.99
+2025-11-02,101,Bratwurst,0,0,0,Sunday,4.99
+2025-11-02,102,Glühwein,0,0,0,Sunday,8.5
+2025-11-02,103,Pretzel,0,0,0,Sunday,1.2
+2025-11-02,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-11-03,101,Bratwurst,47,0,0,Monday,4.99
+2025-11-03,102,Glühwein,44,0,0,Monday,8.5
+2025-11-03,103,Pretzel,121,0,0,Monday,1.2
+2025-11-03,104,German Beer (6-pack),73,0,0,Monday,12.99
+2025-11-04,101,Bratwurst,47,0,0,Tuesday,4.99
+2025-11-04,102,Glühwein,41,0,0,Tuesday,8.5
+2025-11-04,103,Pretzel,106,0,0,Tuesday,1.2
+2025-11-04,104,German Beer (6-pack),85,0,0,Tuesday,12.99
+2025-11-05,101,Bratwurst,48,0,0,Wednesday,4.99
+2025-11-05,102,Glühwein,42,0,0,Wednesday,8.5
+2025-11-05,103,Pretzel,123,0,0,Wednesday,1.2
+2025-11-05,104,German Beer (6-pack),83,0,0,Wednesday,12.99
+2025-11-06,101,Bratwurst,46,0,0,Thursday,4.99
+2025-11-06,102,Glühwein,41,0,0,Thursday,8.5
+2025-11-06,103,Pretzel,94,0,0,Thursday,1.2
+2025-11-06,104,German Beer (6-pack),75,0,0,Thursday,12.99
+2025-11-07,101,Bratwurst,81,0,0,Friday,4.99
+2025-11-07,102,Glühwein,59,0,0,Friday,8.5
+2025-11-07,103,Pretzel,168,0,0,Friday,1.2
+2025-11-07,104,German Beer (6-pack),111,0,0,Friday,12.99
+2025-11-08,101,Bratwurst,58,0,0,Saturday,4.99
+2025-11-08,102,Glühwein,47,0,0,Saturday,8.5
+2025-11-08,103,Pretzel,169,0,0,Saturday,1.2
+2025-11-08,104,German Beer (6-pack),125,0,0,Saturday,12.99
+2025-11-09,101,Bratwurst,0,0,0,Sunday,4.99
+2025-11-09,102,Glühwein,0,0,0,Sunday,8.5
+2025-11-09,103,Pretzel,0,0,0,Sunday,1.2
+2025-11-09,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-11-10,101,Bratwurst,47,0,0,Monday,4.99
+2025-11-10,102,Glühwein,45,0,0,Monday,8.5
+2025-11-10,103,Pretzel,115,0,0,Monday,1.2
+2025-11-10,104,German Beer (6-pack),83,0,0,Monday,12.99
+2025-11-11,101,Bratwurst,65,1,0,Tuesday,4.99
+2025-11-11,102,Glühwein,49,1,0,Tuesday,8.5
+2025-11-11,103,Pretzel,208,1,0,Tuesday,1.2
+2025-11-11,104,German Beer (6-pack),114,1,0,Tuesday,12.99
+2025-11-12,101,Bratwurst,52,0,0,Wednesday,4.99
+2025-11-12,102,Glühwein,55,0,0,Wednesday,8.5
+2025-11-12,103,Pretzel,94,0,0,Wednesday,1.2
+2025-11-12,104,German Beer (6-pack),93,0,0,Wednesday,12.99
+2025-11-13,101,Bratwurst,42,0,0,Thursday,4.99
+2025-11-13,102,Glühwein,38,0,0,Thursday,8.5
+2025-11-13,103,Pretzel,122,0,0,Thursday,1.2
+2025-11-13,104,German Beer (6-pack),72,0,0,Thursday,12.99
+2025-11-14,101,Bratwurst,71,0,0,Friday,4.99
+2025-11-14,102,Glühwein,53,0,0,Friday,8.5
+2025-11-14,103,Pretzel,171,0,0,Friday,1.2
+2025-11-14,104,German Beer (6-pack),135,0,0,Friday,12.99
+2025-11-15,101,Bratwurst,77,0,0,Saturday,4.99
+2025-11-15,102,Glühwein,57,0,0,Saturday,8.5
+2025-11-15,103,Pretzel,193,0,0,Saturday,1.2
+2025-11-15,104,German Beer (6-pack),106,0,0,Saturday,12.99
+2025-11-16,101,Bratwurst,0,0,0,Sunday,4.99
+2025-11-16,102,Glühwein,0,0,0,Sunday,8.5
+2025-11-16,103,Pretzel,0,0,0,Sunday,1.2
+2025-11-16,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-11-17,101,Bratwurst,46,0,0,Monday,4.99
+2025-11-17,102,Glühwein,39,0,0,Monday,8.5
+2025-11-17,103,Pretzel,138,0,0,Monday,1.2
+2025-11-17,104,German Beer (6-pack),81,0,0,Monday,12.99
+2025-11-18,101,Bratwurst,49,0,0,Tuesday,4.99
+2025-11-18,102,Glühwein,39,0,0,Tuesday,8.5
+2025-11-18,103,Pretzel,121,0,0,Tuesday,1.2
+2025-11-18,104,German Beer (6-pack),82,0,0,Tuesday,12.99
+2025-11-19,101,Bratwurst,53,0,0,Wednesday,4.99
+2025-11-19,102,Glühwein,34,0,0,Wednesday,8.5
+2025-11-19,103,Pretzel,105,0,0,Wednesday,1.2
+2025-11-19,104,German Beer (6-pack),89,0,0,Wednesday,12.99
+2025-11-20,101,Bratwurst,45,0,0,Thursday,4.99
+2025-11-20,102,Glühwein,43,0,0,Thursday,8.5
+2025-11-20,103,Pretzel,130,0,0,Thursday,1.2
+2025-11-20,104,German Beer (6-pack),91,0,0,Thursday,12.99
+2025-11-21,101,Bratwurst,66,0,0,Friday,4.99
+2025-11-21,102,Glühwein,52,0,0,Friday,8.5
+2025-11-21,103,Pretzel,178,0,0,Friday,1.2
+2025-11-21,104,German Beer (6-pack),110,0,0,Friday,12.99
+2025-11-22,101,Bratwurst,82,0,0,Saturday,4.99
+2025-11-22,102,Glühwein,57,0,0,Saturday,8.5
+2025-11-22,103,Pretzel,191,0,0,Saturday,1.2
+2025-11-22,104,German Beer (6-pack),117,0,0,Saturday,12.99
+2025-11-23,101,Bratwurst,0,0,0,Sunday,4.99
+2025-11-23,102,Glühwein,0,0,0,Sunday,8.5
+2025-11-23,103,Pretzel,0,0,0,Sunday,1.2
+2025-11-23,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-11-24,101,Bratwurst,51,0,0,Monday,4.99
+2025-11-24,102,Glühwein,35,0,0,Monday,8.5
+2025-11-24,103,Pretzel,121,0,0,Monday,1.2
+2025-11-24,104,German Beer (6-pack),56,0,0,Monday,12.99
+2025-11-25,101,Bratwurst,60,0,0,Tuesday,4.99
+2025-11-25,102,Glühwein,38,0,0,Tuesday,8.5
+2025-11-25,103,Pretzel,129,0,0,Tuesday,1.2
+2025-11-25,104,German Beer (6-pack),86,0,0,Tuesday,12.99
+2025-11-26,101,Bratwurst,45,0,0,Wednesday,4.99
+2025-11-26,102,Glühwein,46,0,0,Wednesday,8.5
+2025-11-26,103,Pretzel,131,0,0,Wednesday,1.2
+2025-11-26,104,German Beer (6-pack),78,0,0,Wednesday,12.99
+2025-11-27,101,Bratwurst,48,0,0,Thursday,4.99
+2025-11-27,102,Glühwein,42,0,0,Thursday,8.5
+2025-11-27,103,Pretzel,106,0,0,Thursday,1.2
+2025-11-27,104,German Beer (6-pack),87,0,0,Thursday,12.99
+2025-11-28,101,Bratwurst,71,0,0,Friday,4.99
+2025-11-28,102,Glühwein,53,0,0,Friday,8.5
+2025-11-28,103,Pretzel,202,0,0,Friday,1.2
+2025-11-28,104,German Beer (6-pack),116,0,0,Friday,12.99
+2025-11-29,101,Bratwurst,76,0,0,Saturday,4.99
+2025-11-29,102,Glühwein,70,0,0,Saturday,8.5
+2025-11-29,103,Pretzel,178,0,0,Saturday,1.2
+2025-11-29,104,German Beer (6-pack),97,0,0,Saturday,12.99
+2025-11-30,101,Bratwurst,0,0,0,Sunday,4.99
+2025-11-30,102,Glühwein,0,0,0,Sunday,8.5
+2025-11-30,103,Pretzel,0,0,0,Sunday,1.2
+2025-11-30,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-12-01,101,Bratwurst,43,0,0,Monday,4.99
+2025-12-01,102,Glühwein,39,0,0,Monday,8.5
+2025-12-01,103,Pretzel,121,0,0,Monday,1.2
+2025-12-01,104,German Beer (6-pack),71,0,0,Monday,12.99
+2025-12-02,101,Bratwurst,56,0,0,Tuesday,4.99
+2025-12-02,102,Glühwein,36,0,0,Tuesday,8.5
+2025-12-02,103,Pretzel,126,0,0,Tuesday,1.2
+2025-12-02,104,German Beer (6-pack),81,0,0,Tuesday,12.99
+2025-12-03,101,Bratwurst,59,0,0,Wednesday,4.99
+2025-12-03,102,Glühwein,43,0,0,Wednesday,8.5
+2025-12-03,103,Pretzel,117,0,0,Wednesday,1.2
+2025-12-03,104,German Beer (6-pack),86,0,0,Wednesday,12.99
+2025-12-04,101,Bratwurst,49,0,0,Thursday,4.99
+2025-12-04,102,Glühwein,40,0,0,Thursday,8.5
+2025-12-04,103,Pretzel,106,0,0,Thursday,1.2
+2025-12-04,104,German Beer (6-pack),99,0,0,Thursday,12.99
+2025-12-05,101,Bratwurst,76,0,0,Friday,4.99
+2025-12-05,102,Glühwein,55,0,0,Friday,8.5
+2025-12-05,103,Pretzel,187,0,0,Friday,1.2
+2025-12-05,104,German Beer (6-pack),144,0,0,Friday,12.99
+2025-12-06,101,Bratwurst,76,0,0,Saturday,4.99
+2025-12-06,102,Glühwein,52,0,0,Saturday,8.5
+2025-12-06,103,Pretzel,186,0,0,Saturday,1.2
+2025-12-06,104,German Beer (6-pack),118,0,0,Saturday,12.99
+2025-12-07,101,Bratwurst,0,0,0,Sunday,4.99
+2025-12-07,102,Glühwein,0,0,0,Sunday,8.5
+2025-12-07,103,Pretzel,0,0,0,Sunday,1.2
+2025-12-07,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-12-08,101,Bratwurst,40,0,0,Monday,4.99
+2025-12-08,102,Glühwein,36,0,0,Monday,8.5
+2025-12-08,103,Pretzel,115,0,0,Monday,1.2
+2025-12-08,104,German Beer (6-pack),95,0,0,Monday,12.99
+2025-12-09,101,Bratwurst,42,0,0,Tuesday,4.99
+2025-12-09,102,Glühwein,42,0,0,Tuesday,8.5
+2025-12-09,103,Pretzel,97,0,0,Tuesday,1.2
+2025-12-09,104,German Beer (6-pack),88,0,0,Tuesday,12.99
+2025-12-10,101,Bratwurst,49,0,0,Wednesday,4.99
+2025-12-10,102,Glühwein,45,0,0,Wednesday,8.5
+2025-12-10,103,Pretzel,104,0,0,Wednesday,1.2
+2025-12-10,104,German Beer (6-pack),68,0,0,Wednesday,12.99
+2025-12-11,101,Bratwurst,44,0,0,Thursday,4.99
+2025-12-11,102,Glühwein,37,0,0,Thursday,8.5
+2025-12-11,103,Pretzel,119,0,0,Thursday,1.2
+2025-12-11,104,German Beer (6-pack),73,0,0,Thursday,12.99
+2025-12-12,101,Bratwurst,71,0,0,Friday,4.99
+2025-12-12,102,Glühwein,63,0,0,Friday,8.5
+2025-12-12,103,Pretzel,201,0,0,Friday,1.2
+2025-12-12,104,German Beer (6-pack),114,0,0,Friday,12.99
+2025-12-13,101,Bratwurst,69,0,0,Saturday,4.99
+2025-12-13,102,Glühwein,46,0,0,Saturday,8.5
+2025-12-13,103,Pretzel,187,0,0,Saturday,1.2
+2025-12-13,104,German Beer (6-pack),117,0,0,Saturday,12.99
+2025-12-14,101,Bratwurst,0,0,0,Sunday,4.99
+2025-12-14,102,Glühwein,0,0,0,Sunday,8.5
+2025-12-14,103,Pretzel,0,0,0,Sunday,1.2
+2025-12-14,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-12-15,101,Bratwurst,51,0,0,Monday,4.99
+2025-12-15,102,Glühwein,47,0,0,Monday,8.5
+2025-12-15,103,Pretzel,119,0,0,Monday,1.2
+2025-12-15,104,German Beer (6-pack),75,0,0,Monday,12.99
+2025-12-16,101,Bratwurst,52,0,0,Tuesday,4.99
+2025-12-16,102,Glühwein,36,0,0,Tuesday,8.5
+2025-12-16,103,Pretzel,120,0,0,Tuesday,1.2
+2025-12-16,104,German Beer (6-pack),83,0,0,Tuesday,12.99
+2025-12-17,101,Bratwurst,49,0,0,Wednesday,4.99
+2025-12-17,102,Glühwein,37,0,0,Wednesday,8.5
+2025-12-17,103,Pretzel,123,0,0,Wednesday,1.2
+2025-12-17,104,German Beer (6-pack),72,0,0,Wednesday,12.99
+2025-12-18,101,Bratwurst,47,0,0,Thursday,4.99
+2025-12-18,102,Glühwein,40,0,0,Thursday,8.5
+2025-12-18,103,Pretzel,128,0,0,Thursday,1.2
+2025-12-18,104,German Beer (6-pack),63,0,0,Thursday,12.99
+2025-12-19,101,Bratwurst,78,0,0,Friday,4.99
+2025-12-19,102,Glühwein,62,0,0,Friday,8.5
+2025-12-19,103,Pretzel,151,0,0,Friday,1.2
+2025-12-19,104,German Beer (6-pack),136,0,0,Friday,12.99
+2025-12-20,101,Bratwurst,72,0,0,Saturday,4.99
+2025-12-20,102,Glühwein,55,0,0,Saturday,8.5
+2025-12-20,103,Pretzel,211,0,0,Saturday,1.2
+2025-12-20,104,German Beer (6-pack),109,0,0,Saturday,12.99
+2025-12-21,101,Bratwurst,0,0,0,Sunday,4.99
+2025-12-21,102,Glühwein,0,0,0,Sunday,8.5
+2025-12-21,103,Pretzel,0,0,0,Sunday,1.2
+2025-12-21,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-12-22,101,Bratwurst,43,0,0,Monday,4.99
+2025-12-22,102,Glühwein,38,0,0,Monday,8.5
+2025-12-22,103,Pretzel,123,0,0,Monday,1.2
+2025-12-22,104,German Beer (6-pack),77,0,0,Monday,12.99
+2025-12-23,101,Bratwurst,61,1,0,Tuesday,4.99
+2025-12-23,102,Glühwein,54,1,0,Tuesday,8.5
+2025-12-23,103,Pretzel,170,1,0,Tuesday,1.2
+2025-12-23,104,German Beer (6-pack),123,1,0,Tuesday,12.99
+2025-12-24,101,Bratwurst,58,0,0,Wednesday,4.99
+2025-12-24,102,Glühwein,40,0,0,Wednesday,8.5
+2025-12-24,103,Pretzel,122,0,0,Wednesday,1.2
+2025-12-24,104,German Beer (6-pack),85,0,0,Wednesday,12.99
+2025-12-25,101,Bratwurst,57,0,1,Thursday,4.99
+2025-12-25,102,Glühwein,37,0,1,Thursday,8.5
+2025-12-25,103,Pretzel,143,0,1,Thursday,1.2
+2025-12-25,104,German Beer (6-pack),82,0,1,Thursday,12.99
+2025-12-26,101,Bratwurst,80,0,1,Friday,4.99
+2025-12-26,102,Glühwein,63,0,1,Friday,8.5
+2025-12-26,103,Pretzel,184,0,1,Friday,1.2
+2025-12-26,104,German Beer (6-pack),117,0,1,Friday,12.99
+2025-12-27,101,Bratwurst,73,0,0,Saturday,4.99
+2025-12-27,102,Glühwein,66,0,0,Saturday,8.5
+2025-12-27,103,Pretzel,193,0,0,Saturday,1.2
+2025-12-27,104,German Beer (6-pack),117,0,0,Saturday,12.99
+2025-12-28,101,Bratwurst,0,0,0,Sunday,4.99
+2025-12-28,102,Glühwein,0,0,0,Sunday,8.5
+2025-12-28,103,Pretzel,0,0,0,Sunday,1.2
+2025-12-28,104,German Beer (6-pack),0,0,0,Sunday,12.99
+2025-12-29,101,Bratwurst,61,0,0,Monday,4.99
+2025-12-29,102,Glühwein,29,0,0,Monday,8.5
+2025-12-29,103,Pretzel,128,0,0,Monday,1.2
+2025-12-29,104,German Beer (6-pack),65,0,0,Monday,12.99
+2025-12-30,101,Bratwurst,49,0,0,Tuesday,4.99
+2025-12-30,102,Glühwein,41,0,0,Tuesday,8.5
+2025-12-30,103,Pretzel,109,0,0,Tuesday,1.2
+2025-12-30,104,German Beer (6-pack),90,0,0,Tuesday,12.99
+2025-12-31,101,Bratwurst,56,0,0,Wednesday,4.99
+2025-12-31,102,Glühwein,38,0,0,Wednesday,8.5
+2025-12-31,103,Pretzel,120,0,0,Wednesday,1.2
+2025-12-31,104,German Beer (6-pack),77,0,0,Wednesday,12.99
